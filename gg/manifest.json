@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "baseUrl": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg",
+  "revoked": [],
+  "items": [
+    {
+      "id": "patch-replacer",
+      "name": "Patch Replacer | G&G",
+      "description": "Object removal. Draw a mask, fill it from a clone or a blur, and let the point tracker carry it through the shot.",
+      "category": "Cleanup Tools",
+      "target": "edit-effect",
+      "scope": "system",
+      "subfolder": "Grain&Gate/Cleanup Tools | Grain&Gate",
+      "version": "1.33",
+      "size": 5331,
+      "sha256": "a62514c7a58d7dc46a3a49a953d246b0fa6c829ac56db9c16339651c5ff55eb9",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/patch-replacer-1.33.zip"
+    },
+    {
+      "id": "locked-on",
+      "name": "Locked On | G&G",
+      "description": "Track or stabilize from a single point, with a master transform to keep black borders out of frame.",
+      "category": "Tracking Tools",
+      "target": "edit-effect",
+      "scope": "system",
+      "subfolder": "Grain&Gate/Tracking Tools | Grain&Gate",
+      "version": "1.36",
+      "size": 4030,
+      "sha256": "337182f3891b54671273c1c3bc3c456dfb9ac206df8248dbee32bc183a1cd860",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/locked-on-1.36.zip"
+    },
+    {
+      "id": "tracker-pro",
+      "name": "Tracker Pro | G&G",
+      "description": "Planar tracker with corner-pin placement, border controls and a step-by-step workflow.",
+      "category": "Tracking Tools",
+      "target": "edit-effect",
+      "scope": "system",
+      "subfolder": "Grain&Gate/Tracking Tools | Grain&Gate",
+      "version": "1.4",
+      "size": 5987,
+      "sha256": "4eebe782a6ac72e935824e5327ff38a737222cd6a5f607f7452ee42e35563c42",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/tracker-pro-1.4.zip"
+    }
+  ],
+  "updatedAt": "2026-08-12T15:16:35.403Z"
+}
