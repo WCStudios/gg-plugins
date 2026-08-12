@@ -10,7 +10,7 @@
       "category": "Cleanup Tools",
       "target": "edit-effect",
       "scope": "system",
-      "subfolder": "Grain&Gate/Cleanup Tools | Grain&Gate",
+      "subfolder": null,
       "version": "1.33",
       "size": 5331,
       "sha256": "a62514c7a58d7dc46a3a49a953d246b0fa6c829ac56db9c16339651c5ff55eb9",
@@ -23,7 +23,7 @@
       "category": "Tracking Tools",
       "target": "edit-effect",
       "scope": "system",
-      "subfolder": "Grain&Gate/Tracking Tools | Grain&Gate",
+      "subfolder": null,
       "version": "1.36",
       "size": 4030,
       "sha256": "337182f3891b54671273c1c3bc3c456dfb9ac206df8248dbee32bc183a1cd860",
@@ -36,12 +36,12 @@
       "category": "Tracking Tools",
       "target": "edit-effect",
       "scope": "system",
-      "subfolder": "Grain&Gate/Tracking Tools | Grain&Gate",
+      "subfolder": null,
       "version": "1.4",
       "size": 5987,
       "sha256": "4eebe782a6ac72e935824e5327ff38a737222cd6a5f607f7452ee42e35563c42",
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/tracker-pro-1.4.zip"
     }
   ],
-  "updatedAt": "2026-08-12T15:16:35.403Z"
+  "updatedAt": "2026-08-12T15:16:35.000Z"
 }
