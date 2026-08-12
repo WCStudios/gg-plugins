@@ -6,7 +6,7 @@
     {
       "id": "patch-replacer",
       "name": "Patch Replacer | G&G",
-      "description": "Object removal. Draw a mask, fill it from a clone or a blur, and let the point tracker carry it through the shot.",
+      "description": "Object removal — draw a mask, clone or blur the fill, point tracker.",
       "category": "Cleanup Tools",
       "target": "edit-effect",
       "scope": "system",
@@ -14,12 +14,13 @@
       "version": "1.33",
       "size": 5331,
       "sha256": "a62514c7a58d7dc46a3a49a953d246b0fa6c829ac56db9c16339651c5ff55eb9",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/patch-replacer-1.33.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/patch-replacer-1.33.zip",
+      "kind": "Plugins"
     },
     {
       "id": "locked-on",
       "name": "Locked On | G&G",
-      "description": "Track or stabilize from a single point, with a master transform to keep black borders out of frame.",
+      "description": "Single-point track or stabilize, with a master transform.",
       "category": "Tracking Tools",
       "target": "edit-effect",
       "scope": "system",
@@ -27,12 +28,13 @@
       "version": "1.36",
       "size": 4030,
       "sha256": "337182f3891b54671273c1c3bc3c456dfb9ac206df8248dbee32bc183a1cd860",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/locked-on-1.36.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/locked-on-1.36.zip",
+      "kind": "Plugins"
     },
     {
       "id": "tracker-pro",
       "name": "Tracker Pro | G&G",
-      "description": "Planar tracker with corner-pin placement, border controls and a step-by-step workflow.",
+      "description": "Planar tracker with corner-pin placement and border controls.",
       "category": "Tracking Tools",
       "target": "edit-effect",
       "scope": "system",
@@ -40,8 +42,40 @@
       "version": "1.4",
       "size": 5987,
       "sha256": "4eebe782a6ac72e935824e5327ff38a737222cd6a5f607f7452ee42e35563c42",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/tracker-pro-1.4.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/tracker-pro-1.4.zip",
+      "kind": "Plugins"
+    },
+    {
+      "id": "grade-pro",
+      "name": "Grade Pro | G&G",
+      "description": "Camera + LOG conversion, creative looks and client presets, driven by the G&G LUT library.",
+      "kind": "Plugins",
+      "category": "Color Tools",
+      "target": null,
+      "parts": [
+        {
+          "path": "Templates",
+          "target": "edit-effect",
+          "scope": "system"
+        },
+        {
+          "path": "Scripts",
+          "target": "script-utility",
+          "scope": "user"
+        },
+        {
+          "path": "LUT",
+          "target": "lut",
+          "scope": "system"
+        }
+      ],
+      "scope": "user",
+      "subfolder": null,
+      "version": "2.12",
+      "size": 10763655,
+      "sha256": "ba97f6944aa7200ca61601b7a6d2c9cb017b12965bae090a09b7870c8a9ef451",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/grade-pro-2.12.zip"
     }
   ],
-  "updatedAt": "2026-08-12T15:16:35.000Z"
+  "updatedAt": "2026-08-12T16:15:30.111Z"
 }
