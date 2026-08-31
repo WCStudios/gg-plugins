@@ -12,11 +12,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/3D Tools | Grain&Gate",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 6617,
-      "sha256": "487ee831f3eee8fc5b4cce7adc4416336831897efddc5d8767a3a8ef78b93363",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-carousel-1.0.zip"
+      "sha256": "053ebf5f59639512cc97454e17035c96412b212d4d069cca81c815eadf265498",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-carousel-1.1.zip"
     },
     {
       "id": "3d-flat-lay",
@@ -27,11 +27,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/3D Tools | Grain&Gate",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 10629,
-      "sha256": "6313b251d560d1deeccd57b0f2df9cf0ece61301b32feb89f221ec231b46679a",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-flat-lay-1.0.zip"
+      "sha256": "5955a1817fc1f783d590e2d7e4038f9be8ac116b0abbef9ae53590388d7c50bb",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-flat-lay-1.1.zip"
     },
     {
       "id": "3d-grid",
@@ -42,11 +42,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/3D Tools | Grain&Gate",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 11351,
-      "sha256": "ae9bc39817548bb23022fceaf23d11fded5845a4156a350ac99aa3fd63075163",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-grid-1.0.zip"
+      "sha256": "4fe8b405986e76e3a833efc1a7a4161951aaa051dfc9ce116e971dd1914d39c5",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-grid-1.1.zip"
     },
     {
       "id": "3d-studio",
@@ -57,11 +57,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/3D Tools | Grain&Gate",
-      "version": "1.0",
-      "size": 17951,
-      "sha256": "b0c1f9e3ffc017c24272f5432b44a2cb315bef9438881d5a0c7c3a30b92e74bb",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-studio-1.0.zip"
+      "subfolder": null,
+      "version": "1.1",
+      "size": 18029,
+      "sha256": "40375864fbd269ec885640f6e3208284a6a65dc0aa6d02a10e0c4747d088118e",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-studio-1.1.zip"
     },
     {
       "id": "animater",
@@ -72,11 +72,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Motion Tools | Grain&Gate",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 9655,
-      "sha256": "500fc9f301372cfc2323d27b8cbfe6d57eed76268b1452a959fe848bddf2f987",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/animater-1.0.zip"
+      "sha256": "d6b187cb30adb6b9e91aad0ebdca55373a9c03239da2d1d62465b6b8d9e3b6d5",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/animater-1.1.zip"
     },
     {
       "id": "background-lab",
@@ -87,11 +87,11 @@
       "target": "edit-generator",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Generators | Grain&Gate/Lab Presets",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 11169,
-      "sha256": "e78d052240bddeed8632eef92c2fea70feda6e220243d71c5aa4c6bab77390d2",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/background-lab-1.0.zip"
+      "sha256": "412fad05fea097e55cc016ade790bbe68063b61e054983f328031bb4986aee8e",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/background-lab-1.1.zip"
     },
     {
       "id": "camera-layer",
@@ -102,11 +102,11 @@
       "target": "edit-generator",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Generators | Grain&Gate/Layer Presets",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 13567,
-      "sha256": "5f5336c8bb9117747cd847dfa0c88de8125a39f66429cbe57db828665a06778e",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/camera-layer-1.0.zip"
+      "sha256": "321a47e46b4991b713bf9edd74f764bbf43f10a1146e5aafb53ffcaf5b446174",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/camera-layer-1.1.zip"
     },
     {
       "id": "collage-pro",
@@ -117,11 +117,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Style Tools | Grain&Gate",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 19828,
-      "sha256": "627dafa36d2f820b34ab47f46d888d4f62ba33aefb675a6fb06070bc75e79c92",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/collage-pro-1.0.zip"
+      "sha256": "c8db900f4c2f7b71749b34cfee697469166afe01931c3b21428bdf50cb52f73c",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/collage-pro-1.1.zip"
     },
     {
       "id": "counter-text-lab",
@@ -132,11 +132,11 @@
       "target": "edit-title",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Text Tools | Grain&Gate/Title Presets",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 42403,
-      "sha256": "0b36b7212e870a121535bab364fd1832c3867d2d1bf441e999ef2bc6cc3e4d03",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/counter-text-lab-1.0.zip"
+      "sha256": "74976cbbd13192fdf074ca4195675a83e4ef73147054debba3a4d0ab283308cf",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/counter-text-lab-1.1.zip"
     },
     {
       "id": "depth-point-cloud",
@@ -147,11 +147,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/3D Tools | Grain&Gate",
-      "version": "0.9",
+      "subfolder": null,
+      "version": "0.10",
       "size": 7672,
-      "sha256": "ff13646d49dcb3a028b621956423780c4b3c84dcc373f940588596a20575c071",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/depth-point-cloud-0.9.zip"
+      "sha256": "fc16f808f85d3b7ab29d45ef0bfed56ab166e125f6a588279a95e0ebb72c22f8",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/depth-point-cloud-0.10.zip"
     },
     {
       "id": "draw-on-layer",
@@ -162,11 +162,11 @@
       "target": "edit-generator",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Generators | Grain&Gate/Layer Presets",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 5969,
-      "sha256": "d9e5f9a864b9f387ea199cba872863a4102abf1ce0868622935bfcd8808c3392",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/draw-on-layer-1.0.zip"
+      "sha256": "0e0c08d508c7be6a0ea82c03633473be6c5b6287bd268be57206e1ab2ab7868a",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/draw-on-layer-1.1.zip"
     },
     {
       "id": "film-lab",
@@ -177,11 +177,11 @@
       "target": "edit-generator",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Generators | Grain&Gate/Lab Presets",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 6766,
-      "sha256": "b2df02c0fa14cea82f87fc75358eb51d6fda0283c31f3a711f4f3d248c19e57f",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/film-lab-1.0.zip"
+      "sha256": "6736fa5a52151643b9bf0fbe6699132f3c1ec3a30f793b9e3d5c5672a04dff85",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/film-lab-1.1.zip"
     },
     {
       "id": "fisheye-pro",
@@ -192,11 +192,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Lens Tools | Grain&Gate",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 271287,
-      "sha256": "53d6205a4fadd6d912c9650a81055bf8045af5d3bc71112a9c1f39daab96f868",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/fisheye-pro-1.0.zip"
+      "sha256": "f9e6e8d409e4e62c343664cd1c60436bdbd6cbb4f029a97a1ea1bfa57a5987b4",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/fisheye-pro-1.1.zip"
     },
     {
       "id": "fx-lab-gen",
@@ -207,11 +207,11 @@
       "target": "edit-generator",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Generators | Grain&Gate/Lab Presets",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 4738,
-      "sha256": "ebc2aa5dd55c25a6db396315b3540d3ea5b2bbc1429d846efd0dffa0e89366b2",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/fx-lab-gen-1.0.zip"
+      "sha256": "2c95ae39974e6897a7b1d510be389e9d5b2760ab0b0f889d24803dabb4a8c2b6",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/fx-lab-gen-1.1.zip"
     },
     {
       "id": "fx-lab",
@@ -222,11 +222,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Style Tools | Grain&Gate",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 4479,
-      "sha256": "04ce9dfcfcccb9d3eef598b4f7c47ef554b72a7208a322bd686ac8ebbf3a3093",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/fx-lab-1.0.zip"
+      "sha256": "7e01bf99787c6879fc88c6908d6c3eb220fe3f30d24a9686e45cf038eebc6990",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/fx-lab-1.1.zip"
     },
     {
       "id": "generator-layer",
@@ -237,11 +237,11 @@
       "target": "edit-generator",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Generators | Grain&Gate/Layer Presets",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 14571,
-      "sha256": "78b14d31cdefb2ade55e2a7f2a6ffb7994cc58b0466297477df0e97f9a1197f3",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/generator-layer-1.0.zip"
+      "sha256": "38f5afca7ce81f59eb3992b82b051af6cefe6a9738a87bcefe195f9e117dc594",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/generator-layer-1.1.zip"
     },
     {
       "id": "gg-gobos",
@@ -253,10 +253,10 @@
       "parts": null,
       "scope": "user",
       "subfolder": null,
-      "version": "1.0",
+      "version": "1.1",
       "size": 1032001,
       "sha256": "ef080ea66af651ecf2f9d60aced8a59cd992b97466b0520bff61c815b76acf13",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/gg-gobos-1.0.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/gg-gobos-1.1.zip"
     },
     {
       "id": "grade-pro",
@@ -284,10 +284,10 @@
       ],
       "scope": "user",
       "subfolder": null,
-      "version": "2.13",
+      "version": "2.14",
       "size": 10839352,
       "sha256": "6433c9ca12ff9238a50d1720023786fb9a866f8d35f1985f5f3fae5d20910a16",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/grade-pro-2.13.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/grade-pro-2.14.zip"
     },
     {
       "id": "l3rds",
@@ -298,11 +298,11 @@
       "target": "edit-title",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Text Tools | Grain&Gate",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 46319,
-      "sha256": "c15bcd1ed7b23120207784c9154a17ff4c84d1d221cc5914805e1e190348103e",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/l3rds-1.0.zip"
+      "sha256": "f3228454dfbf4834eccc0e26b6dbec7a3795fd4df59582c7b886e2f893a08265",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/l3rds-1.1.zip"
     },
     {
       "id": "locked-on",
@@ -313,11 +313,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Tracking Tools | Grain&Gate",
-      "version": "1.37",
+      "subfolder": null,
+      "version": "1.38",
       "size": 4030,
-      "sha256": "34682e58ea9b6fb429db0d648fd633d60988c1e52028480b8966bb2a78fdbfb0",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/locked-on-1.37.zip"
+      "sha256": "5acceac519331549141f034fa88d31befa2098523605b6fe5ffd7c3d81771159",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/locked-on-1.38.zip"
     },
     {
       "id": "logo-pro",
@@ -328,11 +328,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Style Tools | Grain&Gate",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 6297,
-      "sha256": "915f15d9a4e89925e6aa6ef1c2c406de39823c6b9d3310b74a9c823f3cd3c2f7",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/logo-pro-1.0.zip"
+      "sha256": "f87b62476ce92f96ed0d500168c6a10338bcc9d9ee303bb56a2b15a5c508f471",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/logo-pro-1.1.zip"
     },
     {
       "id": "masks",
@@ -343,11 +343,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Mask Tools | Grain&Gate",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 4514,
-      "sha256": "fddbc0e415af4c3b69c30f377b9d24ebb117e026935129f66aa3e87d1ec35d60",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/masks-1.0.zip"
+      "sha256": "7dc5dceaac523cb449c180de64c2085be21b19711a0dd957bb02f4c6e0e36091",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/masks-1.1.zip"
     },
     {
       "id": "movement-layer",
@@ -358,11 +358,11 @@
       "target": "edit-generator",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Generators | Grain&Gate/Layer Presets",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 8873,
-      "sha256": "d328afcc5dcaa33e519dc154d7ac0d4f764707b94379b9f63757be732b39fabc",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/movement-layer-1.0.zip"
+      "sha256": "9b0bffb1667b972b4551321335cf3435cfe7fc52c7cbb93179c6b8a1ea28db87",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/movement-layer-1.1.zip"
     },
     {
       "id": "overlay-layer",
@@ -373,11 +373,11 @@
       "target": "edit-generator",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Generators | Grain&Gate/Layer Presets",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 5761,
-      "sha256": "cca462f9b49c85cf32493fe87408d8ccbd9db5f98d0e8060edb576a1b9b86a26",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/overlay-layer-1.0.zip"
+      "sha256": "5836054d28009bba7de784f91fbe9f3ecc62bf6fc3e5d81f745b2ffd8db3e012",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/overlay-layer-1.1.zip"
     },
     {
       "id": "patch-replacer",
@@ -388,11 +388,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Tracking Tools | Grain&Gate",
-      "version": "1.44",
+      "subfolder": null,
+      "version": "1.45",
       "size": 5264,
-      "sha256": "8fa0f7f71830fc8b0c9995454a18c8d68bae972b0e6c0027cf3bd4f8dcfb6034",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/patch-replacer-1.44.zip"
+      "sha256": "905c3dc13dd0e0c363f9b3e2d226bd0598f7b9c1159af44e00b2064de006b4b3",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/patch-replacer-1.45.zip"
     },
     {
       "id": "power-window",
@@ -403,11 +403,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Color Tools | Grain&Gate",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 5778,
-      "sha256": "1e1bc35a7744bde36e440fa80423910c30afc7ec9c3abbb79c1c46f6242c695f",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/power-window-1.0.zip"
+      "sha256": "dc6395ea77fadc007e3d851770ef749386fc5122eaf93934ce4fb7069096e8bf",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/power-window-1.1.zip"
     },
     {
       "id": "print-lab",
@@ -418,11 +418,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Style Tools | Grain&Gate",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 14874,
-      "sha256": "5f3625e1cfa0389d219834455a3f461c072e4137a1bdd194a44368693a736e68",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-lab-1.0.zip"
+      "sha256": "db73a2f40dfa4632f3b4aa1907b6c54e4c43f89790bb6f8cde823a38d8471e3d",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-lab-1.1.zip"
     },
     {
       "id": "scramble-text-lab",
@@ -433,11 +433,11 @@
       "target": "edit-title",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Text Tools | Grain&Gate/Title Presets",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 42106,
-      "sha256": "10aedd421287d6b78bcd6a39d8d8c14f893f7c4363b80a7b54cf3662c1ec1ab7",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/scramble-text-lab-1.0.zip"
+      "sha256": "9592b924b78cf2d5faa975a8a884372116bc605080982425a1bbc1ab5cb8edab",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/scramble-text-lab-1.1.zip"
     },
     {
       "id": "shape-layer",
@@ -448,11 +448,11 @@
       "target": "edit-generator",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Generators | Grain&Gate/Layer Presets",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 8547,
-      "sha256": "70ea33b00c90ed7f8591e231d32655fe86d8a377b93369054d5f699a535001a0",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/shape-layer-1.0.zip"
+      "sha256": "e2673bfb5f765eae00600063623e04fc61e325ca2520ae4c0cdb2ea55ad6904c",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/shape-layer-1.1.zip"
     },
     {
       "id": "splitscreen",
@@ -463,11 +463,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Motion Tools | Grain&Gate",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 6143,
-      "sha256": "9b44ffa4f6e784bbba47cd1e2db0423731b8ffaf8c1277fe91fb9ef421dd0008",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/splitscreen-1.0.zip"
+      "sha256": "e2cde804779e2695943cde09b0d70b74270c0c3a740cabc10aa6c040cc8e171e",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/splitscreen-1.1.zip"
     },
     {
       "id": "text-lab",
@@ -478,11 +478,11 @@
       "target": "edit-title",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Text Tools | Grain&Gate",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 42471,
-      "sha256": "0631c507811d16a5fefbdaa508bb7b0ac4b0b64b637fa5e0f2493063d31aa1b4",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-1.0.zip"
+      "sha256": "64e91ab2346e3bd857c64e6aec0a1618f81cf3140a58bdf08ab1cc91e28fe86a",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-1.1.zip"
     },
     {
       "id": "texture-pro",
@@ -493,11 +493,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Style Tools | Grain&Gate",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 4122,
-      "sha256": "4be643b1499bbd7d853cdff734dcc84335a09a3e876416593a4a56d042bcd2f6",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/texture-pro-1.0.zip"
+      "sha256": "7acb1411ac07d30d60840aa3fdfb8bcdc460ee97efe3e6d036f4fe667377fcc0",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/texture-pro-1.1.zip"
     },
     {
       "id": "timeshift-shake",
@@ -508,11 +508,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Lens Tools | Grain&Gate",
-      "version": "6.0",
+      "subfolder": null,
+      "version": "6.1",
       "size": 2248,
-      "sha256": "66e78c6e4e4778e3f3693d365a0074514ae47f9e435e79d486060da40006b498",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/timeshift-shake-6.0.zip"
+      "sha256": "1ee2dbe2e18adbb17149368ee9a9c038ec353e0c5f811b42a412f63a04fe1477",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/timeshift-shake-6.1.zip"
     },
     {
       "id": "timeshift",
@@ -523,11 +523,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Lens Tools | Grain&Gate",
-      "version": "6.0",
+      "subfolder": null,
+      "version": "6.1",
       "size": 2103,
-      "sha256": "f6177072f8fe19ac613ec5ef678a28a2184e5c58cd6b3f7d376e61fe6b04ebdb",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/timeshift-6.0.zip"
+      "sha256": "00a459e571b325f719704b0fbd56009c8f25e23b13e4d2712c2cd98b1bf45e0b",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/timeshift-6.1.zip"
     },
     {
       "id": "tracker-pro",
@@ -538,11 +538,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Tracking Tools | Grain&Gate",
-      "version": "1.5",
+      "subfolder": null,
+      "version": "1.6",
       "size": 5987,
-      "sha256": "4468bb3c6ff125026f5b13adf89b330b5044c9e162b20fb9f8fbce68d9d147d1",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/tracker-pro-1.5.zip"
+      "sha256": "548c3b7fc268069227fd93755ef483acabd9af8ff83a13fcf5b113bf39687fad",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/tracker-pro-1.6.zip"
     },
     {
       "id": "transition-lab",
@@ -553,11 +553,11 @@
       "target": "edit-generator",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Generators | Grain&Gate/Lab Presets",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 14180,
-      "sha256": "8dd9c7f614e41e327c4b09aec1a30fca3fc5302da989f413e0efa5965033a5a0",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/transition-lab-1.0.zip"
+      "sha256": "48bd18af9811aac2ccdf09ae3d2909d1f9ccf702b4d8d48f815f94b2c6ffd00c",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/transition-lab-1.1.zip"
     },
     {
       "id": "volume-clouds",
@@ -568,11 +568,11 @@
       "target": "edit-generator",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Generators | Grain&Gate",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 2679,
-      "sha256": "0f9360da966430a1e0cfd6de49beb98a564a3bebf0ecf4a9392bb089efc96b37",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/volume-clouds-1.0.zip"
+      "sha256": "a7976d65bba1060c21dad2fe194b6ab8824c904956eb2309339230abb4ff5cb0",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/volume-clouds-1.1.zip"
     },
     {
       "id": "zoom-layer",
@@ -583,11 +583,11 @@
       "target": "edit-generator",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Generators | Grain&Gate/Layer Presets",
-      "version": "1.0",
+      "subfolder": null,
+      "version": "1.1",
       "size": 8455,
-      "sha256": "df70c34ea3cadfc3a91c88196ae3e8f59564a642f3921ca4bad35e4e91760ee8",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/zoom-layer-1.0.zip"
+      "sha256": "214717c085f09e5558bbb55720d82080666f3a38efebf877e2d87da0bbd57cdd",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/zoom-layer-1.1.zip"
     },
     {
       "id": "gg-textures",
@@ -605,5 +605,5 @@
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/textures-2.0/gg-textures-2.0.zip"
     }
   ],
-  "updatedAt": "2026-08-31T00:49:21.939Z"
+  "updatedAt": "2026-08-31T02:28:16.490Z"
 }
