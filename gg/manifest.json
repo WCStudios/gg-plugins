@@ -2,7 +2,8 @@
   "version": 1,
   "baseUrl": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg",
   "revoked": [
-    "60f9d8f637"
+    "60f9d8f637",
+    "703709e5a7"
   ],
   "items": [
     {
