@@ -1,7 +1,9 @@
 {
   "version": 1,
   "baseUrl": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg",
-  "revoked": [],
+  "revoked": [
+    "60f9d8f637"
+  ],
   "items": [
     {
       "id": "3d-carousel",
@@ -51,7 +53,7 @@
     {
       "id": "3d-studio",
       "name": "3D Studio | G&G",
-      "description": "3D product studio — curved cove backdrop, gobo lighting and shadows.",
+      "description": "3D product studio \u2014 curved cove backdrop, gobo lighting and shadows.",
       "kind": "Plugins",
       "category": "3D Tools",
       "target": "edit-effect",
@@ -111,7 +113,7 @@
     {
       "id": "collage-pro",
       "name": "Collage Pro | G&G",
-      "description": "2D collage layouts — grid, hero, bento and strip, 1–9 slots.",
+      "description": "2D collage layouts \u2014 grid, hero, bento and strip, 1\u20139 slots.",
       "kind": "Plugins",
       "category": "Style Tools",
       "target": "edit-effect",
@@ -171,7 +173,7 @@
     {
       "id": "film-lab",
       "name": "Film Lab | G&G",
-      "description": "Footage in a film cell — gate weave, sprockets, halation, grain.",
+      "description": "Footage in a film cell \u2014 gate weave, sprockets, halation, grain.",
       "kind": "Plugins",
       "category": "Lab Presets",
       "target": "edit-generator",
@@ -216,7 +218,7 @@
     {
       "id": "fx-lab",
       "name": "FX Lab | G&G",
-      "description": "Prism-lens FX housing — pick one heavy effect per layer.",
+      "description": "Prism-lens FX housing \u2014 pick one heavy effect per layer.",
       "kind": "Plugins",
       "category": "Style Tools",
       "target": "edit-effect",
@@ -382,7 +384,7 @@
     {
       "id": "patch-replacer",
       "name": "Patch Up | G&G",
-      "description": "Object removal — draw a mask, clone or blur the fill, point-tracker follow.",
+      "description": "Object removal \u2014 draw a mask, clone or blur the fill, point-tracker follow.",
       "kind": "Plugins",
       "category": "Tracking Tools",
       "target": "edit-effect",
@@ -442,7 +444,7 @@
     {
       "id": "shape-layer",
       "name": "Shape Layer | G&G",
-      "description": "Superellipse shape builder with A→B morph timing.",
+      "description": "Superellipse shape builder with A\u2192B morph timing.",
       "kind": "Plugins",
       "category": "Layer Presets",
       "target": "edit-generator",
@@ -472,7 +474,7 @@
     {
       "id": "text-lab",
       "name": "Text Lab | G&G",
-      "description": "The flagship title tool — per character, word and line animation.",
+      "description": "The flagship title tool \u2014 per character, word and line animation.",
       "kind": "Plugins",
       "category": "Text Tools",
       "target": "edit-title",
