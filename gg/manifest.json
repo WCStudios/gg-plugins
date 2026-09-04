@@ -54,7 +54,7 @@
     {
       "id": "3d-studio",
       "name": "3D Studio | G&G",
-      "description": "3D product studio \u2014 curved cove backdrop, gobo lighting and shadows.",
+      "description": "3D product studio — curved cove backdrop, gobo lighting and shadows.",
       "kind": "Plugins",
       "category": "3D Tools",
       "target": "edit-effect",
@@ -114,7 +114,7 @@
     {
       "id": "collage-pro",
       "name": "Collage Pro | G&G",
-      "description": "2D collage layouts \u2014 grid, hero, bento and strip, 1\u20139 slots.",
+      "description": "2D collage layouts — grid, hero, bento and strip, 1–9 slots.",
       "kind": "Plugins",
       "category": "Style Tools",
       "target": "edit-effect",
@@ -174,7 +174,7 @@
     {
       "id": "film-lab",
       "name": "Film Lab | G&G",
-      "description": "Footage in a film cell \u2014 gate weave, sprockets, halation, grain.",
+      "description": "Footage in a film cell — gate weave, sprockets, halation, grain.",
       "kind": "Plugins",
       "category": "Lab Presets",
       "target": "edit-generator",
@@ -219,7 +219,7 @@
     {
       "id": "fx-lab",
       "name": "FX Lab | G&G",
-      "description": "Prism-lens FX housing \u2014 pick one heavy effect per layer.",
+      "description": "Prism-lens FX housing — pick one heavy effect per layer.",
       "kind": "Plugins",
       "category": "Style Tools",
       "target": "edit-effect",
@@ -294,18 +294,18 @@
     },
     {
       "id": "l3rds",
-      "name": "L3rds | G&G",
-      "description": "Lower thirds built on the Text Lab engine.",
+      "name": "L3rds Lab | G&G",
+      "description": "Lower thirds on the Text Lab engine, with saveable user presets.",
       "kind": "Plugins",
       "category": "Text Tools",
       "target": "edit-title",
       "parts": null,
       "scope": "system",
       "subfolder": null,
-      "version": "1.1",
-      "size": 46319,
-      "sha256": "f3228454dfbf4834eccc0e26b6dbec7a3795fd4df59582c7b886e2f893a08265",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/l3rds-1.1.zip"
+      "version": "1.2",
+      "size": 38518,
+      "sha256": "ee16ef25dc672c0d763d3509ac03ea6a9a6fd93f3208c9a019708a7c4334bc53",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/l3rds-1.2.zip"
     },
     {
       "id": "locked-on",
@@ -385,7 +385,7 @@
     {
       "id": "patch-replacer",
       "name": "Patch Up | G&G",
-      "description": "Object removal \u2014 draw a mask, clone or blur the fill, point-tracker follow.",
+      "description": "Object removal — draw a mask, clone or blur the fill, point-tracker follow.",
       "kind": "Plugins",
       "category": "Tracking Tools",
       "target": "edit-effect",
@@ -445,7 +445,7 @@
     {
       "id": "shape-layer",
       "name": "Shape Layer | G&G",
-      "description": "Superellipse shape builder with A\u2192B morph timing.",
+      "description": "Superellipse shape builder with A→B morph timing.",
       "kind": "Plugins",
       "category": "Layer Presets",
       "target": "edit-generator",
@@ -475,7 +475,7 @@
     {
       "id": "text-lab",
       "name": "Text Lab | G&G",
-      "description": "The flagship title tool \u2014 per character, word and line animation.",
+      "description": "The flagship title tool — per character, word and line animation.",
       "kind": "Plugins",
       "category": "Text Tools",
       "target": "edit-title",
@@ -606,7 +606,22 @@
       "size": 191611936,
       "sha256": "efd2a4afacb4b569b09da597cdfb19885d7b5dfe3ff6f4180e5001b8fe976cf9",
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/textures-2.0/gg-textures-2.0.zip"
+    },
+    {
+      "id": "glow-lab",
+      "name": "Glow Lab | G&G",
+      "description": "Glow and bloom rack with tint, blend modes and a background plate control.",
+      "kind": "Plugins",
+      "category": "Style Tools",
+      "target": "edit-effect",
+      "parts": null,
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 4916,
+      "sha256": "c3355ab77d4615b230fef49c3b1b7e0a7cd03033cabc95cb3b62706ef56b6d26",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/glow-lab-1.0.zip"
     }
   ],
-  "updatedAt": "2026-08-31T02:28:16.490Z"
+  "updatedAt": "2026-09-04T23:08:20Z"
 }
