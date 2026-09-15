@@ -6,7 +6,7 @@
     {
       "id": "edtlb",
       "name": "EDTLB",
-      "description": "Video editing toolkit \u2014 shot logging, stills and review, built for the Resolve workflow.",
+      "description": "Video editing toolkit. Shot logging, stills and review, built for the Resolve workflow.",
       "kind": "Apps",
       "category": "Mac Apps",
       "target": "app",
@@ -18,14 +18,12 @@
       "version": "1.0.226",
       "size": 168756657,
       "sha256": "00628c351a414df24883d265c2dbe60a320547deefadaa07b981f660b722c2a9",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/apps-2026-09/edtlb-1.0.226.zip",
-      "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/edtlb.png",
-      "tagline": "Video editing toolkit"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/apps-2026-09/edtlb-1.0.226.zip"
     },
     {
       "id": "flcks",
       "name": "FLCKS",
-      "description": "AI photo culling \u2014 rate, group and thin a shoot before it ever reaches the timeline.",
+      "description": "AI photo culling. Rate, group and thin a shoot before it ever reaches the timeline.",
       "kind": "Apps",
       "category": "Mac Apps",
       "target": "app",
@@ -37,9 +35,7 @@
       "version": "0.9.33",
       "size": 133470207,
       "sha256": "94d07f66ad6c2bac9bcee167b43cd7e4ba589f7b620e490837c9d9c8a46b9044",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/apps-2026-09/flcks-0.9.33.zip",
-      "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/flcks.png",
-      "tagline": "AI photo culling"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/apps-2026-09/flcks-0.9.33.zip"
     },
     {
       "id": "3d-carousel",
@@ -89,7 +85,7 @@
     {
       "id": "3d-studio",
       "name": "3D Studio | G&G",
-      "description": "3D product studio \u2014 curved cove backdrop, gobo lighting and shadows.",
+      "description": "3D product studio with a curved cove backdrop, gobo lighting and shadows.",
       "kind": "Plugins",
       "category": "3D Tools",
       "target": "edit-effect",
@@ -149,7 +145,7 @@
     {
       "id": "collage-pro",
       "name": "Collage Pro | G&G",
-      "description": "2D collage layouts \u2014 grid, hero, bento and strip, 1\u20139 slots.",
+      "description": "2D collage layouts: grid, hero, bento and strip, 1 to 9 slots.",
       "kind": "Plugins",
       "category": "Style Tools",
       "target": "edit-effect",
@@ -209,7 +205,7 @@
     {
       "id": "film-lab",
       "name": "Film Lab | G&G",
-      "description": "Footage in a film cell \u2014 gate weave, sprockets, halation, grain.",
+      "description": "Footage in a film cell, with gate weave, sprockets, halation and grain.",
       "kind": "Plugins",
       "category": "Lab Presets",
       "target": "edit-generator",
@@ -239,7 +235,7 @@
     {
       "id": "fx-lab",
       "name": "FX Lab | G&G",
-      "description": "Prism-lens FX housing \u2014 pick one heavy effect per layer.",
+      "description": "Prism-lens FX housing. Pick one heavy effect per layer.",
       "kind": "Plugins",
       "category": "Style Tools",
       "target": "edit-effect",
@@ -284,7 +280,7 @@
     {
       "id": "gg-textures",
       "name": "G&G Texture Library",
-      "description": "The 12 grain and paper plates that Texture Pro and Print Lab load. Install this first \u2014 both tools need it.",
+      "description": "The 12 grain and paper plates that Texture Pro and Print Lab load. Install this first, both tools need it.",
       "kind": "Presets",
       "category": "Style Tools",
       "target": "edit-effect",
@@ -420,7 +416,7 @@
     {
       "id": "patch-replacer",
       "name": "Patch Up | G&G",
-      "description": "Object removal \u2014 draw a mask, clone or blur the fill, point-tracker follow.",
+      "description": "Object removal. Draw a mask, clone or blur the fill, point-tracker follow.",
       "kind": "Plugins",
       "category": "Tracking Tools",
       "target": "edit-effect",
@@ -510,7 +506,7 @@
     {
       "id": "text-lab",
       "name": "Text Lab | G&G",
-      "description": "The flagship title tool \u2014 per character, word and line animation.",
+      "description": "The flagship title tool, with per character, word and line animation.",
       "kind": "Plugins",
       "category": "Text Tools",
       "target": "edit-title",
@@ -628,7 +624,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/zoom-layer-1.0.zip"
     }
   ],
-  "updatedAt": "2026-09-15T01:26:36.705410Z",
+  "updatedAt": "2026-09-15T01:31:15.187422Z",
   "launcher": {
     "version": "0.2.5",
     "notes": "Mac apps install straight from the catalog, and the launcher keeps itself current.",
