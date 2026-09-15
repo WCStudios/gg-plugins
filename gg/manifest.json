@@ -125,11 +125,11 @@
       "target": "edit-generator",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Generators | Grain&Gate/Lab Presets",
-      "version": "1.0",
-      "size": 11169,
-      "sha256": "e1d34ea0566df88a2d616cac564d90b2016f63e745593139ed50f3eaf2864eb3",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/background-lab-1.0.zip"
+      "subfolder": null,
+      "version": "1.1",
+      "size": 18878,
+      "sha256": "80e01202333f2b958892d22bc53f8e977d31b7a2bf57a8d4b7ed3b825d551465",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/background-lab-1.1.zip"
     },
     {
       "id": "camera-layer",
@@ -329,18 +329,18 @@
     },
     {
       "id": "l3rds",
-      "name": "L3rds | G&G",
-      "description": "Lower thirds built on the Text Lab engine.",
+      "name": "L3rds Lab | G&G",
+      "description": "Lower thirds on the Text Lab engine, with saveable user presets.",
       "kind": "Plugins",
       "category": "Text Tools",
       "target": "edit-title",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Text Tools | Grain&Gate",
-      "version": "1.0",
-      "size": 46319,
-      "sha256": "1c85f985af2798f4d5b622720a4177161a028af8536f11844d009485324f4db7",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/l3rds-1.0.zip"
+      "subfolder": null,
+      "version": "1.2",
+      "size": 38789,
+      "sha256": "f19c3594e67ef1ae132b859f02468063831db360f5fb6a2ab0de56e3f1ea3937",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/l3rds-1.2.zip"
     },
     {
       "id": "locked-on",
@@ -366,11 +366,11 @@
       "target": "edit-effect",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Style Tools | Grain&Gate",
-      "version": "1.0",
-      "size": 6297,
-      "sha256": "d38075f4755962e059043652f17670b22ca7d300cfdb8b231cfcbccf72d93fe6",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/logo-pro-1.0.zip"
+      "subfolder": null,
+      "version": "1.1",
+      "size": 11649,
+      "sha256": "f32b12c73e5b07803569fd412dbb373c787d74dd4f2e53c327e6c0a4a0c441a0",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/logo-pro-1.1.zip"
     },
     {
       "id": "masks",
@@ -480,7 +480,7 @@
     {
       "id": "shape-layer",
       "name": "Shape Layer | G&G",
-      "description": "Superellipse shape builder with A\u2192B morph timing.",
+      "description": "Superellipse shape builder with A→B morph timing.",
       "kind": "Plugins",
       "category": "Layer Presets",
       "target": "edit-generator",
@@ -510,17 +510,17 @@
     {
       "id": "text-lab",
       "name": "Text Lab | G&G",
-      "description": "The flagship title tool, with per character, word and line animation.",
+      "description": "The flagship title tool — per character, word and line animation.",
       "kind": "Plugins",
       "category": "Text Tools",
       "target": "edit-title",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Text Tools | Grain&Gate",
-      "version": "1.0",
-      "size": 42471,
-      "sha256": "0b6137d124fd1619452bb5c6947397a3bbc4a238b1fb3ef7380139180f96d3c0",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-1.0.zip"
+      "subfolder": null,
+      "version": "1.1",
+      "size": 42462,
+      "sha256": "6196beec13a8090367c6ed4756a99d8ef81b71882edd8a104129b1a731f8ab57",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-1.1.zip"
     },
     {
       "id": "texture-pro",
@@ -626,9 +626,39 @@
       "size": 8455,
       "sha256": "eed4b682aa215f00c5a9cbe1290b376068a6ab516c61218be0e9d6c1c8fdf39b",
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/zoom-layer-1.0.zip"
+    },
+    {
+      "id": "list-lab",
+      "name": "List Lab | G&G",
+      "description": "Animated multi-row lists on the Text Lab engine, with per-row and per-word timing.",
+      "kind": "Plugins",
+      "category": "Text Tools",
+      "target": "edit-title",
+      "parts": null,
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 9389,
+      "sha256": "849ce0bc93bdd458ae2fba7094da1fe28a222e176854ab7e19afc191bcd0fbbc",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/list-lab-1.0.zip"
+    },
+    {
+      "id": "title-lab",
+      "name": "Title Lab | G&G",
+      "description": "Two-sided title card with a logo lockup, a drawn divider and wipe or slide reveals.",
+      "kind": "Plugins",
+      "category": "Text Tools",
+      "target": "edit-title",
+      "parts": null,
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 6570,
+      "sha256": "46024e4314b97076b30ae0ddfc9eec544313a1ba0988413b06aa18a1e2782e25",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/title-lab-1.0.zip"
     }
   ],
-  "updatedAt": "2026-09-15T03:58:49.674545Z",
+  "updatedAt": "2026-09-15T04:44:46.164Z",
   "launcher": {
     "version": "0.3.2",
     "notes": "Polish pass: Browse rebuilt as three bands, the counter strip removed, and a quieter scrollbar.",
