@@ -624,14 +624,14 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/zoom-layer-1.0.zip"
     }
   ],
-  "updatedAt": "2026-09-15T00:32:27.889313Z",
+  "updatedAt": "2026-09-15T00:37:26.700374Z",
   "launcher": {
-    "version": "0.2.2",
-    "notes": "Fixes the update banner, which could be wiped out by a redraw.",
+    "version": "0.2.3",
+    "notes": "Mac apps install straight from the catalog, and the launcher keeps itself current.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.2.2/GrainAndGate-Launcher-0.2.2-arm64.dmg",
-      "size": 113968610,
-      "sha256": "c1ea79b40994e465a2c11244e8ceeb19c77abea0f49f54efdb4b64fb28c712cd"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.2.3/GrainAndGate-Launcher-0.2.3-arm64.dmg",
+      "size": 114527383,
+      "sha256": "f004152cf769a96c426ed9e6fdc17644574b7ed1853d75c22842068e65a75ff7"
     }
   }
 }
