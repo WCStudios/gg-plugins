@@ -15,10 +15,10 @@
       "subfolder": null,
       "arch": "arm64",
       "bundleId": "co.wcstudios.edtlb",
-      "version": "1.0.226",
-      "size": 168756657,
-      "sha256": "00628c351a414df24883d265c2dbe60a320547deefadaa07b981f660b722c2a9",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/apps-2026-09/edtlb-1.0.226.zip",
+      "version": "1.0.227",
+      "size": 168611323,
+      "sha256": "77bd203512ef1fdd1819054b66c348d79fc3045366e8efd6a720d3abad268b1b",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.227.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/edtlb.png",
       "tagline": "DaVinci Resolve companion"
     },
@@ -658,7 +658,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/title-lab-1.0.zip"
     }
   ],
-  "updatedAt": "2026-09-15T19:25:39.777366Z",
+  "updatedAt": "2026-09-15T19:42:51.851534Z",
   "launcher": {
     "version": "0.3.3",
     "notes": "The launcher now checks for new tools and new versions on its own, so you install it once and never again.",
