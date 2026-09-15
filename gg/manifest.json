@@ -628,14 +628,14 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/zoom-layer-1.0.zip"
     }
   ],
-  "updatedAt": "2026-09-15T01:45:05.541498Z",
+  "updatedAt": "2026-09-15T01:46:46.634068Z",
   "launcher": {
-    "version": "0.3.0",
-    "notes": "Reworked Home: a featured carousel, and the apps shown as full banners.",
+    "version": "0.3.1",
+    "notes": "Reworked Home: a featured carousel, the apps as full banners, and a library overview.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.3.0/GrainAndGate-Launcher-0.3.0-arm64.dmg",
-      "size": 114027006,
-      "sha256": "6b7256cc2ef9e436de0d231a20f6f85eb1ce7c69ab30b074f2b86bec47305e36"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.3.1/GrainAndGate-Launcher-0.3.1-arm64.dmg",
+      "size": 114028262,
+      "sha256": "f6ba7ad1489d22f93222a4e585262e3777882508dbd103f4b8d4a7c37eb28ab5"
     }
   }
 }
