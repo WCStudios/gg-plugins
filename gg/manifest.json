@@ -628,14 +628,14 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/zoom-layer-1.0.zip"
     }
   ],
-  "updatedAt": "2026-09-15T01:48:51.819639Z",
+  "updatedAt": "2026-09-15T03:58:49.674545Z",
   "launcher": {
-    "version": "0.3.1",
-    "notes": "Reworked Home: a featured carousel, the apps as full banners, and a library overview.",
+    "version": "0.3.2",
+    "notes": "Polish pass: Browse rebuilt as three bands, the counter strip removed, and a quieter scrollbar.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.3.1/GrainAndGate-Launcher-0.3.1-arm64.dmg",
-      "size": 114028262,
-      "sha256": "f6ba7ad1489d22f93222a4e585262e3777882508dbd103f4b8d4a7c37eb28ab5"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.3.2/GrainAndGate-Launcher-0.3.2-arm64.dmg",
+      "size": 114028617,
+      "sha256": "62e0e7225cdd9e1e582d5bc94fc2b800fe161587a59ebd41ad5ca8a95976c158"
     }
   }
 }
