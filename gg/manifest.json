@@ -6,7 +6,7 @@
     {
       "id": "edtlb",
       "name": "EDTLB",
-      "description": "Shot logging, stills and review, built for the Resolve workflow.",
+      "description": "Transcription and story scripts, smart culling, beat markers, a render and ship queue, and Clank the AI copilot.",
       "kind": "Apps",
       "category": "Mac Apps",
       "target": "app",
@@ -20,12 +20,12 @@
       "sha256": "00628c351a414df24883d265c2dbe60a320547deefadaa07b981f660b722c2a9",
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/apps-2026-09/edtlb-1.0.226.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/edtlb.png",
-      "tagline": "Video editing toolkit"
+      "tagline": "DaVinci Resolve companion"
     },
     {
       "id": "flcks",
       "name": "FLCKS",
-      "description": "Rate, group and thin a shoot before it ever reaches the timeline.",
+      "description": "AI culling, raw editing with curves, HSL and masks, and a style page for posters and social layouts.",
       "kind": "Apps",
       "category": "Mac Apps",
       "target": "app",
@@ -39,7 +39,7 @@
       "sha256": "09dec2a6e2c2f5a27d26c2d42e9b2078d5797c2ca9fdc2a6be0146d21e43e4fa",
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-flcks/flcks-0.9.34.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/flcks.png",
-      "tagline": "AI photo culling"
+      "tagline": "Photo workflow, camera to feed"
     },
     {
       "id": "3d-carousel",
@@ -658,7 +658,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/title-lab-1.0.zip"
     }
   ],
-  "updatedAt": "2026-09-15T19:01:37.060795Z",
+  "updatedAt": "2026-09-15T19:25:39.777366Z",
   "launcher": {
     "version": "0.3.3",
     "notes": "The launcher now checks for new tools and new versions on its own, so you install it once and never again.",
