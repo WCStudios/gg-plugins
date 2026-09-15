@@ -658,14 +658,14 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/title-lab-1.0.zip"
     }
   ],
-  "updatedAt": "2026-09-15T19:42:51.851534Z",
+  "updatedAt": "2026-09-15T19:44:48.214521Z",
   "launcher": {
-    "version": "0.3.3",
-    "notes": "The launcher now checks for new tools and new versions on its own, so you install it once and never again.",
+    "version": "0.3.4",
+    "notes": "Switch between Apps, Plugins and Presets from Tools and Updates, and the counters are back on Updates.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.3.3/GrainAndGate-Launcher-0.3.3-arm64.dmg",
-      "size": 114037884,
-      "sha256": "a0a844ad3b23cfe824347e46dbe4e82b2d98e8ff05cd1dec33f77ae5fc9cad01"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.3.4/GrainAndGate-Launcher-0.3.4-arm64.dmg",
+      "size": 114036332,
+      "sha256": "5c129011d660aadd15e4d61b1258dfda5fee60aaff451a499e6539f0b14d3e6d"
     }
   }
 }
