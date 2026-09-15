@@ -6,7 +6,7 @@
     {
       "id": "edtlb",
       "name": "EDTLB",
-      "description": "Video editing toolkit. Shot logging, stills and review, built for the Resolve workflow.",
+      "description": "Shot logging, stills and review, built for the Resolve workflow.",
       "kind": "Apps",
       "category": "Mac Apps",
       "target": "app",
@@ -25,7 +25,7 @@
     {
       "id": "flcks",
       "name": "FLCKS",
-      "description": "AI photo culling. Rate, group and thin a shoot before it ever reaches the timeline.",
+      "description": "Rate, group and thin a shoot before it ever reaches the timeline.",
       "kind": "Apps",
       "category": "Mac Apps",
       "target": "app",
@@ -628,7 +628,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/zoom-layer-1.0.zip"
     }
   ],
-  "updatedAt": "2026-09-15T01:40:25.602682Z",
+  "updatedAt": "2026-09-15T01:45:05.541498Z",
   "launcher": {
     "version": "0.3.0",
     "notes": "Reworked Home: a featured carousel, and the apps shown as full banners.",
