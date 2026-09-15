@@ -18,7 +18,9 @@
       "version": "1.0.226",
       "size": 168756657,
       "sha256": "00628c351a414df24883d265c2dbe60a320547deefadaa07b981f660b722c2a9",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/apps-2026-09/edtlb-1.0.226.zip"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/apps-2026-09/edtlb-1.0.226.zip",
+      "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/edtlb.png",
+      "tagline": "Video editing toolkit"
     },
     {
       "id": "flcks",
@@ -35,7 +37,9 @@
       "version": "0.9.33",
       "size": 133470207,
       "sha256": "94d07f66ad6c2bac9bcee167b43cd7e4ba589f7b620e490837c9d9c8a46b9044",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/apps-2026-09/flcks-0.9.33.zip"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/apps-2026-09/flcks-0.9.33.zip",
+      "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/flcks.png",
+      "tagline": "AI photo culling"
     },
     {
       "id": "3d-carousel",
@@ -624,7 +628,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/zoom-layer-1.0.zip"
     }
   ],
-  "updatedAt": "2026-09-15T01:38:55.089575Z",
+  "updatedAt": "2026-09-15T01:40:25.602682Z",
   "launcher": {
     "version": "0.3.0",
     "notes": "Reworked Home: a featured carousel, and the apps shown as full banners.",
