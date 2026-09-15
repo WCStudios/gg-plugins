@@ -34,10 +34,10 @@
       "subfolder": null,
       "arch": "arm64",
       "bundleId": "co.wcstudios.flcks",
-      "version": "0.9.33",
-      "size": 133470207,
-      "sha256": "94d07f66ad6c2bac9bcee167b43cd7e4ba589f7b620e490837c9d9c8a46b9044",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/apps-2026-09/flcks-0.9.33.zip",
+      "version": "0.9.34",
+      "size": 133470274,
+      "sha256": "09dec2a6e2c2f5a27d26c2d42e9b2078d5797c2ca9fdc2a6be0146d21e43e4fa",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-flcks/flcks-0.9.34.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/flcks.png",
       "tagline": "AI photo culling"
     },
@@ -628,7 +628,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/zoom-layer-1.0.zip"
     }
   ],
-  "updatedAt": "2026-09-15T01:46:46.634068Z",
+  "updatedAt": "2026-09-15T01:48:51.819639Z",
   "launcher": {
     "version": "0.3.1",
     "notes": "Reworked Home: a featured carousel, the apps as full banners, and a library overview.",
