@@ -15,10 +15,10 @@
       "subfolder": null,
       "arch": "arm64",
       "bundleId": "co.wcstudios.edtlb",
-      "version": "1.0.229",
-      "size": 168615867,
-      "sha256": "c5eb219163788aac1af821f61e0c9f0603cba4cdf12257bca60ae8a04b94673d",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.229.zip",
+      "version": "1.0.230",
+      "size": 168652723,
+      "sha256": "bee6eef02e8813b1e5a62ae1153f5be3e8a8d786dee400fe953f94966a55e6b0",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.230.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/edtlb.png",
       "tagline": "DaVinci Resolve companion"
     },
@@ -677,7 +677,7 @@
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-mtnlb/mtnlb-0.5.1.zip"
     }
   ],
-  "updatedAt": "2026-09-19T01:09:32.665084Z",
+  "updatedAt": "2026-09-19T01:28:43.234281Z",
   "launcher": {
     "version": "0.3.4",
     "notes": "Switch between Apps, Plugins and Presets from Tools and Updates, and the counters are back on Updates.",
