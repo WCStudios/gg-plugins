@@ -656,9 +656,28 @@
       "size": 6570,
       "sha256": "46024e4314b97076b30ae0ddfc9eec544313a1ba0988413b06aa18a1e2782e25",
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/title-lab-1.0.zip"
+    },
+    {
+      "id": "mtnlb",
+      "name": "MTNLB",
+      "description": "An After Effects-style timeline for DaVinci Resolve Fusion: layers, keyframes and curves, plus the GG Morph and GG Physics engines.",
+      "kind": "Apps",
+      "category": "Mac Apps",
+      "target": "app",
+      "parts": null,
+      "scope": null,
+      "subfolder": null,
+      "arch": "arm64",
+      "bundleId": "co.wcstudios.mtion",
+      "tagline": "Motion design for Fusion",
+      "version": "0.5.1",
+      "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/mtnlb.png",
+      "size": 88072941,
+      "sha256": "caeb2f225d10418947069bc31a213be5f518a02aa066370e13a60563ec3004d9",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-mtnlb/mtnlb-0.5.1.zip"
     }
   ],
-  "updatedAt": "2026-09-18T23:34:54.287168Z",
+  "updatedAt": "2026-09-19T01:09:32.665084Z",
   "launcher": {
     "version": "0.3.4",
     "notes": "Switch between Apps, Plugins and Presets from Tools and Updates, and the counters are back on Updates.",
