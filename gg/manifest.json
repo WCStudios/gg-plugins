@@ -670,14 +670,14 @@
       "arch": "arm64",
       "bundleId": "co.wcstudios.mtion",
       "tagline": "Motion design for Fusion",
-      "version": "0.5.8",
+      "version": "0.5.9",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/mtnlb.png",
-      "size": 88093070,
-      "sha256": "b0125c0597d6708e9da2442401db15b20566a390ff373254be4089437e9e5fc2",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-mtnlb/mtnlb-0.5.8.zip"
+      "size": 88095003,
+      "sha256": "c444cd7f23e476ef25b1a519eca96dc937804ce1db66e79fe5c30077b2da02cb",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-mtnlb/mtnlb-0.5.9.zip"
     }
   ],
-  "updatedAt": "2026-09-19T03:56:24.726333Z",
+  "updatedAt": "2026-09-19T21:37:27.005747Z",
   "launcher": {
     "version": "0.3.4",
     "notes": "Switch between Apps, Plugins and Presets from Tools and Updates, and the counters are back on Updates.",
