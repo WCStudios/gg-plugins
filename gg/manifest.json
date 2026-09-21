@@ -677,14 +677,14 @@
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-mtnlb/mtnlb-0.5.20.zip"
     }
   ],
-  "updatedAt": "2026-09-21T18:03:28.058115Z",
+  "updatedAt": "2026-09-21T18:16:50.861723Z",
   "launcher": {
-    "version": "0.3.5",
-    "notes": "Plugins are colour coded by where they land in Resolve: tan for titles, green for generators, blue for effects. OFX Plugins has a section waiting for it.",
+    "version": "0.3.6",
+    "notes": "Fixes app installs failing with a 'no such file' error. Apps and launcher updates now download reliably.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.3.5/GrainAndGate-Launcher-0.3.5-arm64.dmg",
-      "size": 114042036,
-      "sha256": "cf9404cdf018b9c15c83d7304c21aedf2ab854f803c00b5dcd3a20f52377528a"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.3.6/GrainAndGate-Launcher-0.3.6-arm64.dmg",
+      "size": 114061837,
+      "sha256": "232be821826844ca5dc4f1f33c2ae5ccf5f7b70b80e9e83c8344033af9e024ec"
     }
   }
 }
