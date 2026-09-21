@@ -111,10 +111,10 @@
       "parts": null,
       "scope": "system",
       "subfolder": "Grain&Gate/Motion Tools | Grain&Gate",
-      "version": "1.1",
-      "size": 9655,
-      "sha256": "d6b187cb30adb6b9e91aad0ebdca55373a9c03239da2d1d62465b6b8d9e3b6d5",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/animater-1.1.zip"
+      "version": "1.2",
+      "size": 9828,
+      "sha256": "e56e515909d8ae26d93b9bac3887016c76c3000654020075ffac65ef0706d2ba",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/animater-1.2.zip"
     },
     {
       "id": "background-lab",
@@ -322,10 +322,10 @@
       ],
       "scope": "user",
       "subfolder": null,
-      "version": "2.14",
-      "size": 10839352,
-      "sha256": "6433c9ca12ff9238a50d1720023786fb9a866f8d35f1985f5f3fae5d20910a16",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/grade-pro-2.14.zip"
+      "version": "2.15",
+      "size": 10842935,
+      "sha256": "6679ae1d9f330b672233924d0d017f3c8594bf387f4e514d4879594efab244f1",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/grade-pro-2.15.zip"
     },
     {
       "id": "l3rds",
@@ -652,10 +652,10 @@
       "parts": null,
       "scope": "system",
       "subfolder": null,
-      "version": "1.0",
-      "size": 6570,
-      "sha256": "46024e4314b97076b30ae0ddfc9eec544313a1ba0988413b06aa18a1e2782e25",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/title-lab-1.0.zip"
+      "version": "1.1",
+      "size": 6115,
+      "sha256": "d0cf003314f789794106b5ccc6f78044b2001493aa153c0b07d732184d3ab4e3",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/title-lab-1.1.zip"
     },
     {
       "id": "mtnlb",
@@ -677,7 +677,7 @@
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-mtnlb/mtnlb-0.5.20.zip"
     }
   ],
-  "updatedAt": "2026-09-21T18:16:50.861723Z",
+  "updatedAt": "2026-09-21T18:22:51.162884Z",
   "launcher": {
     "version": "0.3.6",
     "notes": "Fixes app installs failing with a 'no such file' error. Apps and launcher updates now download reliably.",
