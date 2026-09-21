@@ -15,10 +15,10 @@
       "subfolder": null,
       "arch": "arm64",
       "bundleId": "co.wcstudios.edtlb",
-      "version": "1.0.236",
-      "size": 168664379,
-      "sha256": "7a1f128bee84c5157b5928f9121a7c6a829abb52e13f6d5addd93bda04671d68",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.236.zip",
+      "version": "1.0.237",
+      "size": 168665308,
+      "sha256": "688ca1afda454d2a0bc96170cba10c980016bd8162bbe3f44ab4a60232a3569b",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.237.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/edtlb.png",
       "tagline": "DaVinci Resolve companion"
     },
@@ -677,7 +677,7 @@
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-mtnlb/mtnlb-0.5.20.zip"
     }
   ],
-  "updatedAt": "2026-09-21T02:57:51.299204Z",
+  "updatedAt": "2026-09-21T18:03:28.058115Z",
   "launcher": {
     "version": "0.3.5",
     "notes": "Plugins are colour coded by where they land in Resolve: tan for titles, green for generators, blue for effects. OFX Plugins has a section waiting for it.",
