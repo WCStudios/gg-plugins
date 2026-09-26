@@ -34,10 +34,10 @@
       "subfolder": null,
       "arch": "arm64",
       "bundleId": "co.wcstudios.flcks",
-      "version": "0.9.35",
-      "size": 133988745,
-      "sha256": "a71e6b969521df4203cd17901da734d48926ae0d9e15a52fc62f694855d4fd12",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-flcks/flcks-0.9.35.zip",
+      "version": "0.9.36",
+      "size": 133989810,
+      "sha256": "e76a7619eec18d0e49129e7b681c11be6e0ca1075e8ed94b64c470ef30a22201",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-flcks/flcks-0.9.36.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/flcks.png",
       "tagline": "Photo workflow, camera to feed"
     },
@@ -737,7 +737,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/clipmaker-1.0.zip"
     }
   ],
-  "updatedAt": "2026-09-26T16:46:49.517863Z",
+  "updatedAt": "2026-09-26T17:06:00.232219Z",
   "launcher": {
     "version": "0.3.6",
     "notes": "Fixes app installs failing with a 'no such file' error. Apps and launcher updates now download reliably.",
