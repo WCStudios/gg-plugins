@@ -622,10 +622,10 @@
       "parts": null,
       "scope": "system",
       "subfolder": "Grain&Gate/Generators | Grain&Gate/Layer Presets",
-      "version": "1.1",
-      "size": 8455,
-      "sha256": "214717c085f09e5558bbb55720d82080666f3a38efebf877e2d87da0bbd57cdd",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/zoom-layer-1.1.zip"
+      "version": "1.2",
+      "size": 9015,
+      "sha256": "b6edf5ea98a3f07cc073c96a3385c77de689c0c0dd804165c93c585c966fd181",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/zoom-layer-1.2.zip"
     },
     {
       "id": "list-lab",
@@ -737,7 +737,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/clipmaker-1.0.zip"
     }
   ],
-  "updatedAt": "2026-09-26T01:49:44.934025Z",
+  "updatedAt": "2026-09-26T01:50:22.880107Z",
   "launcher": {
     "version": "0.3.6",
     "notes": "Fixes app installs failing with a 'no such file' error. Apps and launcher updates now download reliably.",
