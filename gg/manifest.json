@@ -170,11 +170,11 @@
       "target": "edit-title",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Text Tools | Grain&Gate/Title Presets",
-      "version": "1.1",
-      "size": 42403,
-      "sha256": "74976cbbd13192fdf074ca4195675a83e4ef73147054debba3a4d0ab283308cf",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/counter-text-lab-1.1.zip"
+      "subfolder": "Grain&Gate/Presets - Text Lab",
+      "version": "1.2",
+      "size": 453025,
+      "sha256": "1f2c5cc0f2fc1c465c38967ca912ac5427100e0cf8896d2cb5a51a3ec16283e6",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/counter-text-lab-1.2.zip"
     },
     {
       "id": "depth-point-cloud",
@@ -471,11 +471,11 @@
       "target": "edit-title",
       "parts": null,
       "scope": "system",
-      "subfolder": "Grain&Gate/Text Tools | Grain&Gate/Title Presets",
-      "version": "1.1",
-      "size": 42106,
-      "sha256": "9592b924b78cf2d5faa975a8a884372116bc605080982425a1bbc1ab5cb8edab",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/scramble-text-lab-1.1.zip"
+      "subfolder": "Grain&Gate/Presets - Text Lab",
+      "version": "1.2",
+      "size": 453943,
+      "sha256": "9794004f0409b27a36e6112db3a6d66d0aa5384cf40e8e5ca857093951d107af",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/scramble-text-lab-1.2.zip"
     },
     {
       "id": "shape-layer",
@@ -737,7 +737,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/clipmaker-1.0.zip"
     }
   ],
-  "updatedAt": "2026-09-26T01:49:20.044599Z",
+  "updatedAt": "2026-09-26T01:49:44.934025Z",
   "launcher": {
     "version": "0.3.6",
     "notes": "Fixes app installs failing with a 'no such file' error. Apps and launcher updates now download reliably.",
