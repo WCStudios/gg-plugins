@@ -397,10 +397,10 @@
       "parts": null,
       "scope": "system",
       "subfolder": "Grain&Gate/Generators | Grain&Gate/Layer Presets",
-      "version": "1.1",
-      "size": 8873,
-      "sha256": "9b0bffb1667b972b4551321335cf3435cfe7fc52c7cbb93179c6b8a1ea28db87",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/movement-layer-1.1.zip"
+      "version": "1.2",
+      "size": 9842,
+      "sha256": "15c1718d7c5cf7b0ddbe4ff63c6c756ad54813a48eb449164e9910d8ef9829a7",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/movement-layer-1.2.zip"
     },
     {
       "id": "overlay-layer",
@@ -677,7 +677,7 @@
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-mtnlb/mtnlb-0.5.20.zip"
     }
   ],
-  "updatedAt": "2026-09-21T18:22:51.162884Z",
+  "updatedAt": "2026-09-26T01:47:10.953277Z",
   "launcher": {
     "version": "0.3.6",
     "notes": "Fixes app installs failing with a 'no such file' error. Apps and launcher updates now download reliably.",
