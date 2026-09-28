@@ -670,11 +670,11 @@
       "arch": "arm64",
       "bundleId": "co.wcstudios.mtion",
       "tagline": "Motion design for Fusion",
-      "version": "0.5.20",
+      "version": "0.5.21",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/mtnlb.png",
-      "size": 88100730,
-      "sha256": "cecc3f6443084ea06af213ecf7230d4da3786cca9a0d1cbb96c78bd460a88ee6",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-mtnlb/mtnlb-0.5.20.zip"
+      "size": 88215982,
+      "sha256": "aa10e5d3878dc25c11655c2e590b489d118b696ad98c7f9305793a9225687c55",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-mtnlb/mtnlb-0.5.21.zip"
     },
     {
       "id": "equalizer-l3rd",
@@ -737,7 +737,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/clipmaker-1.0.zip"
     }
   ],
-  "updatedAt": "2026-09-27T03:04:56.186897Z",
+  "updatedAt": "2026-09-28T00:09:08.956741Z",
   "launcher": {
     "version": "0.3.6",
     "notes": "Fixes app installs failing with a 'no such file' error. Apps and launcher updates now download reliably.",
