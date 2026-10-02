@@ -737,14 +737,14 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/clipmaker-1.0.zip"
     }
   ],
-  "updatedAt": "2026-10-02T02:36:26.040408Z",
+  "updatedAt": "2026-10-02T02:49:45.130303Z",
   "launcher": {
-    "version": "0.3.6",
-    "notes": "Fixes app installs failing with a 'no such file' error. Apps and launcher updates now download reliably.",
+    "version": "0.3.7",
+    "notes": "Installs Fuses, so Animate Pro and 3D Studio bring the tool they are built on instead of loading as an error node.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.3.6/GrainAndGate-Launcher-0.3.6-arm64.dmg",
-      "size": 114061837,
-      "sha256": "232be821826844ca5dc4f1f33c2ae5ccf5f7b70b80e9e83c8344033af9e024ec"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.3.7/GrainAndGate-Launcher-0.3.7-arm64.dmg",
+      "size": 114042831,
+      "sha256": "55c7088dbd2ae7cf1db79a7660bb6d381802c43322aa0a7cdaf8b25bb43b7a98"
     }
   }
 }
