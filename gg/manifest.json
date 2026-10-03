@@ -15,10 +15,10 @@
       "subfolder": null,
       "arch": "arm64",
       "bundleId": "co.wcstudios.edtlb",
-      "version": "1.0.251",
-      "size": 168760079,
-      "sha256": "a282722a293023afabab34a092148b8313a86b0657fe3298553bfb1eec71b544",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.251.zip",
+      "version": "1.0.252",
+      "size": 168767488,
+      "sha256": "066fcada9e3094c3bdedd34d4c0da38658927fac0e95c1221322e6f8a7f6c21c",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.252.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/edtlb.png",
       "tagline": "DaVinci Resolve companion"
     },
@@ -759,7 +759,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/animate-pro-1.0.zip"
     }
   ],
-  "updatedAt": "2026-10-03T20:30:37.935019Z",
+  "updatedAt": "2026-10-03T20:46:39.541125Z",
   "launcher": {
     "version": "0.3.7",
     "notes": "Installs Fuses, so Animate Pro and 3D Studio bring the tool they are built on instead of loading as an error node.",
