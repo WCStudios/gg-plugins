@@ -15,10 +15,10 @@
       "subfolder": null,
       "arch": "arm64",
       "bundleId": "co.wcstudios.edtlb",
-      "version": "1.0.256",
-      "size": 168781436,
-      "sha256": "95305d3499c0e2551b7d84be3b4216a1bf3afa8faebbbe26bf1c98b611955766",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.256.zip",
+      "version": "1.0.257",
+      "size": 168784575,
+      "sha256": "bf4f7b47d2b87affda92369d197e3faf88789af29584fe954c6033d9a81f06e9",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.257.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/edtlb.png",
       "tagline": "DaVinci Resolve companion"
     },
@@ -774,7 +774,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/gg-gobos-1.0.zip"
     }
   ],
-  "updatedAt": "2026-10-04T03:19:54.588441Z",
+  "updatedAt": "2026-10-04T19:40:25.221455Z",
   "launcher": {
     "version": "0.5.1",
     "notes": "Fixes the Settings panel rendering with no styling: the window's content policy allowed inline CSS but not the stylesheet file the new settings standard ships in.",
