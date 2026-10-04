@@ -283,14 +283,14 @@
       "description": "The 12 grain and paper plates that Texture Pro and Print Lab load. Install this first, both tools need it.",
       "kind": "Presets",
       "category": "Style Tools",
-      "target": "edit-effect",
+      "target": "gg-textures",
       "parts": null,
-      "scope": "system",
-      "subfolder": "Grain&Gate/Style Tools | Grain&Gate",
-      "version": "1.0",
-      "size": 191613190,
-      "sha256": "a9ff94b32a8179fa06fad1051322ad013d8dc51b15022b64262d2aba3bfd8770",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/textures-1.0/gg-textures-1.0.zip"
+      "scope": "user",
+      "subfolder": null,
+      "version": "1.1",
+      "size": 190767562,
+      "sha256": "f31d6f95a5d937fd70f73aeaa32415d01458674a5360dfbb32663110705dc7cc",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/textures-1.1/gg-textures-1.1.zip"
     },
     {
       "id": "grade-pro",
@@ -476,7 +476,7 @@
     {
       "id": "shape-layer",
       "name": "Shape Layer | G&G",
-      "description": "Superellipse shape builder with A\u2192B morph timing.",
+      "description": "Superellipse shape builder with A→B morph timing.",
       "kind": "Plugins",
       "category": "Layer Presets",
       "target": "edit-generator",
@@ -506,7 +506,7 @@
     {
       "id": "text-lab",
       "name": "Text Lab | G&G",
-      "description": "The flagship title tool \u2014 per character, word and line animation.",
+      "description": "The flagship title tool — per character, word and line animation.",
       "kind": "Plugins",
       "category": "Text Tools",
       "target": "edit-title",
