@@ -476,7 +476,7 @@
     {
       "id": "shape-layer",
       "name": "Shape Layer | G&G",
-      "description": "Superellipse shape builder with A→B morph timing.",
+      "description": "Superellipse shape builder with A\u2192B morph timing.",
       "kind": "Plugins",
       "category": "Layer Presets",
       "target": "edit-generator",
@@ -506,7 +506,7 @@
     {
       "id": "text-lab",
       "name": "Text Lab | G&G",
-      "description": "The flagship title tool — per character, word and line animation.",
+      "description": "The flagship title tool \u2014 per character, word and line animation.",
       "kind": "Plugins",
       "category": "Text Tools",
       "target": "edit-title",
@@ -774,14 +774,14 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/gg-gobos-1.0.zip"
     }
   ],
-  "updatedAt": "2026-10-04T03:04:02.769731Z",
+  "updatedAt": "2026-10-04T03:19:54.588441Z",
   "launcher": {
-    "version": "0.5.0",
-    "notes": "Adds the Connections and account screens, installs Fuses so Animate Pro and 3D Studio bring the tool they are built on, and fixes the false 'older copy still present' warning after an install.",
+    "version": "0.5.1",
+    "notes": "Fixes the Settings panel rendering with no styling: the window's content policy allowed inline CSS but not the stylesheet file the new settings standard ships in.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.5.0/GrainAndGate-Launcher-0.5.0-arm64.dmg",
-      "size": 114073689,
-      "sha256": "390d0d84f637e2a5eb387af0eb470e6b9809eba485f95a44fe007bfb35d09968"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.5.1/GrainAndGate-Launcher-0.5.1-arm64.dmg",
+      "size": 114043062,
+      "sha256": "60cf7d485dc0433b3d171cfdb266d1ec4618fd644bae650de4c65672e6cfefc5"
     }
   }
 }
