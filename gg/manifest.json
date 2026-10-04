@@ -757,9 +757,24 @@
       "size": 29689,
       "sha256": "636b4a040c3bd814a4142d2c41e0388797ec34140d6afc147dbc9f44d27b012e",
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/animate-pro-1.1.zip"
+    },
+    {
+      "id": "gg-gobos",
+      "name": "G&G Gobo Library",
+      "description": "The gobo plates the 3D tools light their scenes with. 3D Studio, 3D Grid and 3D Flat Lay all need it.",
+      "kind": "Presets",
+      "category": "3D Tools",
+      "target": "gg-gobos",
+      "parts": null,
+      "scope": "user",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 1201220,
+      "sha256": "8beb90e3f07c9861ad659a0c42ad017aa88dfe865823dc75c1b9e14143011566",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/gg-gobos-1.0.zip"
     }
   ],
-  "updatedAt": "2026-10-04T03:02:27.453779Z",
+  "updatedAt": "2026-10-04T03:04:02.769731Z",
   "launcher": {
     "version": "0.5.0",
     "notes": "Adds the Connections and account screens, installs Fuses so Animate Pro and 3D Studio bring the tool they are built on, and fixes the false 'older copy still present' warning after an install.",
