@@ -476,7 +476,7 @@
     {
       "id": "shape-layer",
       "name": "Shape Layer | G&G",
-      "description": "Superellipse shape builder with A\u2192B morph timing.",
+      "description": "Superellipse shape builder with A→B morph timing.",
       "kind": "Plugins",
       "category": "Layer Presets",
       "target": "edit-generator",
@@ -506,7 +506,7 @@
     {
       "id": "text-lab",
       "name": "Text Lab | G&G",
-      "description": "The flagship title tool \u2014 per character, word and line animation.",
+      "description": "The flagship title tool — per character, word and line animation.",
       "kind": "Plugins",
       "category": "Text Tools",
       "target": "edit-title",
@@ -777,7 +777,7 @@
   "updatedAt": "2026-10-06T19:57:29.036644Z",
   "launcher": {
     "version": "0.5.2",
-    "notes": "Google Drive now signs in with your Google account from the Connect tab, one button, nothing to paste. Frame.io already signs in with Adobe.",
+    "notes": "Ten plugin updates land with this build. Google Drive still needs its OAuth client; the one-button sign-in ships in the next build once the client is bundled. Frame.io signs in with Adobe.",
     "arm64": {
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.5.2/GrainAndGate-Launcher-0.5.2-arm64.dmg",
       "size": 114043727,
