@@ -122,10 +122,10 @@
       "parts": null,
       "scope": "system",
       "subfolder": null,
-      "version": "1.3",
-      "size": 18929,
-      "sha256": "8287218570a09b7aec040448cbac528f721b20169a687868ef9b09227284f60c",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/background-lab-1.3.zip"
+      "version": "1.4",
+      "size": 64946,
+      "sha256": "ffae6f405efd98faa2b86a519e68d34014a415b48a44d773d38d69575360a727",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/background-lab-1.4.zip"
     },
     {
       "id": "camera-layer",
@@ -137,10 +137,10 @@
       "parts": null,
       "scope": "system",
       "subfolder": "Grain&Gate/Generators | Grain&Gate/Layer Presets",
-      "version": "1.3",
-      "size": 26508,
-      "sha256": "176065507817c3c0a65310c43b81e14f1340468a0cfb32cb92188993cfd3eb9f",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/camera-layer-1.3.zip"
+      "version": "1.4",
+      "size": 26667,
+      "sha256": "8e54cc4c46d39a3130dc31ca93d3c68affd1225b847269a09813da386177f769",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/camera-layer-1.4.zip"
     },
     {
       "id": "collage-pro",
@@ -197,10 +197,10 @@
       "parts": null,
       "scope": "system",
       "subfolder": "Grain&Gate/Generators | Grain&Gate/Layer Presets",
-      "version": "1.1",
-      "size": 5969,
-      "sha256": "0e0c08d508c7be6a0ea82c03633473be6c5b6287bd268be57206e1ab2ab7868a",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/draw-on-layer-1.1.zip"
+      "version": "1.2",
+      "size": 7029,
+      "sha256": "f5d388d7fdcd96d1f01956195fe119a64bc63924fe57914d9efcb3f7034942f0",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/draw-on-layer-1.2.zip"
     },
     {
       "id": "film-lab",
@@ -212,10 +212,10 @@
       "parts": null,
       "scope": "system",
       "subfolder": "Grain&Gate/Generators | Grain&Gate/Lab Presets",
-      "version": "1.2",
-      "size": 6798,
-      "sha256": "2755c00989404f1ab8c8ceeb0e52aa6577e17185b798e91c3934f5521f7540b9",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/film-lab-1.2.zip"
+      "version": "1.3",
+      "size": 6815,
+      "sha256": "98bf16de2191b434e1d87d27e6d575a02edaed8797a72b6642a1306b35142562",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/film-lab-1.3.zip"
     },
     {
       "id": "fisheye-pro",
@@ -272,10 +272,10 @@
       "parts": null,
       "scope": "system",
       "subfolder": "Grain&Gate/Generators | Grain&Gate/Layer Presets",
-      "version": "1.3",
-      "size": 14348,
-      "sha256": "7fa2e11c803668bf2780240b82ce096f069ef5f48eb247bed835c66e8ff6a6d3",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/generator-layer-1.3.zip"
+      "version": "1.4",
+      "size": 16326,
+      "sha256": "83989806cf7702ee61b1de73ced24eebd869667abdefc11a0af114da151e67f9",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/generator-layer-1.4.zip"
     },
     {
       "id": "gg-textures",
@@ -393,10 +393,10 @@
       "parts": null,
       "scope": "system",
       "subfolder": "Grain&Gate/Generators | Grain&Gate/Layer Presets",
-      "version": "1.4",
-      "size": 9859,
-      "sha256": "f36b98c0c8d3243f20edadb6bbfd33b7e4d5a52bded97405922b2f44735207ca",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/movement-layer-1.4.zip"
+      "version": "1.5",
+      "size": 9880,
+      "sha256": "0d13738b6e7dff5e38c997f00774abb654c8d2683f46637fa9d5fc828db816ed",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/movement-layer-1.5.zip"
     },
     {
       "id": "overlay-layer",
@@ -408,10 +408,10 @@
       "parts": null,
       "scope": "system",
       "subfolder": "Grain&Gate/Generators | Grain&Gate/Layer Presets",
-      "version": "1.2",
-      "size": 5916,
-      "sha256": "2a0a0d53c9d2ef952a0564165b352f3774e131af14c23b42247d566dc9355d94",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/overlay-layer-1.2.zip"
+      "version": "1.3",
+      "size": 10554,
+      "sha256": "2f861fd52099498bccba1b0f8c54b03c68f16e1ced645786852968a99c0c6e69",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/overlay-layer-1.3.zip"
     },
     {
       "id": "patch-replacer",
@@ -453,10 +453,10 @@
       "parts": null,
       "scope": "system",
       "subfolder": "Grain&Gate/Style Tools | Grain&Gate",
-      "version": "1.2",
-      "size": 14902,
-      "sha256": "70c5295a433222f8a0331ebd22802fa03ce9f22011b928007ec415c344208966",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-lab-1.2.zip"
+      "version": "1.3",
+      "size": 15152,
+      "sha256": "e7cea4551fb664b1e8dc29a6895341d7aaf6cd618b6db987550e4cce3625a4ee",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-lab-1.3.zip"
     },
     {
       "id": "scramble-text-lab",
@@ -588,10 +588,10 @@
       "parts": null,
       "scope": "system",
       "subfolder": "Grain&Gate/Generators | Grain&Gate/Lab Presets",
-      "version": "1.2",
-      "size": 14143,
-      "sha256": "c97ada1113e2b8c39b52cfb9ee83a23211950fff47f2657da2273b7a1f20f2bb",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/transition-lab-1.2.zip"
+      "version": "1.3",
+      "size": 14397,
+      "sha256": "9fca90a6b89844bd5cbeed64b0e6351a5b78dc595c0888c7716e5a4b83e85506",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/transition-lab-1.3.zip"
     },
     {
       "id": "volume-clouds",
@@ -618,10 +618,10 @@
       "parts": null,
       "scope": "system",
       "subfolder": "Grain&Gate/Generators | Grain&Gate/Layer Presets",
-      "version": "1.3",
-      "size": 8772,
-      "sha256": "7e93603483bfd93dd4b39ae1078b69f40fa4fc24af67c17ff53126f2a267eb1b",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/zoom-layer-1.3.zip"
+      "version": "1.4",
+      "size": 8895,
+      "sha256": "becfcac07f78cf5c36a197c8c9ded477835619af9774242ec555a28ff6f161c4",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/zoom-layer-1.4.zip"
     },
     {
       "id": "list-lab",
@@ -774,7 +774,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/gg-gobos-1.0.zip"
     }
   ],
-  "updatedAt": "2026-10-06T17:37:07.565664Z",
+  "updatedAt": "2026-10-06T19:54:40.083646Z",
   "launcher": {
     "version": "0.5.1",
     "notes": "Fixes the Settings panel rendering with no styling: the window's content policy allowed inline CSS but not the stylesheet file the new settings standard ships in.",
