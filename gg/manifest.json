@@ -476,7 +476,7 @@
     {
       "id": "shape-layer",
       "name": "Shape Layer | G&G",
-      "description": "Superellipse shape builder with A→B morph timing.",
+      "description": "Superellipse shape builder with A\u2192B morph timing.",
       "kind": "Plugins",
       "category": "Layer Presets",
       "target": "edit-generator",
@@ -506,7 +506,7 @@
     {
       "id": "text-lab",
       "name": "Text Lab | G&G",
-      "description": "The flagship title tool — per character, word and line animation.",
+      "description": "The flagship title tool \u2014 per character, word and line animation.",
       "kind": "Plugins",
       "category": "Text Tools",
       "target": "edit-title",
@@ -774,14 +774,14 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/gg-gobos-1.0.zip"
     }
   ],
-  "updatedAt": "2026-10-06T19:57:29.036644Z",
+  "updatedAt": "2026-10-06T20:10:13.361310Z",
   "launcher": {
-    "version": "0.5.2",
-    "notes": "Ten plugin updates land with this build. Google Drive still needs its OAuth client; the one-button sign-in ships in the next build once the client is bundled. Frame.io signs in with Adobe.",
+    "version": "0.5.3",
+    "notes": "Updating a tool now finishes cleanly: the card shows Done and leaves the Updates list instead of sitting on Working. The account menu is redesigned, with a Settings entry, live connection chips for Frame.io, Drive and Notion, and a profile photo you can set by clicking your avatar.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.5.2/GrainAndGate-Launcher-0.5.2-arm64.dmg",
-      "size": 114043727,
-      "sha256": "90293f59b87867c35329dcabe1639e151d8f97ee6dd904debbc7092c96aacf7e"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.5.3/GrainAndGate-Launcher-0.5.3-arm64.dmg",
+      "size": 114047437,
+      "sha256": "9d0ba88faaf96f9454b0aa6e68c02713a33b200690ee93e713843c0b145c7349"
     }
   }
 }
