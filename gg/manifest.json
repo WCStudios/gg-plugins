@@ -15,10 +15,10 @@
       "subfolder": null,
       "arch": "arm64",
       "bundleId": "co.wcstudios.edtlb",
-      "version": "1.0.267",
-      "size": 168835914,
-      "sha256": "dc7c290978408f5eeaa4b8694a3028d772c97a10f3951fb91de245fd98a42499",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.267.zip",
+      "version": "1.0.268",
+      "size": 168836784,
+      "sha256": "6b451fecb8300c65ed3302914533de814683b687c460516fdabbbd2f84097066",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.268.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/edtlb.png",
       "tagline": "DaVinci Resolve companion"
     },
@@ -802,7 +802,7 @@
       "spotlight": true
     }
   ],
-  "updatedAt": "2026-10-07T18:39:48.382990Z",
+  "updatedAt": "2026-10-07T18:48:15.059401Z",
   "launcher": {
     "version": "0.5.5",
     "notes": "Print Lab V2 now leads Home and the Plugins banner with its cover art, whether or not it is installed yet.",
