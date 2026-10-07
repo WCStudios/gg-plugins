@@ -772,9 +772,35 @@
       "size": 1201220,
       "sha256": "8beb90e3f07c9861ad659a0c42ad017aa88dfe865823dc75c1b9e14143011566",
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/gg-gobos-1.0.zip"
+    },
+    {
+      "id": "print-lab-v2",
+      "name": "Print Lab V2 | G&G",
+      "description": "Print-and-scan engine: CMYK separation, 11 halftone methods, printer wear, ink bleed, paper, torn cutouts and solid-ink stamp looks.",
+      "kind": "Plugins",
+      "category": "Style Tools",
+      "target": null,
+      "parts": [
+        {
+          "path": "Templates",
+          "target": "edit-effect",
+          "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        }
+      ],
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 211274,
+      "sha256": "17e4106e6529768016aac9f8a09e875d3b4aa377d7925c8418ad49faffd4399e",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-lab-v2-1.0.zip"
     }
   ],
-  "updatedAt": "2026-10-07T01:13:07.561903Z",
+  "updatedAt": "2026-10-07T02:48:34.143255Z",
   "launcher": {
     "version": "0.5.3",
     "notes": "Updating a tool now finishes cleanly: the card shows Done and leaves the Updates list instead of sitting on Working. The account menu is redesigned, with a Settings entry, live connection chips for Frame.io, Drive and Notion, and a profile photo you can set by clicking your avatar.",
