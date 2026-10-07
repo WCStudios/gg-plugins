@@ -513,10 +513,10 @@
       "parts": null,
       "scope": "system",
       "subfolder": null,
-      "version": "1.5",
-      "size": 77153,
-      "sha256": "ca569d64103c86f002bdcd60a521024f35923523e6559d1ca778008f5279449f",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-1.5.zip"
+      "version": "1.6",
+      "size": 80686,
+      "sha256": "b257905b0a80590cc0ceb5bad49a3ee21406d887eba80d1f9ffb9709d968928d",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-1.6.zip"
     },
     {
       "id": "texture-pro",
@@ -774,7 +774,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/gg-gobos-1.0.zip"
     }
   ],
-  "updatedAt": "2026-10-07T00:20:06.405842Z",
+  "updatedAt": "2026-10-07T00:43:32.638023Z",
   "launcher": {
     "version": "0.5.3",
     "notes": "Updating a tool now finishes cleanly: the card shows Done and leaves the Updates list instead of sitting on Working. The account menu is redesigned, with a Settings entry, live connection chips for Frame.io, Drive and Notion, and a profile photo you can set by clicking your avatar.",
