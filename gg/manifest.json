@@ -333,10 +333,10 @@
       "parts": null,
       "scope": "system",
       "subfolder": null,
-      "version": "1.4",
-      "size": 38951,
-      "sha256": "44fc10b6a7cf484200bfa9e23d5d9dbf4f4171664b56283c5c3b158b739b44a9",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/l3rds-1.4.zip"
+      "version": "1.5",
+      "size": 38920,
+      "sha256": "26b2041d9d18c3271b6e94652d1f298019e53e3fb7f98fcefe66a6680d00c686",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/l3rds-1.5.zip"
     },
     {
       "id": "locked-on",
@@ -513,10 +513,10 @@
       "parts": null,
       "scope": "system",
       "subfolder": null,
-      "version": "1.4",
-      "size": 74800,
-      "sha256": "f51f3b5b8f01ca6cc5758db23154ef30ce7fd51f67907ceb1a831ef4ebe78c67",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-1.4.zip"
+      "version": "1.5",
+      "size": 77153,
+      "sha256": "ca569d64103c86f002bdcd60a521024f35923523e6559d1ca778008f5279449f",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-1.5.zip"
     },
     {
       "id": "texture-pro",
@@ -774,7 +774,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/gg-gobos-1.0.zip"
     }
   ],
-  "updatedAt": "2026-10-06T20:21:03.430310Z",
+  "updatedAt": "2026-10-07T00:20:06.405842Z",
   "launcher": {
     "version": "0.5.3",
     "notes": "Updating a tool now finishes cleanly: the card shows Done and leaves the Updates list instead of sitting on Working. The account menu is redesigned, with a Settings entry, live connection chips for Frame.io, Drive and Notion, and a profile photo you can set by clicking your avatar.",
