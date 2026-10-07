@@ -15,10 +15,10 @@
       "subfolder": null,
       "arch": "arm64",
       "bundleId": "co.wcstudios.edtlb",
-      "version": "1.0.270",
-      "size": 168840689,
-      "sha256": "123d4fac9bb774b4aae2a78aadbf172d0e8a3bcc58b8b7328725d61b3e72c382",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.270.zip",
+      "version": "1.0.271",
+      "size": 168846356,
+      "sha256": "359a74de4296fca81359653dfa970b95318cb4ece216218b771b6583dc9869e8",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.271.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/edtlb.png",
       "tagline": "DaVinci Resolve companion"
     },
@@ -802,7 +802,7 @@
       "spotlight": true
     }
   ],
-  "updatedAt": "2026-10-07T19:51:39.994131Z",
+  "updatedAt": "2026-10-07T20:16:10.748882Z",
   "launcher": {
     "version": "0.5.7",
     "notes": "Studio Setup: Resolve Studio, Frame.io Drive and Gyroflow install from their makers, for team accounts",
