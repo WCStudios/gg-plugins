@@ -794,13 +794,13 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.1",
-      "size": 212175,
-      "sha256": "66dae4b89d74a69882e562db1185fe8ab05259d1037019b48726b5b52b54c42d",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-lab-v2-1.1.zip"
+      "version": "1.2",
+      "size": 223964,
+      "sha256": "7f2a9e1cc704934380d115afdbb5d8c6958675cc9f2b294b3edf703ed1dfcc92",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-lab-v2-1.2.zip"
     }
   ],
-  "updatedAt": "2026-10-07T03:37:46.350751Z",
+  "updatedAt": "2026-10-07T04:21:47.142268Z",
   "launcher": {
     "version": "0.5.3",
     "notes": "Updating a tool now finishes cleanly: the card shows Done and leaves the Updates list instead of sitting on Working. The account menu is redesigned, with a Settings entry, live connection chips for Frame.io, Drive and Notion, and a profile photo you can set by clicking your avatar.",
