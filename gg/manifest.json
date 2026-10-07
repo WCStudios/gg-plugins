@@ -802,14 +802,14 @@
       "spotlight": true
     }
   ],
-  "updatedAt": "2026-10-07T20:16:10.748882Z",
+  "updatedAt": "2026-10-07T20:37:04.282727Z",
   "launcher": {
-    "version": "0.5.7",
-    "notes": "Studio Setup: Resolve Studio, Frame.io Drive and Gyroflow install from their makers, for team accounts",
+    "version": "0.6.0",
+    "notes": "Teams: switch between personal and team accounts, invite members, roles and seats, pictures that follow the account; Studio Setup for teams; taller banner art",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.5.7/GrainAndGate-Launcher-0.5.7-arm64.dmg",
-      "size": 114048108,
-      "sha256": "fc853e7ff28e407bffef804e7b0adcd802954ef0aabb20da8b14c359ba42eb22"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.6.0/GrainAndGate-Launcher-0.6.0-arm64.dmg",
+      "size": 114510758,
+      "sha256": "3f972635d5bdeb095be319e25627bdb177515bc5c79cb7e01defb50468c799a9"
     }
   },
   "setup": [
