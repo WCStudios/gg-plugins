@@ -802,14 +802,14 @@
       "spotlight": true
     }
   ],
-  "updatedAt": "2026-10-07T16:48:23.727980Z",
+  "updatedAt": "2026-10-07T17:01:48.208280Z",
   "launcher": {
-    "version": "0.5.3",
-    "notes": "Updating a tool now finishes cleanly: the card shows Done and leaves the Updates list instead of sitting on Working. The account menu is redesigned, with a Settings entry, live connection chips for Frame.io, Drive and Notion, and a profile photo you can set by clicking your avatar.",
+    "version": "0.5.4",
+    "notes": "Print Lab V2 now leads the library banner with its own cover art, and any tool can carry a cover image. Also groundwork for one-button Google Drive on every Mac.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.5.3/GrainAndGate-Launcher-0.5.3-arm64.dmg",
-      "size": 114047437,
-      "sha256": "9d0ba88faaf96f9454b0aa6e68c02713a33b200690ee93e713843c0b145c7349"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.5.4/GrainAndGate-Launcher-0.5.4-arm64.dmg",
+      "size": 114043857,
+      "sha256": "b12f59f9569086ab1de11b053d99e1b0eb09d18b4d3ed5c09417ed23a7ecabfa"
     }
   }
 }
