@@ -15,10 +15,10 @@
       "subfolder": null,
       "arch": "arm64",
       "bundleId": "co.wcstudios.edtlb",
-      "version": "1.0.268",
-      "size": 168836784,
-      "sha256": "6b451fecb8300c65ed3302914533de814683b687c460516fdabbbd2f84097066",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.268.zip",
+      "version": "1.0.269",
+      "size": 168839883,
+      "sha256": "f905da9f9fd725c914eb9178e3c0a7c2d5fdf3029eb0d634405be458dba586db",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.269.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/edtlb.png",
       "tagline": "DaVinci Resolve companion"
     },
@@ -802,7 +802,7 @@
       "spotlight": true
     }
   ],
-  "updatedAt": "2026-10-07T19:08:59.677917Z",
+  "updatedAt": "2026-10-07T19:16:21.314369Z",
   "launcher": {
     "version": "0.5.6",
     "notes": "Home banner polish: cover art shows whole instead of cropped, the redundant name chip is gone, and the carousel arrows fade in only when the pointer is over the banner. The window now opens at the size and position you last left it.",
