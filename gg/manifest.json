@@ -794,15 +794,15 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.2",
-      "size": 223964,
-      "sha256": "7f2a9e1cc704934380d115afdbb5d8c6958675cc9f2b294b3edf703ed1dfcc92",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-lab-v2-1.2.zip",
+      "version": "1.3",
+      "size": 242443,
+      "sha256": "02e357a8383908cb120f06394c8f44a1a74042becd0c137cfe68f4c29b2a31be",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-lab-v2-1.3.zip",
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/print-lab-v2.jpg",
       "spotlight": true
     }
   ],
-  "updatedAt": "2026-10-07T19:08:36.931001Z",
+  "updatedAt": "2026-10-07T19:08:59.677917Z",
   "launcher": {
     "version": "0.5.6",
     "notes": "Home banner polish: cover art shows whole instead of cropped, the redundant name chip is gone, and the carousel arrows fade in only when the pointer is over the banner. The window now opens at the size and position you last left it.",
