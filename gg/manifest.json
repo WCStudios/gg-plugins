@@ -802,14 +802,14 @@
       "spotlight": true
     }
   ],
-  "updatedAt": "2026-10-07T17:07:45.321262Z",
+  "updatedAt": "2026-10-07T17:26:49.896478Z",
   "launcher": {
-    "version": "0.5.4",
-    "notes": "Print Lab V2 now leads the library banner with its own cover art, and any tool can carry a cover image. Also groundwork for one-button Google Drive on every Mac.",
+    "version": "0.5.5",
+    "notes": "Print Lab V2 now leads Home and the Plugins banner with its cover art, whether or not it is installed yet.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.5.4/GrainAndGate-Launcher-0.5.4-arm64.dmg",
-      "size": 114043857,
-      "sha256": "b12f59f9569086ab1de11b053d99e1b0eb09d18b4d3ed5c09417ed23a7ecabfa"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.5.5/GrainAndGate-Launcher-0.5.5-arm64.dmg",
+      "size": 114043160,
+      "sha256": "00170eadc4f338b924e06fa7eca71043e94dc0f890be51c58d5434b909f5377a"
     }
   }
 }
