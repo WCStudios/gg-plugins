@@ -666,11 +666,11 @@
       "arch": "arm64",
       "bundleId": "co.wcstudios.mtion",
       "tagline": "Motion design for Fusion",
-      "version": "0.5.21",
+      "version": "0.5.27",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/mtnlb.png",
-      "size": 88215982,
-      "sha256": "aa10e5d3878dc25c11655c2e590b489d118b696ad98c7f9305793a9225687c55",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-mtnlb/mtnlb-0.5.21.zip"
+      "size": 88480840,
+      "sha256": "86392088a7f84b399975710be9c3c098490bd50649ee1efc9916427a5ac3442f",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-mtnlb/mtnlb-0.5.27.zip"
     },
     {
       "id": "equalizer-l3rd",
@@ -774,7 +774,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/gg-gobos-1.0.zip"
     }
   ],
-  "updatedAt": "2026-10-07T00:43:32.638023Z",
+  "updatedAt": "2026-10-07T01:13:07.561903Z",
   "launcher": {
     "version": "0.5.3",
     "notes": "Updating a tool now finishes cleanly: the card shows Done and leaves the Updates list instead of sitting on Working. The account menu is redesigned, with a Settings entry, live connection chips for Frame.io, Drive and Notion, and a profile photo you can set by clicking your avatar.",
