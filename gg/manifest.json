@@ -802,14 +802,14 @@
       "spotlight": true
     }
   ],
-  "updatedAt": "2026-10-07T18:48:15.059401Z",
+  "updatedAt": "2026-10-07T19:08:36.931001Z",
   "launcher": {
-    "version": "0.5.5",
-    "notes": "Print Lab V2 now leads Home and the Plugins banner with its cover art, whether or not it is installed yet.",
+    "version": "0.5.6",
+    "notes": "Home banner polish: cover art shows whole instead of cropped, the redundant name chip is gone, and the carousel arrows fade in only when the pointer is over the banner. The window now opens at the size and position you last left it.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.5.5/GrainAndGate-Launcher-0.5.5-arm64.dmg",
-      "size": 114043160,
-      "sha256": "00170eadc4f338b924e06fa7eca71043e94dc0f890be51c58d5434b909f5377a"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.5.6/GrainAndGate-Launcher-0.5.6-arm64.dmg",
+      "size": 114044158,
+      "sha256": "a9bcb5e1f8a7692066e7cabdbb8def29452be7d8cbd01cf2784d6e40bd2207f4"
     }
   }
 }
