@@ -476,7 +476,7 @@
     {
       "id": "shape-layer",
       "name": "Shape Layer | G&G",
-      "description": "Superellipse shape builder with A\u2192B morph timing.",
+      "description": "Superellipse shape builder with A→B morph timing.",
       "kind": "Plugins",
       "category": "Layer Presets",
       "target": "edit-generator",
@@ -506,7 +506,7 @@
     {
       "id": "text-lab",
       "name": "Text Lab | G&G",
-      "description": "The flagship title tool \u2014 per character, word and line animation.",
+      "description": "The flagship title tool — per character, word and line animation.",
       "kind": "Plugins",
       "category": "Text Tools",
       "target": "edit-title",
@@ -802,7 +802,7 @@
       "spotlight": true
     }
   ],
-  "updatedAt": "2026-10-07T20:37:04.282727Z",
+  "updatedAt": "2026-10-07T21:29:59.623963Z",
   "launcher": {
     "version": "0.6.0",
     "notes": "Teams: switch between personal and team accounts, invite members, roles and seats, pictures that follow the account; Studio Setup for teams; taller banner art",
@@ -823,7 +823,7 @@
       "version": "21.1.1",
       "free": true,
       "teamOnly": true,
-      "tagline": "Blackmagic Design \u00b7 edit, color, Fusion and Fairlight",
+      "tagline": "Blackmagic Design · edit, color, Fusion and Fairlight",
       "description": "The current Studio release, straight from Blackmagic. Runs Blackmagic's own installer, which asks for your admin password and shows the licence. Your Studio key or dongle carries over.",
       "external": {
         "source": "blackmagic",
@@ -835,7 +835,8 @@
           "/Applications/DaVinci Resolve/DaVinci Resolve.app"
         ],
         "page": "https://www.blackmagicdesign.com/support/family/davinci-resolve-and-fusion"
-      }
+      },
+      "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/resolve-studio.png"
     },
     {
       "id": "frameio-drive",
@@ -848,7 +849,7 @@
       "arch": "arm64",
       "free": true,
       "teamOnly": true,
-      "tagline": "Adobe \u00b7 Frame.io projects as a drive on your Mac",
+      "tagline": "Adobe · Frame.io projects as a drive on your Mac",
       "description": "Mounts the team's Frame.io projects in Finder so camera cards, cuts and reviews are one folder away. Replaces Frame.io Transfer. Downloaded from Adobe's own update feed and checked against their checksum.",
       "external": {
         "source": "squirrel",
@@ -860,7 +861,8 @@
           "/Applications/Frame.io Drive.app"
         ],
         "terms": "https://www.adobe.com/legal/terms.html"
-      }
+      },
+      "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/frameio-drive.png"
     },
     {
       "id": "gyroflow",
@@ -872,7 +874,7 @@
       "version": "1.6.3",
       "free": true,
       "teamOnly": true,
-      "tagline": "Gyroflow \u00b7 gyro-based stabilisation, open source",
+      "tagline": "Gyroflow · gyro-based stabilisation, open source",
       "description": "The desktop app for stabilising footage from camera gyro data. Universal build from the Gyroflow project on GitHub, GPL-3.0.",
       "external": {
         "source": "github",
@@ -886,7 +888,8 @@
         ],
         "versionStyle": "digits",
         "terms": "https://github.com/gyroflow/gyroflow/blob/master/LICENSE"
-      }
+      },
+      "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/gyroflow.png"
     },
     {
       "id": "gyroflow-ofx",
@@ -898,7 +901,7 @@
       "version": "1.3.0",
       "free": true,
       "teamOnly": true,
-      "tagline": "Gyroflow \u00b7 the Resolve plugin",
+      "tagline": "Gyroflow · the Resolve plugin",
       "description": "Gyroflow inside Resolve: apply a stabilisation project to a clip in the Edit or Color page. Lands in the system OFX folder, one admin prompt. Restart Resolve after installing.",
       "external": {
         "source": "github",
@@ -911,7 +914,8 @@
         ],
         "versionStyle": "digits",
         "terms": "https://github.com/gyroflow/gyroflow-ofx/blob/master/LICENSE"
-      }
+      },
+      "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/gyroflow.png"
     }
   ]
 }
