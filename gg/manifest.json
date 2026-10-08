@@ -802,14 +802,14 @@
       "spotlight": true
     }
   ],
-  "updatedAt": "2026-10-08T00:55:21.823385Z",
+  "updatedAt": "2026-10-08T01:05:01.023337Z",
   "launcher": {
-    "version": "0.6.2",
-    "notes": "Run your studio from the Studio tab: members, invites, roles and studio settings in one clean place. Website links open it straight in the launcher.",
+    "version": "0.6.3",
+    "notes": "Bigger studio banner, and a new Manage team window: members, files, branding and settings each on their own page.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.6.2/GrainAndGate-Launcher-0.6.2-arm64.dmg",
-      "size": 114057978,
-      "sha256": "4ad69acd12ce6fc7262422c7b7c0ea903565bc5d99a003f550038e0b0920fdee"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.6.3/GrainAndGate-Launcher-0.6.3-arm64.dmg",
+      "size": 114056936,
+      "sha256": "a119a66ffd007ee0fa70026ea9a22017fc86746513aa2e1744a5cbe4104182be"
     }
   },
   "setup": [
