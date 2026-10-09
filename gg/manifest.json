@@ -776,7 +776,7 @@
     {
       "id": "print-lab-v2",
       "name": "Print Lab V2 | G&G",
-      "description": "Print-and-scan engine: CMYK separation, 11 halftone methods, printer wear, ink bleed, paper, torn cutouts and solid-ink stamp looks.",
+      "description": "Print-and-scan engine on the GPU: CMYK separation, 11 halftone methods, printer wear, ink bleed, paper, torn cutouts and solid-ink stamp looks.",
       "kind": "Plugins",
       "category": "Style Tools",
       "target": null,
@@ -794,15 +794,88 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.3",
-      "size": 242443,
-      "sha256": "02e357a8383908cb120f06394c8f44a1a74042becd0c137cfe68f4c29b2a31be",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-lab-v2-1.3.zip",
+      "version": "1.4",
+      "size": 323277,
+      "sha256": "ee19390736df01b7cb88a6b9c934b55211e2d523c76bcf909e9177b668a3a924",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-lab-v2-1.4.zip",
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/print-lab-v2.jpg",
       "spotlight": true
+    },
+    {
+      "id": "blob-lab",
+      "name": "Blob Lab | G&G",
+      "description": "Blob tracking graphics: tracks bright, dark, edges, motion or a color, then draws boxes, coordinate labels, dashed connections, trails and inset fills.",
+      "kind": "Plugins",
+      "category": "Style Tools",
+      "target": null,
+      "parts": [
+        {
+          "path": "Templates",
+          "target": "edit-effect",
+          "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        }
+      ],
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 344420,
+      "sha256": "9138b34251a80b29741dec7c60877399a25882900ead10905b2e53c95fe25261",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/blob-lab-1.0.zip"
+    },
+    {
+      "id": "cutout-lab",
+      "name": "Cutout Lab | G&G",
+      "description": "Magic Mask cutouts with Print Lab V2 looks: print plate, two-ink riso, torn paper cutout and color pop, with motion, shadow and outline.",
+      "kind": "Plugins",
+      "category": "Style Tools",
+      "target": null,
+      "parts": [
+        {
+          "path": "Templates",
+          "target": "edit-effect",
+          "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        }
+      ],
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 260078,
+      "sha256": "2840a6c49fa063fb5f876932499eb1893f9f4c20ba00b43823fed37ce8fa4e42",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cutout-lab-1.0.zip"
+    },
+    {
+      "id": "cutout-mask",
+      "name": "Cutout Mask | G&G",
+      "description": "Resolve's Magic Mask as a drag and drop Edit effect, set up for cutouts.",
+      "kind": "Plugins",
+      "category": "Style Tools",
+      "target": null,
+      "parts": [
+        {
+          "path": "Templates",
+          "target": "edit-effect",
+          "scope": "system"
+        }
+      ],
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 506,
+      "sha256": "73f1e6c1e854cd518355da38ea62b852da0d8f2611882d82059952a6a08daecf",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cutout-mask-1.0.zip"
     }
   ],
-  "updatedAt": "2026-10-08T01:05:01.023337Z",
+  "updatedAt": "2026-10-09T22:49:30.571632Z",
   "launcher": {
     "version": "0.6.3",
     "notes": "Bigger studio banner, and a new Manage team window: members, files, branding and settings each on their own page.",
