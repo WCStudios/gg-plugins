@@ -89,7 +89,7 @@
     {
       "id": "3d-studio",
       "name": "3D Studio | G&G",
-      "description": "3D product studio with a curved cove backdrop, gobo lighting and shadows.",
+      "description": "One 3D tool for photos, text and logos: Single, Grid, Clock, Carousel, Random or Sphere layouts on a Studio, Flat Lay or HDRI backdrop, extruded 3D text and logos, key, rim and HDRI lighting, soft shadows and an animated pose camera. Rendered by one GPU Fuse, so it plays at 24 fps.",
       "kind": "Plugins",
       "category": "3D Tools",
       "target": null,
@@ -107,10 +107,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.3",
-      "size": 348475,
-      "sha256": "16cf93013dabf2c63c730f36a5d74b9f29696b8aba89099f876c7f10be716a7c",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-studio-1.3.zip"
+      "version": "1.4",
+      "size": 4415902,
+      "sha256": "b79249c8d01495e088b93848dc8f09acb12dc39e435f25674b6db8e8b419fce6",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-studio-1.4.zip"
     },
     {
       "id": "background-lab",
@@ -875,7 +875,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cutout-mask-1.0.zip"
     }
   ],
-  "updatedAt": "2026-10-10T15:32:27.871712Z",
+  "updatedAt": "2026-10-10T22:35:28.852824Z",
   "launcher": {
     "version": "0.6.3",
     "notes": "Bigger studio banner, and a new Manage team window: members, files, branding and settings each on their own page.",
