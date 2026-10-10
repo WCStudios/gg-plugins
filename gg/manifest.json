@@ -794,10 +794,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.4",
-      "size": 323277,
-      "sha256": "ee19390736df01b7cb88a6b9c934b55211e2d523c76bcf909e9177b668a3a924",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-lab-v2-1.4.zip",
+      "version": "1.5",
+      "size": 323441,
+      "sha256": "20c7cc709fea24a9f2d76eb3741a552b835fb013640f4ca01b3ca5edd823db6f",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-lab-v2-1.5.zip",
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/print-lab-v2.jpg",
       "spotlight": true
     },
@@ -875,7 +875,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cutout-mask-1.0.zip"
     }
   ],
-  "updatedAt": "2026-10-09T22:49:30.571632Z",
+  "updatedAt": "2026-10-10T02:29:12.772679Z",
   "launcher": {
     "version": "0.6.3",
     "notes": "Bigger studio banner, and a new Manage team window: members, files, branding and settings each on their own page.",
