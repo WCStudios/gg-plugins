@@ -42,51 +42,6 @@
       "tagline": "Photo workflow, camera to feed"
     },
     {
-      "id": "3d-carousel",
-      "name": "3D Carousel | G&G",
-      "description": "Rotating carousel of cards with a studio cove backdrop.",
-      "kind": "Plugins",
-      "category": "3D Tools",
-      "target": "edit-effect",
-      "parts": null,
-      "scope": "system",
-      "subfolder": "Grain&Gate/3D Tools | Grain&Gate",
-      "version": "1.2",
-      "size": 6710,
-      "sha256": "02d8d405e6adda7fc364ca2f840aa9b9c740b17b6707fbb710be8e20328f8156",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-carousel-1.2.zip"
-    },
-    {
-      "id": "3d-flat-lay",
-      "name": "3D Flat Lay | G&G",
-      "description": "Overhead flat-lay arrangement in a lit 3D scene.",
-      "kind": "Plugins",
-      "category": "3D Tools",
-      "target": "edit-effect",
-      "parts": null,
-      "scope": "system",
-      "subfolder": "Grain&Gate/3D Tools | Grain&Gate",
-      "version": "1.2",
-      "size": 10710,
-      "sha256": "e418bdca1c462b55a91b111639c96cd629d88e66c36ace75073cabc9313403e2",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-flat-lay-1.2.zip"
-    },
-    {
-      "id": "3d-grid",
-      "name": "3D Grid | G&G",
-      "description": "Multi-card 3D grid layout with camera moves and gobo lighting.",
-      "kind": "Plugins",
-      "category": "3D Tools",
-      "target": "edit-effect",
-      "parts": null,
-      "scope": "system",
-      "subfolder": "Grain&Gate/3D Tools | Grain&Gate",
-      "version": "1.2",
-      "size": 11435,
-      "sha256": "58da31bed9ebf6ce1a45dbb432de834e4bee56cf45a3579dd4f1b6a7396de9dc",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-grid-1.2.zip"
-    },
-    {
       "id": "3d-studio",
       "name": "3D Studio | G&G",
       "description": "One 3D tool for photos, text and logos: Single, Grid, Clock, Carousel, Random or Sphere layouts on a Studio, Flat Lay or HDRI backdrop, extruded 3D text and logos, key, rim and HDRI lighting, soft shadows and an animated pose camera. Rendered by one GPU Fuse, so it plays at 24 fps.",
@@ -171,21 +126,6 @@
       "size": 42464,
       "sha256": "07cdab9ae02123f4f45816860a153f43563c3fb06ea0dd8dffb356e8392cb9ab",
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/counter-text-lab-1.4.zip"
-    },
-    {
-      "id": "depth-point-cloud",
-      "name": "Depth Point Cloud | G&G",
-      "description": "Turns a depth map into a dimensional point cloud.",
-      "kind": "Plugins",
-      "category": "3D Tools",
-      "target": "edit-effect",
-      "parts": null,
-      "scope": "system",
-      "subfolder": "Grain&Gate/3D Tools | Grain&Gate",
-      "version": "0.11",
-      "size": 7642,
-      "sha256": "eca9bdb65f57808a27b01102fa130eb6084713ae52a1e9e1c61d4f0aaedb92f9",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/depth-point-cloud-0.11.zip"
     },
     {
       "id": "draw-on-layer",
@@ -875,7 +815,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cutout-mask-1.0.zip"
     }
   ],
-  "updatedAt": "2026-10-10T22:35:28.852824Z",
+  "updatedAt": "2026-10-10T22:35:39.847615Z",
   "launcher": {
     "version": "0.6.3",
     "notes": "Bigger studio banner, and a new Manage team window: members, files, branding and settings each on their own page.",
