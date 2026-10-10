@@ -848,10 +848,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.2",
-      "size": 330653,
-      "sha256": "2346ecdc42b2becf9921ae58bb18bd322c53d49ef78437073ada2bf843e3c5ee",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cutout-lab-1.2.zip"
+      "version": "1.3",
+      "size": 330672,
+      "sha256": "7809dcf73555d660c81a6655d198b3ce31033cc905894088383f7ccc6cac1a57",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cutout-lab-1.3.zip"
     },
     {
       "id": "cutout-mask",
@@ -875,7 +875,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cutout-mask-1.0.zip"
     }
   ],
-  "updatedAt": "2026-10-10T04:39:31.727176Z",
+  "updatedAt": "2026-10-10T15:32:27.871712Z",
   "launcher": {
     "version": "0.6.3",
     "notes": "Bigger studio banner, and a new Manage team window: members, files, branding and settings each on their own page.",
