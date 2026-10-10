@@ -830,7 +830,7 @@
     {
       "id": "cutout-lab",
       "name": "Cutout Lab | G&G",
-      "description": "Magic Mask cutouts with Print Lab V2 looks: print plate, two-ink riso, torn paper cutout and color pop, with motion, shadow and outline.",
+      "description": "Magic Mask cutouts with Print Lab V2 looks: print plate, two-ink riso, torn paper cutout, color pop and a tiled Ground backdrop that follows the subject, with motion, shadow and outline.",
       "kind": "Plugins",
       "category": "Style Tools",
       "target": null,
@@ -848,10 +848,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.0",
-      "size": 260078,
-      "sha256": "2840a6c49fa063fb5f876932499eb1893f9f4c20ba00b43823fed37ce8fa4e42",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cutout-lab-1.0.zip"
+      "version": "1.1",
+      "size": 322855,
+      "sha256": "51972ff44cf93efd19494a45862078e1cc2113dd568e9dc98be3581250f013ff",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cutout-lab-1.1.zip"
     },
     {
       "id": "cutout-mask",
@@ -875,7 +875,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cutout-mask-1.0.zip"
     }
   ],
-  "updatedAt": "2026-10-10T02:29:12.772679Z",
+  "updatedAt": "2026-10-10T03:56:36.523799Z",
   "launcher": {
     "version": "0.6.3",
     "notes": "Bigger studio banner, and a new Manage team window: members, files, branding and settings each on their own page.",
