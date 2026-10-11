@@ -606,11 +606,11 @@
       "arch": "arm64",
       "bundleId": "co.wcstudios.mtion",
       "tagline": "Motion design for Fusion",
-      "version": "0.5.27",
+      "version": "0.5.29",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/mtnlb.png",
-      "size": 88480840,
-      "sha256": "86392088a7f84b399975710be9c3c098490bd50649ee1efc9916427a5ac3442f",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-mtnlb/mtnlb-0.5.27.zip"
+      "size": 88568394,
+      "sha256": "b4ba781fc6a1309b7a67da0e578cb90b76ead90ca75538d43429581b1aa9d42f",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-mtnlb/mtnlb-0.5.29.zip"
     },
     {
       "id": "equalizer-l3rd",
@@ -841,7 +841,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-beta-0.2.zip"
     }
   ],
-  "updatedAt": "2026-10-11T01:19:20.082495Z",
+  "updatedAt": "2026-10-11T02:15:12.294246Z",
   "launcher": {
     "version": "0.6.3",
     "notes": "Bigger studio banner, and a new Manage team window: members, files, branding and settings each on their own page.",
