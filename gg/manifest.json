@@ -813,9 +813,35 @@
       "size": 506,
       "sha256": "73f1e6c1e854cd518355da38ea62b852da0d8f2611882d82059952a6a08daecf",
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cutout-mask-1.0.zip"
+    },
+    {
+      "id": "text-lab-beta",
+      "name": "Text Lab Engine (Beta) | G&G",
+      "description": "Beta of Text Lab rebuilt on the G&G Text Engine Fuse: the Text Lab UI with character styles, Motion Types, reveals and Echo rendered by one engine, so titles play smoothly, even several at once. Installs beside Text Lab, which stays as is.",
+      "kind": "Plugins",
+      "category": "Text Tools",
+      "target": null,
+      "parts": [
+        {
+          "path": "Templates",
+          "target": "edit-title",
+          "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        }
+      ],
+      "scope": "system",
+      "subfolder": null,
+      "version": "0.1",
+      "size": 925461,
+      "sha256": "5bac24996670564541893eb8d2f29d99ca06bb9579f814cdae1557c9c2403ce1",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-beta-0.1.zip"
     }
   ],
-  "updatedAt": "2026-10-10T22:35:39.847615Z",
+  "updatedAt": "2026-10-11T00:20:10.066339Z",
   "launcher": {
     "version": "0.6.3",
     "notes": "Bigger studio banner, and a new Manage team window: members, files, branding and settings each on their own page.",
