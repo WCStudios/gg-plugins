@@ -416,7 +416,7 @@
     {
       "id": "shape-layer",
       "name": "Shape Layer | G&G",
-      "description": "Superellipse shape builder with A→B morph timing.",
+      "description": "Superellipse shape builder with A\u2192B morph timing.",
       "kind": "Plugins",
       "category": "Layer Presets",
       "target": "edit-generator",
@@ -446,7 +446,7 @@
     {
       "id": "text-lab",
       "name": "Text Lab | G&G",
-      "description": "The flagship title tool — per character, word and line animation.",
+      "description": "The flagship title tool \u2014 per character, word and line animation.",
       "kind": "Plugins",
       "category": "Text Tools",
       "target": "edit-title",
@@ -841,14 +841,14 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-beta-0.2.zip"
     }
   ],
-  "updatedAt": "2026-10-13T20:49:13.521157Z",
+  "updatedAt": "2026-10-13T21:31:06.011611Z",
   "launcher": {
-    "version": "0.6.3",
-    "notes": "Bigger studio banner, and a new Manage team window: members, files, branding and settings each on their own page.",
+    "version": "0.6.4",
+    "notes": "Up-to-date tools now show a green outline button. Gyroflow OFX installs the current 2.x plugin, checked for its signature first. New launcher versions show up within a couple of minutes of release.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.6.3/GrainAndGate-Launcher-0.6.3-arm64.dmg",
-      "size": 114056936,
-      "sha256": "a119a66ffd007ee0fa70026ea9a22017fc86746513aa2e1744a5cbe4104182be"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.6.4/GrainAndGate-Launcher-0.6.4-arm64.dmg",
+      "size": 114056879,
+      "sha256": "3e085c76b0c96bc00c941cb04eafce75d9c8744623fbd3d7129cddbd330dd30e"
     }
   },
   "setup": [
@@ -862,7 +862,7 @@
       "version": "21.1.1",
       "free": true,
       "teamOnly": true,
-      "tagline": "Blackmagic Design · edit, color, Fusion and Fairlight",
+      "tagline": "Blackmagic Design \u00b7 edit, color, Fusion and Fairlight",
       "description": "The current Studio release, straight from Blackmagic. Runs Blackmagic's own installer, which asks for your admin password and shows the licence. Your Studio key or dongle carries over.",
       "external": {
         "source": "blackmagic",
@@ -888,7 +888,7 @@
       "arch": "arm64",
       "free": true,
       "teamOnly": true,
-      "tagline": "Adobe · Frame.io projects as a drive on your Mac",
+      "tagline": "Adobe \u00b7 Frame.io projects as a drive on your Mac",
       "description": "Mounts the team's Frame.io projects in Finder so camera cards, cuts and reviews are one folder away. Replaces Frame.io Transfer. Downloaded from Adobe's own update feed and checked against their checksum.",
       "external": {
         "source": "squirrel",
@@ -913,7 +913,7 @@
       "version": "1.6.3",
       "free": true,
       "teamOnly": true,
-      "tagline": "Gyroflow · gyro-based stabilisation, open source",
+      "tagline": "Gyroflow \u00b7 gyro-based stabilisation, open source",
       "description": "The desktop app for stabilising footage from camera gyro data. Universal build from the Gyroflow project on GitHub, GPL-3.0.",
       "external": {
         "source": "github",
@@ -940,7 +940,7 @@
       "version": "2.1.1",
       "free": true,
       "teamOnly": true,
-      "tagline": "Gyroflow · the Resolve plugin",
+      "tagline": "Gyroflow \u00b7 the Resolve plugin",
       "description": "Gyroflow inside Resolve: apply a stabilisation project to a clip in the Edit or Color page. The current plugin from the Gyroflow plugins project, signed by Gyroflow. Lands in the system OFX folder, one admin prompt. Restart Resolve after installing.",
       "external": {
         "source": "github",
