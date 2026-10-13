@@ -65,7 +65,184 @@
       "version": "1.4",
       "size": 4415902,
       "sha256": "b79249c8d01495e088b93848dc8f09acb12dc39e435f25674b6db8e8b419fce6",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-studio-1.4.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-studio-1.4.zip",
+      "files": [
+        {
+          "p": 1,
+          "f": "GG_3dStudioCore.fuse",
+          "h": "3c9392291c9483b71933cf1035a41db051f8831dcf1e567be7255441923d3c99"
+        },
+        {
+          "p": 1,
+          "f": "GG_CamPoses.fuse",
+          "h": "13e667e7d133d9b00777987d3c29b2a300b24340b23dc0f90f58f10004297737"
+        },
+        {
+          "p": 1,
+          "f": "GG_Switch3D.fuse",
+          "h": "42978525e99816d271634aee75b21bdc4d5609651d0d6ea145d28932a1f29601"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/3D Studio | G&G.setting",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Studio Corner.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Studio Cove In.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Studio Cove Out.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Studio Softbox.exr",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Round Gallery.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Round Solid.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Round Stretch.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Sharp Gallery.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Sharp Solid.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Sharp Stretch.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Soft Gallery.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Soft Solid.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Soft Stretch.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Round Gallery.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Round Solid.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Round Stretch.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Sharp Gallery.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Sharp Solid.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Sharp Stretch.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Soft Gallery.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Soft Solid.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Soft Stretch.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Round Gallery.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Round Solid.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Round Stretch.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Sharp Gallery.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Sharp Solid.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Sharp Stretch.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Soft Gallery.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Soft Solid.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Soft Stretch.obj",
+          "h": null
+        }
+      ]
     },
     {
       "id": "background-lab",
@@ -80,7 +257,14 @@
       "version": "1.4",
       "size": 64946,
       "sha256": "ffae6f405efd98faa2b86a519e68d34014a415b48a44d773d38d69575360a727",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/background-lab-1.4.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/background-lab-1.4.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Generators | Grain&Gate/Lab Presets/Background Lab | G&G.setting",
+          "h": "0ebd06b07aeb6acac0a3dbd10cf35cbfb961746f63086c814586e48e6526ff1b"
+        }
+      ]
     },
     {
       "id": "camera-layer",
@@ -95,7 +279,14 @@
       "version": "1.4",
       "size": 26667,
       "sha256": "8e54cc4c46d39a3130dc31ca93d3c68affd1225b847269a09813da386177f769",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/camera-layer-1.4.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/camera-layer-1.4.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Generators | Grain&Gate/Layer Presets/Camera Layer | G&G.setting",
+          "h": "8227689305d40e535d8897d2b76d17f066126183e3155ef67e34934e32744e01"
+        }
+      ]
     },
     {
       "id": "collage-pro",
@@ -110,7 +301,14 @@
       "version": "1.1",
       "size": 19828,
       "sha256": "c8db900f4c2f7b71749b34cfee697469166afe01931c3b21428bdf50cb52f73c",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/collage-pro-1.1.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/collage-pro-1.1.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Style Tools | Grain&Gate/Collage Pro | G&G.setting",
+          "h": "3d1037879fbde68ac220bc02ea82db66ac22a63d50353340db47cfa6b5015303"
+        }
+      ]
     },
     {
       "id": "counter-text-lab",
@@ -125,7 +323,14 @@
       "version": "1.4",
       "size": 42464,
       "sha256": "07cdab9ae02123f4f45816860a153f43563c3fb06ea0dd8dffb356e8392cb9ab",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/counter-text-lab-1.4.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/counter-text-lab-1.4.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Presets - Text Lab/Counter | Text Lab.setting",
+          "h": "477f2647320abd161e861b049027758e7bfa517305a7e6f0d0b85673253eed12"
+        }
+      ]
     },
     {
       "id": "draw-on-layer",
@@ -140,7 +345,14 @@
       "version": "1.2",
       "size": 7029,
       "sha256": "f5d388d7fdcd96d1f01956195fe119a64bc63924fe57914d9efcb3f7034942f0",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/draw-on-layer-1.2.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/draw-on-layer-1.2.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Generators | Grain&Gate/Layer Presets/Draw On Layer | G&G.setting",
+          "h": "42373b0b14ff2536e3f2f4e11c49de8b16d870d420d1d007218bc4ad812510ea"
+        }
+      ]
     },
     {
       "id": "film-lab",
@@ -155,7 +367,14 @@
       "version": "1.3",
       "size": 6815,
       "sha256": "98bf16de2191b434e1d87d27e6d575a02edaed8797a72b6642a1306b35142562",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/film-lab-1.3.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/film-lab-1.3.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Generators | Grain&Gate/Lab Presets/Film Lab | G&G.setting",
+          "h": "51bf3a8487331d1208d3cc8811556fd955b470a8f5058de11ca85e07e795e6c8"
+        }
+      ]
     },
     {
       "id": "fisheye-pro",
@@ -170,7 +389,24 @@
       "version": "1.3",
       "size": 271578,
       "sha256": "cbbb919ee486068a148ea2238738b4b7c2be2468fe2d027fcab6750e47a319d3",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/fisheye-pro-1.3.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/fisheye-pro-1.3.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Lens Tools | Grain&Gate/GG_FisheyePro_Dust.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Lens Tools | Grain&Gate/GG_FisheyePro.setting",
+          "h": "242ab0e411375b331520b9b729f125e30c565fde65f364107926c83d87ef8c45"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Lens Tools | Grain&Gate/GG_FisheyePro_Scratch.png",
+          "h": null
+        }
+      ]
     },
     {
       "id": "fx-lab",
@@ -185,7 +421,14 @@
       "version": "1.2",
       "size": 4491,
       "sha256": "ebc5c598ee2c9ecd09c59c5c8b60cf5d7f7545de466d34c27151c411b23db004",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/fx-lab-1.2.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/fx-lab-1.2.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Style Tools | Grain&Gate/FX Lab | G&G.setting",
+          "h": "95fc4433990b9b5593f126793fb441bfa0ac7eed11f1f11d4f47e90d349e97f3"
+        }
+      ]
     },
     {
       "id": "fx-lab-gen",
@@ -200,7 +443,14 @@
       "version": "1.2",
       "size": 4751,
       "sha256": "6c86df68f0e38d293fa035f264d4784801dbd34ffded4152a2c321dab1e8b29b",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/fx-lab-gen-1.2.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/fx-lab-gen-1.2.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Generators | Grain&Gate/Lab Presets/FX Lab | G&G.setting",
+          "h": "42af07954236785f3114376ab1888d3fd2c0f5ff93f3f851b410fb3f6ae90965"
+        }
+      ]
     },
     {
       "id": "generator-layer",
@@ -215,7 +465,14 @@
       "version": "1.4",
       "size": 16326,
       "sha256": "83989806cf7702ee61b1de73ced24eebd869667abdefc11a0af114da151e67f9",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/generator-layer-1.4.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/generator-layer-1.4.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Generators | Grain&Gate/Layer Presets/Generator Layer | G&G.setting",
+          "h": "d0ac462ab88384d9c2f31313d1374185a28e66f0b220d355df138361d002faa2"
+        }
+      ]
     },
     {
       "id": "gg-textures",
@@ -230,7 +487,74 @@
       "version": "1.1",
       "size": 190767562,
       "sha256": "f31d6f95a5d937fd70f73aeaa32415d01458674a5360dfbb32663110705dc7cc",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/textures-1.1/gg-textures-1.1.zip"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/textures-1.1/gg-textures-1.1.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "_GGTex/GG_Tex_1x.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "_GGTex/GG_Tex_2x.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "_GGTex/GG_Tex_3x.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "_GGTex/GG_Tex_4x.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "_GGTex/GG_Tex_5x.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "_GGTex/GG_Tex_6x.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "_GGTex/GG_Tex_7x.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "_GGTex/GG_Tex_8x.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "_GGTex/GG_Tex_9x.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "_GGTex/GG_Tex_10x.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "_GGTex/GG_Tex_11x.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "_GGTex/GG_Tex_12x.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "_GGTex/.gg_labels.lua",
+          "h": "69f55c78bd460bd8230cbdeb282f53b2469af0998510736e6d7a634bcba1d901"
+        }
+      ]
     },
     {
       "id": "grade-pro",
@@ -261,7 +585,119 @@
       "version": "2.16",
       "size": 10842954,
       "sha256": "1e798ebae83eab009e49eab419146a34ea4057e587a74070d3ad5a6d1bde0609",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/grade-pro-2.16.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/grade-pro-2.16.zip",
+      "files": [
+        {
+          "p": 2,
+          "f": "G&G Camera Conversion/CM Conversion (a7iv to Fx3).cube",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "G&G Camera Conversion/CM Conversion (DlogM to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "G&G Camera Conversion/CM Conversion (Dlog to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "G&G LOG Conversion/Apple LOG to Rec709.cube",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "G&G LOG Conversion/WC_FX5_AmberDensity_SLog3_to_Rec709.cube",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "G&G LOG Conversion/Sony Slog3 to Rec709.cube",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "G&G Creative Looks/Birch_strong.cube",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "G&G Creative Looks/G&G - Lakeshore.cube",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "G&G Creative Looks/G&G - Pine.cube",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "G&G Creative Looks/G&G - Haze.cube",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "G&G Creative Looks/Harbor_heavy.cube",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "G&G Creative Looks/Belmont.cube",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "G&G Creative Looks/Birch.cube",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "G&G Creative Looks/Hestia 03.cube",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "G&G Creative Looks/Avondale.cube",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "G&G Creative Looks/North Park.cube",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "G&G Creative Looks/Ravenswood.cube",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "G&G Creative Looks/Screenshot 2026-08-08 at 4.22.25 PM.png",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "G&G Creative Looks/Montrose.cube",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Refresh GG LUTs.lua",
+          "h": "02d3cbfa811f77ea81b539f256ed6398ff5af38f6e6a39540563d4d4e3e68684"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/GG_GradePro_LUTManifest.lua",
+          "h": "92cc8f6fb370889596193a432a13f625ec7f6c759ab64c1aad95adb82229468c"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/GG_GradePro.setting",
+          "h": "070c4d75e1f3ee9653b424321d9d69048a519fb6c5521445fcaf0d7ee39d746c"
+        }
+      ]
     },
     {
       "id": "l3rds",
@@ -276,7 +712,14 @@
       "version": "1.5",
       "size": 38920,
       "sha256": "26b2041d9d18c3271b6e94652d1f298019e53e3fb7f98fcefe66a6680d00c686",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/l3rds-1.5.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/l3rds-1.5.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/L3rds Lab | G&G.setting",
+          "h": "a2e84d2beccac7f15eee189af951afa35edf1692926c4423f586384707210cbb"
+        }
+      ]
     },
     {
       "id": "locked-on",
@@ -291,7 +734,14 @@
       "version": "1.39",
       "size": 4031,
       "sha256": "6b4c40d48b895672da966018bc031938cbe03d6362ce27042ff077a7c981300b",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/locked-on-1.39.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/locked-on-1.39.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Tracking Tools | Grain&Gate/Locked On | G&G.setting",
+          "h": "16040ecb06c0596494c0db8ad7ca66b22d3142de8649e16df4889df522fff88e"
+        }
+      ]
     },
     {
       "id": "logo-pro",
@@ -306,7 +756,14 @@
       "version": "1.1",
       "size": 11649,
       "sha256": "f32b12c73e5b07803569fd412dbb373c787d74dd4f2e53c327e6c0a4a0c441a0",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/logo-pro-1.1.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/logo-pro-1.1.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Style Tools | Grain&Gate/Logo Pro | G&G.setting",
+          "h": "9a3b64bb5f588d55ac33e6e462255aae34ef61b4503d2dbeecb1670068ce907b"
+        }
+      ]
     },
     {
       "id": "masks",
@@ -321,7 +778,14 @@
       "version": "1.2",
       "size": 4528,
       "sha256": "4fd89fc72c1831bb5888feaef3bcf11ea2c23e8d7f57d1336d3d19cf7400bc86",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/masks-1.2.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/masks-1.2.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Mask Tools | Grain&Gate/Masks | G&G.setting",
+          "h": "fe5d9883a65c1c363a9a582f4491acdbcfb5406f4790b1399295e5ab247238bc"
+        }
+      ]
     },
     {
       "id": "movement-layer",
@@ -336,7 +800,14 @@
       "version": "1.5",
       "size": 9880,
       "sha256": "0d13738b6e7dff5e38c997f00774abb654c8d2683f46637fa9d5fc828db816ed",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/movement-layer-1.5.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/movement-layer-1.5.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Generators | Grain&Gate/Layer Presets/Movement Layer | G&G.setting",
+          "h": "f07f847f1fc7fe331acb1835c1a4cb54c74cc8f2ade24dde58def06a8cecf2e0"
+        }
+      ]
     },
     {
       "id": "overlay-layer",
@@ -351,7 +822,14 @@
       "version": "1.3",
       "size": 10554,
       "sha256": "2f861fd52099498bccba1b0f8c54b03c68f16e1ced645786852968a99c0c6e69",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/overlay-layer-1.3.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/overlay-layer-1.3.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Generators | Grain&Gate/Layer Presets/Overlay Layer | G&G.setting",
+          "h": "a19b75a12fe172fe913992ebf1977f9b09b173c08fb447d232e35529ee3c5e28"
+        }
+      ]
     },
     {
       "id": "patch-replacer",
@@ -366,7 +844,14 @@
       "version": "1.45",
       "size": 5264,
       "sha256": "905c3dc13dd0e0c363f9b3e2d226bd0598f7b9c1159af44e00b2064de006b4b3",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/patch-replacer-1.45.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/patch-replacer-1.45.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Tracking Tools | Grain&Gate/Patch Up | G&G.setting",
+          "h": "3adcefd92aaae367f00d64e5f592c09881cf323a051b57eff94067462ecb089a"
+        }
+      ]
     },
     {
       "id": "power-window",
@@ -381,7 +866,14 @@
       "version": "1.1",
       "size": 5778,
       "sha256": "dc6395ea77fadc007e3d851770ef749386fc5122eaf93934ce4fb7069096e8bf",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/power-window-1.1.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/power-window-1.1.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/Power Window | G&G.setting",
+          "h": "8843ccfd2ea3ff629ef91eee86ae328d4372cc44569b0b9d81aa54bb06d460b5"
+        }
+      ]
     },
     {
       "id": "print-lab",
@@ -396,7 +888,14 @@
       "version": "1.3",
       "size": 15152,
       "sha256": "e7cea4551fb664b1e8dc29a6895341d7aaf6cd618b6db987550e4cce3625a4ee",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-lab-1.3.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-lab-1.3.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Style Tools | Grain&Gate/Print Lab | G&G.setting",
+          "h": null
+        }
+      ]
     },
     {
       "id": "scramble-text-lab",
@@ -411,12 +910,19 @@
       "version": "1.4",
       "size": 42012,
       "sha256": "a790a06ec95b5f8ddc2982278c38b12fabe0ad6113b46315a6839246e707d007",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/scramble-text-lab-1.4.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/scramble-text-lab-1.4.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Presets - Text Lab/Scramble | Text Lab.setting",
+          "h": "6a834e2b81144452dd531ec2831d94755a903580bbacea312a259c5d7ee8bb56"
+        }
+      ]
     },
     {
       "id": "shape-layer",
       "name": "Shape Layer | G&G",
-      "description": "Superellipse shape builder with A\u2192B morph timing.",
+      "description": "Superellipse shape builder with A→B morph timing.",
       "kind": "Plugins",
       "category": "Layer Presets",
       "target": "edit-generator",
@@ -426,7 +932,14 @@
       "version": "1.3",
       "size": 8533,
       "sha256": "2cbef8ec80114c453aed9d80e9a70a67bf73490dfc09171cb6c4ade0df52af91",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/shape-layer-1.3.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/shape-layer-1.3.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Generators | Grain&Gate/Layer Presets/Shape Layer | G&G.setting",
+          "h": "149a620f0a77009c268c09835d1fee69487114a3cfbd11bbe7bc57e4eccf524f"
+        }
+      ]
     },
     {
       "id": "splitscreen",
@@ -441,12 +954,19 @@
       "version": "1.1",
       "size": 6143,
       "sha256": "e2cde804779e2695943cde09b0d70b74270c0c3a740cabc10aa6c040cc8e171e",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/splitscreen-1.1.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/splitscreen-1.1.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Motion Tools | Grain&Gate/Splitscreen | G&G.setting",
+          "h": "55b285cf98c0acb9845dedb5a665a55ffd9184fc7d5fe4fd1e352c571ccaafdf"
+        }
+      ]
     },
     {
       "id": "text-lab",
       "name": "Text Lab | G&G",
-      "description": "The flagship title tool \u2014 per character, word and line animation.",
+      "description": "The flagship title tool — per character, word and line animation.",
       "kind": "Plugins",
       "category": "Text Tools",
       "target": "edit-title",
@@ -456,7 +976,14 @@
       "version": "1.6",
       "size": 80686,
       "sha256": "b257905b0a80590cc0ceb5bad49a3ee21406d887eba80d1f9ffb9709d968928d",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-1.6.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-1.6.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/Text Lab | G&G.setting",
+          "h": "ccdcc57acc48a89af8fcbc18c6bd5e3eee8a5a919268bc2bbe6edd5fad4393fb"
+        }
+      ]
     },
     {
       "id": "texture-pro",
@@ -471,7 +998,14 @@
       "version": "1.1",
       "size": 4122,
       "sha256": "7acb1411ac07d30d60840aa3fdfb8bcdc460ee97efe3e6d036f4fe667377fcc0",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/texture-pro-1.1.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/texture-pro-1.1.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Style Tools | Grain&Gate/Texture Pro | G&G.setting",
+          "h": null
+        }
+      ]
     },
     {
       "id": "timeshift",
@@ -486,7 +1020,14 @@
       "version": "6.1",
       "size": 2103,
       "sha256": "00a459e571b325f719704b0fbd56009c8f25e23b13e4d2712c2cd98b1bf45e0b",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/timeshift-6.1.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/timeshift-6.1.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Lens Tools | Grain&Gate/Timeshift | G&G.setting",
+          "h": "c8ed1e36f4e9212d415f9104d6695f50104af7c21af08fd063690d517451f8fd"
+        }
+      ]
     },
     {
       "id": "timeshift-shake",
@@ -501,7 +1042,14 @@
       "version": "6.1",
       "size": 2248,
       "sha256": "1ee2dbe2e18adbb17149368ee9a9c038ec353e0c5f811b42a412f63a04fe1477",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/timeshift-shake-6.1.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/timeshift-shake-6.1.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Lens Tools | Grain&Gate/Timeshift Shake | G&G.setting",
+          "h": "c71723bac3e40436f97fcfa336046327908e6e42260df868d8afc934fd48d629"
+        }
+      ]
     },
     {
       "id": "tracker-pro",
@@ -516,7 +1064,14 @@
       "version": "1.6",
       "size": 5987,
       "sha256": "548c3b7fc268069227fd93755ef483acabd9af8ff83a13fcf5b113bf39687fad",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/tracker-pro-1.6.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/tracker-pro-1.6.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Tracking Tools | Grain&Gate/Tracker Pro | G&G.setting",
+          "h": "36bcf64940783854feae9462300dfc7cecb1110f86b1e7c29a52fad480629e83"
+        }
+      ]
     },
     {
       "id": "transition-lab",
@@ -531,7 +1086,14 @@
       "version": "1.3",
       "size": 14397,
       "sha256": "9fca90a6b89844bd5cbeed64b0e6351a5b78dc595c0888c7716e5a4b83e85506",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/transition-lab-1.3.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/transition-lab-1.3.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Generators | Grain&Gate/Lab Presets/Transition Lab | G&G.setting",
+          "h": "290f2cdd63f607b5b69d438782dc298ba1499bc30cdd462ab1e3292b7e99d591"
+        }
+      ]
     },
     {
       "id": "volume-clouds",
@@ -546,7 +1108,14 @@
       "version": "1.2",
       "size": 2674,
       "sha256": "c57e48c0bcd5a697299471077ea314ce789713343563944ee52267f05493875d",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/volume-clouds-1.2.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/volume-clouds-1.2.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Generators | Grain&Gate/GG Volume Clouds | G&G.setting",
+          "h": "99389ecce15ad053eb4757b9624b3aec8f5635576da63e380d516a1d57c21bf3"
+        }
+      ]
     },
     {
       "id": "zoom-layer",
@@ -561,7 +1130,14 @@
       "version": "1.4",
       "size": 8895,
       "sha256": "becfcac07f78cf5c36a197c8c9ded477835619af9774242ec555a28ff6f161c4",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/zoom-layer-1.4.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/zoom-layer-1.4.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Generators | Grain&Gate/Layer Presets/Zoom Layer | G&G.setting",
+          "h": "b66f6095f2892bf6453536964907dafa7385803dc94933f8c2445078f5b2aac7"
+        }
+      ]
     },
     {
       "id": "list-lab",
@@ -576,7 +1152,14 @@
       "version": "1.1",
       "size": 9397,
       "sha256": "ef356bf8dc3ed6639184b4d902da022bf49d65266fe79c8f1d6b08307a2f07d2",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/list-lab-1.1.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/list-lab-1.1.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/List Lab | G&G.setting",
+          "h": "e5df5f01c643f4d900fbb02b9304d510ac9abbcb83c64dd1b222a3761cba9ec8"
+        }
+      ]
     },
     {
       "id": "title-lab",
@@ -591,7 +1174,14 @@
       "version": "1.1",
       "size": 6115,
       "sha256": "d0cf003314f789794106b5ccc6f78044b2001493aa153c0b07d732184d3ab4e3",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/title-lab-1.1.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/title-lab-1.1.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/Title Lab | G&G.setting",
+          "h": "199bee184877fce499b566bf11634a7473f2ada5bd9bfec131b2e74c1daf3d6a"
+        }
+      ]
     },
     {
       "id": "mtnlb",
@@ -625,7 +1215,14 @@
       "version": "1.2",
       "size": 6544,
       "sha256": "a028148dadf082cb04ac2a630938c3f744314bf41372d130ddf3c1721e60de62",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/equalizer-l3rd-1.2.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/equalizer-l3rd-1.2.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Presets - L3rds Lab/Equalizer | G&G.setting",
+          "h": "f3e919d1356fa2be9027b459b0407f4a89631060e378b4b5e663fb8b8c2469a6"
+        }
+      ]
     },
     {
       "id": "fade-in-l3rd",
@@ -640,7 +1237,14 @@
       "version": "1.2",
       "size": 5410,
       "sha256": "031f45fea2e2953729895791ba48d341bf335b8bc50885abc7189808f2726de6",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/fade-in-l3rd-1.2.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/fade-in-l3rd-1.2.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Presets - L3rds Lab/Fade In | G&G.setting",
+          "h": "7b657935b4c2b57f0c8832308cb018dafe51da235add243ac6897ee6409c704e"
+        }
+      ]
     },
     {
       "id": "glow-lab",
@@ -655,7 +1259,14 @@
       "version": "1.1",
       "size": 4935,
       "sha256": "a07a70cfd0e7aa35f410c4c1d6ddeaace4d722237304984fc201e02fc82734e1",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/glow-lab-1.1.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/glow-lab-1.1.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Style Tools | Grain&Gate/Glow Lab | G&G.setting",
+          "h": "35ad58af02658ae62795f57306157fa7e7a25121c0cd32c2abe61c739edf0f48"
+        }
+      ]
     },
     {
       "id": "clipmaker",
@@ -670,7 +1281,14 @@
       "version": "1.0",
       "size": 71090,
       "sha256": "10d0bd0200bdea13a448d57ab96611b21e7000e5cf068cee490fd8ae9d7a9a48",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/clipmaker-1.0.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/clipmaker-1.0.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Style Tools | Grain&Gate/ClipMaker | G&G.setting",
+          "h": "1bca89c6447e51e545319e6f5b27a77ccd13dc5cf7ea2fe51afd600756825bc8"
+        }
+      ]
     },
     {
       "id": "animate-pro",
@@ -696,7 +1314,19 @@
       "version": "1.1",
       "size": 29689,
       "sha256": "636b4a040c3bd814a4142d2c41e0388797ec34140d6afc147dbc9f44d27b012e",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/animate-pro-1.1.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/animate-pro-1.1.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Motion Tools | Grain&Gate/Animate Pro | G&G.setting",
+          "h": "33eb89975b92dbdbba18e35c97ebe3fdbcf0551175994af1b48dfa6c638f84d9"
+        },
+        {
+          "p": 1,
+          "f": "GG_AnimatePro.fuse",
+          "h": "64d212d82849b6296011f7070a6b079a789dab934cb3164a796c8a66d35483e7"
+        }
+      ]
     },
     {
       "id": "gg-gobos",
@@ -711,7 +1341,59 @@
       "version": "1.0",
       "size": 1201220,
       "sha256": "8beb90e3f07c9861ad659a0c42ad017aa88dfe865823dc75c1b9e14143011566",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/gg-gobos-1.0.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/gg-gobos-1.0.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "GG_Gobo_SR_1048x.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "GG_Gobo_boom.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "GG_Gobo_boxwindow.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "GG_Gobo_treez.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "GG_Gobo_win.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "GG_Gobo_window.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "GG_Gobo_windows.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "GG_Gobo_winopen.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "GG_Gobo_wins.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "GG_Gobo_winz.png",
+          "h": null
+        }
+      ]
     },
     {
       "id": "print-lab-v2",
@@ -739,7 +1421,24 @@
       "sha256": "20c7cc709fea24a9f2d76eb3741a552b835fb013640f4ca01b3ca5edd823db6f",
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-lab-v2-1.5.zip",
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/print-lab-v2.jpg",
-      "spotlight": true
+      "spotlight": true,
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Style Tools | Grain&Gate/Print Lab V2 | G&G.setting",
+          "h": "c584a4ce3d40aa689e50f1b2041f2e3323eb6fba01dc02e6daa0a9d457e481b2"
+        },
+        {
+          "p": 1,
+          "f": "GG_PrintLab2.fuse",
+          "h": "3ee883037c0c03c441353ca6912c9428e9d7fbb9b0d30f2e852dabadf9eff9f5"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Style Tools | Grain&Gate/Print Lab V2 | G&G.png",
+          "h": null
+        }
+      ]
     },
     {
       "id": "blob-lab",
@@ -765,7 +1464,19 @@
       "version": "1.0",
       "size": 344420,
       "sha256": "9138b34251a80b29741dec7c60877399a25882900ead10905b2e53c95fe25261",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/blob-lab-1.0.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/blob-lab-1.0.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Style Tools | Grain&Gate/Blob Lab | G&G.setting",
+          "h": "006d963fb4794aff43a59402cf1bf8d8099f0b214134c7732cbcfd1b62d10324"
+        },
+        {
+          "p": 1,
+          "f": "GG_BlobLab.fuse",
+          "h": "1406a3ff8a9ec96cc7ea16910ca8ad7ef02f6714097d61e9ecafe2431db53fac"
+        }
+      ]
     },
     {
       "id": "cutout-lab",
@@ -791,7 +1502,24 @@
       "version": "1.3",
       "size": 330672,
       "sha256": "7809dcf73555d660c81a6655d198b3ce31033cc905894088383f7ccc6cac1a57",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cutout-lab-1.3.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cutout-lab-1.3.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Style Tools | Grain&Gate/Cutout Lab | G&G.setting",
+          "h": "d0819f1d027f8cbccc1ab63d15b56bc7e5539d4a68bce38a453ea163c9cf9a84"
+        },
+        {
+          "p": 1,
+          "f": "GG_PrintLab2.fuse",
+          "h": "3ee883037c0c03c441353ca6912c9428e9d7fbb9b0d30f2e852dabadf9eff9f5"
+        },
+        {
+          "p": 1,
+          "f": "GG_GroundLab.fuse",
+          "h": "df849a3ce72b01630f7f9a227025acf46a45b94e3389cc87018a2efe61d411a6"
+        }
+      ]
     },
     {
       "id": "cutout-mask",
@@ -812,7 +1540,14 @@
       "version": "1.0",
       "size": 506,
       "sha256": "73f1e6c1e854cd518355da38ea62b852da0d8f2611882d82059952a6a08daecf",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cutout-mask-1.0.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cutout-mask-1.0.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Style Tools | Grain&Gate/Cutout Mask | G&G.setting",
+          "h": "e1fb7e3d6aefa837b6d9298158dbedf0d4a83903cfc2a6e9492de2025020d43c"
+        }
+      ]
     },
     {
       "id": "text-lab-beta",
@@ -838,7 +1573,24 @@
       "version": "0.2",
       "size": 928094,
       "sha256": "803cc284a9b146d9aab8f6bdaf8726feb2b07479776ed0ca699342dd3b830bfa",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-beta-0.2.zip"
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-beta-0.2.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/Text Lab Engine (Beta) | G&G.setting",
+          "h": "f060011cbc08593b8aaa44a0ea9aa8debb5b0b616e3882e20c8ffe78b6322cb1"
+        },
+        {
+          "p": 1,
+          "f": "GG_TextEngine.fuse",
+          "h": "25c68feea7207e9f6d5fec4e86a77842fb1c57c89b09954bd1fe4d5f48e60b59"
+        },
+        {
+          "p": 1,
+          "f": "GG_AnimatePro.fuse",
+          "h": "f6986a55b4162072d8879b2b7ccdc167cf09689d9305db2165545ecae1144ba2"
+        }
+      ]
     }
   ],
   "updatedAt": "2026-10-13T21:31:06.011611Z",
@@ -862,7 +1614,7 @@
       "version": "21.1.1",
       "free": true,
       "teamOnly": true,
-      "tagline": "Blackmagic Design \u00b7 edit, color, Fusion and Fairlight",
+      "tagline": "Blackmagic Design · edit, color, Fusion and Fairlight",
       "description": "The current Studio release, straight from Blackmagic. Runs Blackmagic's own installer, which asks for your admin password and shows the licence. Your Studio key or dongle carries over.",
       "external": {
         "source": "blackmagic",
@@ -888,7 +1640,7 @@
       "arch": "arm64",
       "free": true,
       "teamOnly": true,
-      "tagline": "Adobe \u00b7 Frame.io projects as a drive on your Mac",
+      "tagline": "Adobe · Frame.io projects as a drive on your Mac",
       "description": "Mounts the team's Frame.io projects in Finder so camera cards, cuts and reviews are one folder away. Replaces Frame.io Transfer. Downloaded from Adobe's own update feed and checked against their checksum.",
       "external": {
         "source": "squirrel",
@@ -913,7 +1665,7 @@
       "version": "1.6.3",
       "free": true,
       "teamOnly": true,
-      "tagline": "Gyroflow \u00b7 gyro-based stabilisation, open source",
+      "tagline": "Gyroflow · gyro-based stabilisation, open source",
       "description": "The desktop app for stabilising footage from camera gyro data. Universal build from the Gyroflow project on GitHub, GPL-3.0.",
       "external": {
         "source": "github",
@@ -940,7 +1692,7 @@
       "version": "2.1.1",
       "free": true,
       "teamOnly": true,
-      "tagline": "Gyroflow \u00b7 the Resolve plugin",
+      "tagline": "Gyroflow · the Resolve plugin",
       "description": "Gyroflow inside Resolve: apply a stabilisation project to a clip in the Edit or Color page. The current plugin from the Gyroflow plugins project, signed by Gyroflow. Lands in the system OFX folder, one admin prompt. Restart Resolve after installing.",
       "external": {
         "source": "github",
