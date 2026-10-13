@@ -15,10 +15,10 @@
       "subfolder": null,
       "arch": "arm64",
       "bundleId": "co.wcstudios.edtlb",
-      "version": "1.0.273",
-      "size": 168860896,
-      "sha256": "3f42025cb5d8f150f03e30843619617622c1da87195ed288923058fc5ce88800",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.273.zip",
+      "version": "1.0.274",
+      "size": 168862333,
+      "sha256": "e663e9f4ca8dcaa2fac39f4415c31f9c2bf4302c064d0286cac962ae57b3c8c5",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.274.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/edtlb.png",
       "tagline": "DaVinci Resolve companion"
     },
@@ -841,7 +841,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-beta-0.2.zip"
     }
   ],
-  "updatedAt": "2026-10-12T20:51:03.488014Z",
+  "updatedAt": "2026-10-13T16:01:24.151892Z",
   "launcher": {
     "version": "0.6.3",
     "notes": "Bigger studio banner, and a new Manage team window: members, files, branding and settings each on their own page.",
