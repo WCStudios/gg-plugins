@@ -34,10 +34,10 @@
       "subfolder": null,
       "arch": "arm64",
       "bundleId": "co.wcstudios.flcks",
-      "version": "0.9.41",
-      "size": 145635013,
-      "sha256": "aad3bc675e193266f3243c2b851d8c0a051c5d144bdfcad09cee7ef87eb21d3f",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-flcks/flcks-0.9.41.zip",
+      "version": "0.9.42",
+      "size": 145645006,
+      "sha256": "8915d67c42233d82448bc63279952e47c86354547b99f08399af9b6f50dfb3cc",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-flcks/flcks-0.9.42.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/flcks.png",
       "tagline": "Photo workflow, camera to feed"
     },
@@ -841,7 +841,7 @@
       "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-beta-0.2.zip"
     }
   ],
-  "updatedAt": "2026-10-13T20:17:00.764262Z",
+  "updatedAt": "2026-10-13T20:49:13.521157Z",
   "launcher": {
     "version": "0.6.3",
     "notes": "Bigger studio banner, and a new Manage team window: members, files, branding and settings each on their own page.",
