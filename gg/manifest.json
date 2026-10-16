@@ -966,22 +966,48 @@
     {
       "id": "text-lab",
       "name": "Text Lab | G&G",
-      "description": "The flagship title tool \u2014 per character, word and line animation.",
+      "description": "The flagship title tool, now on the G&G Text Engine: 2D, Counter and 3D text, character styles, Motion Types (incl. Physics), reveals, Echo, Path, presets with team sharing, all rendered by one engine so titles play smoothly, even several at once.",
       "kind": "Plugins",
       "category": "Text Tools",
-      "target": "edit-title",
-      "parts": null,
+      "target": null,
+      "parts": [
+        {
+          "path": "Templates",
+          "target": "edit-title",
+          "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        }
+      ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.6",
-      "size": 80686,
-      "sha256": "b257905b0a80590cc0ceb5bad49a3ee21406d887eba80d1f9ffb9709d968928d",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-1.6.zip",
+      "version": "1.7",
+      "size": 1660173,
+      "sha256": "a62c4d19dc31babfe3f845dc4300d808855343826527072518825056081b182f",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-1.7.zip",
       "files": [
         {
           "p": 0,
           "f": "Grain&Gate/Text Tools | Grain&Gate/Text Lab | G&G.setting",
-          "h": "ccdcc57acc48a89af8fcbc18c6bd5e3eee8a5a919268bc2bbe6edd5fad4393fb"
+          "h": "489fdc56a6eea47c232dc4f2676f84f34c946c2621e978f38e7eaa4865a1d092"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/Text Lab Presets/Grain & Gate.json",
+          "h": "b344f20e10cb67897576d35252889e3c83b7dc1837efa0c08d8d539a0eae1a4f"
+        },
+        {
+          "p": 1,
+          "f": "GG_TextEngine.fuse",
+          "h": "47c931dd96e66e16e0cf9df793b63eb9df0a61ce6acea0452538872afacbfd61"
+        },
+        {
+          "p": 1,
+          "f": "GG_AnimatePro.fuse",
+          "h": "f6986a55b4162072d8879b2b7ccdc167cf09689d9305db2165545ecae1144ba2"
         }
       ]
     },
@@ -1593,7 +1619,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-15T17:40:24.711178Z",
+  "updatedAt": "2026-10-16T01:59:16.363891Z",
   "launcher": {
     "version": "0.6.5",
     "notes": "The launcher now scans your Mac for tools and apps you already have, including ones installed by hand, and notices ones you deleted.",
