@@ -1530,25 +1530,25 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.19",
-      "size": 225902,
-      "sha256": "4da37886f18fb199637e002d08a1b82301448c4418aeac18fa54755f434018ff",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/tracker-lab-1.19.zip",
+      "version": "1.20",
+      "size": 228529,
+      "sha256": "f3f8d784d0b1a902041ed5307e3bcae34792f974b67448aabf3def2e5826d544",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/tracker-lab-1.20.zip",
       "files": [
         {
           "p": 0,
           "f": "Grain&Gate/Tracking Tools | Grain&Gate/Tracker Lab | G&G.setting",
-          "h": "a7c83025056dcca39201a5eb63ddd5aab2e4d08e5529b0bf41b272aa641f02d9"
+          "h": "957fb3debec626d25ed807181b6bd2e0224f88c4cbe86ce266de8a174f30e441"
         },
         {
           "p": 1,
           "f": "GG_TrackerLab.fuse",
-          "h": "96959490864f4e7ce979e2c1c9ce353f2b81dac57ef5d1654dc3d91d3b9c0df9"
+          "h": "0e97527647c7bea514acbdf5ba0293c9a3343adeec92364c2ff8ff5b1ade7d91"
         }
       ]
     }
   ],
-  "updatedAt": "2026-10-16T02:02:16.032869Z",
+  "updatedAt": "2026-10-16T02:05:09.643649Z",
   "launcher": {
     "version": "0.6.5",
     "notes": "The launcher now scans your Mac for tools and apps you already have, including ones installed by hand, and notices ones you deleted.",
