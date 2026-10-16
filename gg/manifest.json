@@ -1574,9 +1574,47 @@
           "h": "e1fb7e3d6aefa837b6d9298158dbedf0d4a83903cfc2a6e9492de2025020d43c"
         }
       ]
+    },
+    {
+      "id": "tracker-lab",
+      "name": "Tracker Lab | G&G",
+      "description": "One tracker for the Edit page: track a point or a flat surface, then attach text, shapes or media (with a 3D plane), stabilize, or patch things out with clone, frame, blur or pixelate. Planar pins graphics to a surface or replaces a screen, with Surface 3D for true perspective. Replaces Tracker Pro, Locked On and Patch Up.",
+      "kind": "Plugins",
+      "category": "Tracking Tools",
+      "target": null,
+      "parts": [
+        {
+          "path": "Templates",
+          "target": "edit-effect",
+          "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        }
+      ],
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.19",
+      "size": 225902,
+      "sha256": "4da37886f18fb199637e002d08a1b82301448c4418aeac18fa54755f434018ff",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/tracker-lab-1.19.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Tracking Tools | Grain&Gate/Tracker Lab | G&G.setting",
+          "h": "a7c83025056dcca39201a5eb63ddd5aab2e4d08e5529b0bf41b272aa641f02d9"
+        },
+        {
+          "p": 1,
+          "f": "GG_TrackerLab.fuse",
+          "h": "96959490864f4e7ce979e2c1c9ce353f2b81dac57ef5d1654dc3d91d3b9c0df9"
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-10-16T01:59:29.855773Z",
+  "updatedAt": "2026-10-16T02:01:53.628193Z",
   "launcher": {
     "version": "0.6.5",
     "notes": "The launcher now scans your Mac for tools and apps you already have, including ones installed by hand, and notices ones you deleted.",
