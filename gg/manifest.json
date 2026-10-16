@@ -722,28 +722,6 @@
       ]
     },
     {
-      "id": "locked-on",
-      "name": "Locked On | G&G",
-      "description": "Single-point track or stabilize, with a master transform.",
-      "kind": "Plugins",
-      "category": "Tracking Tools",
-      "target": "edit-effect",
-      "parts": null,
-      "scope": "system",
-      "subfolder": "Grain&Gate/Tracking Tools | Grain&Gate",
-      "version": "1.39",
-      "size": 4031,
-      "sha256": "6b4c40d48b895672da966018bc031938cbe03d6362ce27042ff077a7c981300b",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/locked-on-1.39.zip",
-      "files": [
-        {
-          "p": 0,
-          "f": "Grain&Gate/Tracking Tools | Grain&Gate/Locked On | G&G.setting",
-          "h": "16040ecb06c0596494c0db8ad7ca66b22d3142de8649e16df4889df522fff88e"
-        }
-      ]
-    },
-    {
       "id": "logo-pro",
       "name": "Logo Pro | G&G",
       "description": "Logo treatment and reveal rack.",
@@ -828,28 +806,6 @@
           "p": 0,
           "f": "Grain&Gate/Generators | Grain&Gate/Layer Presets/Overlay Layer | G&G.setting",
           "h": "a19b75a12fe172fe913992ebf1977f9b09b173c08fb447d232e35529ee3c5e28"
-        }
-      ]
-    },
-    {
-      "id": "patch-replacer",
-      "name": "Patch Up | G&G",
-      "description": "Object removal. Draw a mask, clone or blur the fill, point-tracker follow.",
-      "kind": "Plugins",
-      "category": "Tracking Tools",
-      "target": "edit-effect",
-      "parts": null,
-      "scope": "system",
-      "subfolder": "Grain&Gate/Tracking Tools | Grain&Gate",
-      "version": "1.45",
-      "size": 5264,
-      "sha256": "905c3dc13dd0e0c363f9b3e2d226bd0598f7b9c1159af44e00b2064de006b4b3",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/patch-replacer-1.45.zip",
-      "files": [
-        {
-          "p": 0,
-          "f": "Grain&Gate/Tracking Tools | Grain&Gate/Patch Up | G&G.setting",
-          "h": "3adcefd92aaae367f00d64e5f592c09881cf323a051b57eff94067462ecb089a"
         }
       ]
     },
@@ -1074,28 +1030,6 @@
           "p": 0,
           "f": "Grain&Gate/Lens Tools | Grain&Gate/Timeshift Shake | G&G.setting",
           "h": "c71723bac3e40436f97fcfa336046327908e6e42260df868d8afc934fd48d629"
-        }
-      ]
-    },
-    {
-      "id": "tracker-pro",
-      "name": "Tracker Pro | G&G",
-      "description": "Planar tracker with corner-pin placement and border controls.",
-      "kind": "Plugins",
-      "category": "Tracking Tools",
-      "target": "edit-effect",
-      "parts": null,
-      "scope": "system",
-      "subfolder": "Grain&Gate/Tracking Tools | Grain&Gate",
-      "version": "1.6",
-      "size": 5987,
-      "sha256": "548c3b7fc268069227fd93755ef483acabd9af8ff83a13fcf5b113bf39687fad",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/tracker-pro-1.6.zip",
-      "files": [
-        {
-          "p": 0,
-          "f": "Grain&Gate/Tracking Tools | Grain&Gate/Tracker Pro | G&G.setting",
-          "h": "36bcf64940783854feae9462300dfc7cecb1110f86b1e7c29a52fad480629e83"
         }
       ]
     },
@@ -1614,7 +1548,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-16T02:01:53.628193Z",
+  "updatedAt": "2026-10-16T02:02:16.032869Z",
   "launcher": {
     "version": "0.6.5",
     "notes": "The launcher now scans your Mac for tools and apps you already have, including ones installed by hand, and notices ones you deleted.",
