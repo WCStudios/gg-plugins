@@ -1574,52 +1574,9 @@
           "h": "e1fb7e3d6aefa837b6d9298158dbedf0d4a83903cfc2a6e9492de2025020d43c"
         }
       ]
-    },
-    {
-      "id": "text-lab-beta",
-      "name": "Text Lab Engine (Beta) | G&G",
-      "description": "Beta of Text Lab rebuilt on the G&G Text Engine Fuse: the Text Lab UI with character styles, Motion Types, reveals and Echo rendered by one engine, so titles play smoothly, even several at once. Installs beside Text Lab, which stays as is.",
-      "kind": "Plugins",
-      "category": "Text Tools",
-      "target": null,
-      "parts": [
-        {
-          "path": "Templates",
-          "target": "edit-title",
-          "scope": "system"
-        },
-        {
-          "path": "Fuses",
-          "target": "fuse",
-          "scope": "user"
-        }
-      ],
-      "scope": "system",
-      "subfolder": null,
-      "version": "0.2",
-      "size": 928094,
-      "sha256": "803cc284a9b146d9aab8f6bdaf8726feb2b07479776ed0ca699342dd3b830bfa",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-beta-0.2.zip",
-      "files": [
-        {
-          "p": 0,
-          "f": "Grain&Gate/Text Tools | Grain&Gate/Text Lab Engine (Beta) | G&G.setting",
-          "h": "f060011cbc08593b8aaa44a0ea9aa8debb5b0b616e3882e20c8ffe78b6322cb1"
-        },
-        {
-          "p": 1,
-          "f": "GG_TextEngine.fuse",
-          "h": "25c68feea7207e9f6d5fec4e86a77842fb1c57c89b09954bd1fe4d5f48e60b59"
-        },
-        {
-          "p": 1,
-          "f": "GG_AnimatePro.fuse",
-          "h": "f6986a55b4162072d8879b2b7ccdc167cf09689d9305db2165545ecae1144ba2"
-        }
-      ]
     }
   ],
-  "updatedAt": "2026-10-16T01:59:16.363891Z",
+  "updatedAt": "2026-10-16T01:59:29.855773Z",
   "launcher": {
     "version": "0.6.5",
     "notes": "The launcher now scans your Mac for tools and apps you already have, including ones installed by hand, and notices ones you deleted.",
