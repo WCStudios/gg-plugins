@@ -15,10 +15,10 @@
       "subfolder": null,
       "arch": "arm64",
       "bundleId": "co.wcstudios.edtlb",
-      "version": "1.0.276",
-      "size": 169032680,
-      "sha256": "85178b94ddee671b0c6a866fb885f51afeb6fcac7155da9db14692c3d50ac27d",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.276.zip",
+      "version": "1.0.277",
+      "size": 168884341,
+      "sha256": "30c0a57dce7f6bcc51e66597c998972390d1feacfaa85b345b6a488d85fcef9d",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.277.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/edtlb.png",
       "tagline": "DaVinci Resolve companion"
     },
@@ -1548,7 +1548,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-16T02:09:27.159952Z",
+  "updatedAt": "2026-10-17T19:16:54.576548Z",
   "launcher": {
     "version": "0.6.5",
     "notes": "The launcher now scans your Mac for tools and apps you already have, including ones installed by hand, and notices ones you deleted.",
