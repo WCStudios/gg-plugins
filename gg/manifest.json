@@ -34,10 +34,10 @@
       "subfolder": null,
       "arch": "arm64",
       "bundleId": "co.wcstudios.flcks",
-      "version": "0.9.42",
-      "size": 145645006,
-      "sha256": "8915d67c42233d82448bc63279952e47c86354547b99f08399af9b6f50dfb3cc",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-flcks/flcks-0.9.42.zip",
+      "version": "0.9.43",
+      "size": 145657329,
+      "sha256": "7f9c40d7d8d94c1de1734780ccbe19e3f5986100dfaaa4616f9508c54192b520",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-flcks/flcks-0.9.43.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/flcks.png",
       "tagline": "Photo workflow, camera to feed"
     },
@@ -1548,7 +1548,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-17T19:16:54.576548Z",
+  "updatedAt": "2026-10-18T20:15:48.364353Z",
   "launcher": {
     "version": "0.6.5",
     "notes": "The launcher now scans your Mac for tools and apps you already have, including ones installed by hand, and notices ones you deleted.",
