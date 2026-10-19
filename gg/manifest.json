@@ -254,15 +254,15 @@
       "parts": null,
       "scope": "system",
       "subfolder": null,
-      "version": "1.4",
-      "size": 64946,
-      "sha256": "ffae6f405efd98faa2b86a519e68d34014a415b48a44d773d38d69575360a727",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/background-lab-1.4.zip",
+      "version": "1.5",
+      "size": 79766,
+      "sha256": "2284b36fb06efa2033d74bbf55ac1cc24935761ac526b0d50e4e5b68875632b7",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/background-lab-1.5.zip",
       "files": [
         {
           "p": 0,
           "f": "Grain&Gate/Generators | Grain&Gate/Lab Presets/Background Lab | G&G.setting",
-          "h": "0ebd06b07aeb6acac0a3dbd10cf35cbfb961746f63086c814586e48e6526ff1b"
+          "h": "79df6beceda5f70557ba0741058cb799a21f4c44f67c8863ad926d3c9c35db5f"
         }
       ]
     },
@@ -320,15 +320,15 @@
       "parts": null,
       "scope": "system",
       "subfolder": "Grain&Gate/Presets - Text Lab",
-      "version": "1.4",
-      "size": 42464,
-      "sha256": "07cdab9ae02123f4f45816860a153f43563c3fb06ea0dd8dffb356e8392cb9ab",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/counter-text-lab-1.4.zip",
+      "version": "1.5",
+      "size": 42574,
+      "sha256": "0bd82961941386fab1bb5f14841069ff0f7dd848d1d8a26c94c26fe4db63823e",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/counter-text-lab-1.5.zip",
       "files": [
         {
           "p": 0,
           "f": "Grain&Gate/Presets - Text Lab/Counter | Text Lab.setting",
-          "h": "477f2647320abd161e861b049027758e7bfa517305a7e6f0d0b85673253eed12"
+          "h": "1b9eee69c26080416ad13886eb0401e90d599d3e2af47a749904e83d6144fc48"
         }
       ]
     },
@@ -559,7 +559,7 @@
     {
       "id": "grade-pro",
       "name": "Grade Pro | G&G",
-      "description": "Camera + LOG conversion, creative looks and client presets, driven by the G&G LUT library.",
+      "description": "Camera + LOG conversion, creative looks and client presets, driven by the G&G LUT library. Includes Grade (Beta) | G&G with its GradeCore Fuse and DCTLs.",
       "kind": "Plugins",
       "category": "Color Tools",
       "target": null,
@@ -568,6 +568,11 @@
           "path": "Templates",
           "target": "edit-effect",
           "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
         },
         {
           "path": "Scripts",
@@ -582,120 +587,170 @@
       ],
       "scope": "user",
       "subfolder": null,
-      "version": "2.16",
-      "size": 10842954,
-      "sha256": "1e798ebae83eab009e49eab419146a34ea4057e587a74070d3ad5a6d1bde0609",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/grade-pro-2.16.zip",
+      "version": "2.17",
+      "size": 97058006,
+      "sha256": "75f18b61024fb4b892b0a3aa9256789e8042fe18cb02b8703b0efdb1d00232ff",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/grade-pro-2.17.zip",
       "files": [
         {
-          "p": 2,
-          "f": "G&G Camera Conversion/CM Conversion (a7iv to Fx3).cube",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "G&G Camera Conversion/CM Conversion (DlogM to Slog3).cube",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "G&G Camera Conversion/CM Conversion (Dlog to Slog3).cube",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "G&G LOG Conversion/Apple LOG to Rec709.cube",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "G&G LOG Conversion/WC_FX5_AmberDensity_SLog3_to_Rec709.cube",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "G&G LOG Conversion/Sony Slog3 to Rec709.cube",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "G&G Creative Looks/Birch_strong.cube",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "G&G Creative Looks/G&G - Lakeshore.cube",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "G&G Creative Looks/G&G - Pine.cube",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "G&G Creative Looks/G&G - Haze.cube",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "G&G Creative Looks/Harbor_heavy.cube",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "G&G Creative Looks/Belmont.cube",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "G&G Creative Looks/Birch.cube",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "G&G Creative Looks/Hestia 03.cube",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "G&G Creative Looks/Avondale.cube",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "G&G Creative Looks/North Park.cube",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "G&G Creative Looks/Ravenswood.cube",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "G&G Creative Looks/Screenshot 2026-08-08 at 4.22.25\u202fPM.png",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "G&G Creative Looks/Montrose.cube",
-          "h": null
-        },
-        {
-          "p": 1,
-          "f": "Refresh GG LUTs.lua",
-          "h": "02d3cbfa811f77ea81b539f256ed6398ff5af38f6e6a39540563d4d4e3e68684"
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/GG_GradePro.setting",
+          "h": "cf2331bcfb546ae0bb1b79b5b21b815811c72cea3f566fb24cfc509306351fe6"
         },
         {
           "p": 0,
           "f": "Grain&Gate/Color Tools | Grain&Gate/GG_GradePro_LUTManifest.lua",
-          "h": "92cc8f6fb370889596193a432a13f625ec7f6c759ab64c1aad95adb82229468c"
+          "h": "1f0f6adb36b47a10848e2c2f232c795fbd378f06f531aaafe2fb74f8f89da0af"
         },
         {
           "p": 0,
-          "f": "Grain&Gate/Color Tools | Grain&Gate/GG_GradePro.setting",
-          "h": "070c4d75e1f3ee9653b424321d9d69048a519fb6c5521445fcaf0d7ee39d746c"
+          "f": "Grain&Gate/Color Tools | Grain&Gate/Grade (Beta) | G&G.setting",
+          "h": "ee07ef7808b9b2d53b4225113b81f3b40cef8045ebc17963e9be6bbe03f24456"
+        },
+        {
+          "p": 1,
+          "f": "GG_GradeCore.fuse",
+          "h": "f8973280fc7d376e17e00cacb92edf5dfa49d22ab05a78bf6a3b520394a612ce"
+        },
+        {
+          "p": 2,
+          "f": "Refresh GG LUTs.lua",
+          "h": "02d3cbfa811f77ea81b539f256ed6398ff5af38f6e6a39540563d4d4e3e68684"
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (Clog to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (Clog3 to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (Dlog to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (DlogM to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (G-Flat to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (G-LOG to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (a7iv to Fx3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/Avondale.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/Belmont.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/Bleach Fx6_65x.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/Eastman Fx6_65x.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/Eterna Fx6_65x.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/G&G - Birch.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/G&G - Haze.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/G&G - Lakeshore.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/G&G - Pine.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/Harbor_heavy.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/Montrose.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/North Park.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/Ravenswood.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/Vision Fx6_65x.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/VisionTeal Fx6_65x.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G LOG Conversion/Apple LOG to Rec709.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G LOG Conversion/Sony Slog3 to Rec709.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G LOG Conversion/WC_FX5_AmberDensity_SLog3_to_Rec709.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "MCP/GG_GradeFXBeta.dctl",
+          "h": "a86147cdcb6c262e45d2259837813094ec5e53ef9111eaa55c03d362469562cb"
+        },
+        {
+          "p": 3,
+          "f": "MCP/GG_GradeOut.dctl",
+          "h": "d012d0ab4afa5f46ec4d5dd6afeec8c70b13958733f55e2538b79e8dc0836850"
         }
       ]
     },
@@ -709,15 +764,15 @@
       "parts": null,
       "scope": "system",
       "subfolder": null,
-      "version": "1.5",
-      "size": 38920,
-      "sha256": "26b2041d9d18c3271b6e94652d1f298019e53e3fb7f98fcefe66a6680d00c686",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/l3rds-1.5.zip",
+      "version": "1.6",
+      "size": 39036,
+      "sha256": "10fda2cd9db05d694e1e298189f3dfde2bb1325946f7ce2093e1dc539f36a55b",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/l3rds-1.6.zip",
       "files": [
         {
           "p": 0,
           "f": "Grain&Gate/Text Tools | Grain&Gate/L3rds Lab | G&G.setting",
-          "h": "a2e84d2beccac7f15eee189af951afa35edf1692926c4423f586384707210cbb"
+          "h": "4e5a98660cc51365949617ed5eb70a79339cf5bc20bda134e047338fcb066a96"
         }
       ]
     },
@@ -793,19 +848,35 @@
       "description": "Overlay effects rack with Normal, Negative and Faction composites.",
       "kind": "Plugins",
       "category": "Layer Presets",
-      "target": "edit-generator",
-      "parts": null,
+      "target": null,
+      "parts": [
+        {
+          "path": "Templates",
+          "target": "edit-generator",
+          "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        }
+      ],
       "scope": "system",
-      "subfolder": "Grain&Gate/Generators | Grain&Gate/Layer Presets",
-      "version": "1.3",
-      "size": 10554,
-      "sha256": "2f861fd52099498bccba1b0f8c54b03c68f16e1ced645786852968a99c0c6e69",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/overlay-layer-1.3.zip",
+      "subfolder": null,
+      "version": "1.4",
+      "size": 206033,
+      "sha256": "d7428b38b5edc13fb71a5508401e44920c37c6c4d6c7bf1862c5fd85aadb6e4b",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/overlay-layer-1.4.zip",
       "files": [
         {
           "p": 0,
           "f": "Grain&Gate/Generators | Grain&Gate/Layer Presets/Overlay Layer | G&G.setting",
-          "h": "a19b75a12fe172fe913992ebf1977f9b09b173c08fb447d232e35529ee3c5e28"
+          "h": "2d2a5a467ff68fada56f07ed57cdb42a9f039e4047a69ba9e1aec21c0a0d5f82"
+        },
+        {
+          "p": 1,
+          "f": "GG_OverlayCore.fuse",
+          "h": "1eb99a3586d12ece775e0c41dcee5e05649999c4236ce8ab6c4fe880fa35e180"
         }
       ]
     },
@@ -863,15 +934,15 @@
       "parts": null,
       "scope": "system",
       "subfolder": "Grain&Gate/Presets - Text Lab",
-      "version": "1.4",
-      "size": 42012,
-      "sha256": "a790a06ec95b5f8ddc2982278c38b12fabe0ad6113b46315a6839246e707d007",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/scramble-text-lab-1.4.zip",
+      "version": "1.5",
+      "size": 42111,
+      "sha256": "9895e92b4df2d1f60f5e17cdb8ab66236db6368f093d5a3456b77dbc075f02b1",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/scramble-text-lab-1.5.zip",
       "files": [
         {
           "p": 0,
           "f": "Grain&Gate/Presets - Text Lab/Scramble | Text Lab.setting",
-          "h": "6a834e2b81144452dd531ec2831d94755a903580bbacea312a259c5d7ee8bb56"
+          "h": "472781801c18fd8bc27795de3465221dc986d718d7b7f8c22633d27e86ebb9ae"
         }
       ]
     },
@@ -940,30 +1011,30 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.7",
-      "size": 1660173,
-      "sha256": "a62c4d19dc31babfe3f845dc4300d808855343826527072518825056081b182f",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-1.7.zip",
+      "version": "1.8",
+      "size": 1657300,
+      "sha256": "c328c9807d894669fe1e460aedbcd496bfc3075af403bf0eaeba2cd9e02809ec",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-lab-1.8.zip",
       "files": [
         {
           "p": 0,
           "f": "Grain&Gate/Text Tools | Grain&Gate/Text Lab | G&G.setting",
-          "h": "489fdc56a6eea47c232dc4f2676f84f34c946c2621e978f38e7eaa4865a1d092"
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Text Tools | Grain&Gate/Text Lab Presets/Grain & Gate.json",
-          "h": "b344f20e10cb67897576d35252889e3c83b7dc1837efa0c08d8d539a0eae1a4f"
+          "h": "7c16d293af53344d5d8f3dc4728679359d1921b34a512036dd822196fb975b88"
         },
         {
           "p": 1,
           "f": "GG_TextEngine.fuse",
-          "h": "47c931dd96e66e16e0cf9df793b63eb9df0a61ce6acea0452538872afacbfd61"
+          "h": "236f063b346f4a289c87ae09f224a9081304a38337bc49092ac193fd8841132e"
         },
         {
           "p": 1,
           "f": "GG_AnimatePro.fuse",
           "h": "f6986a55b4162072d8879b2b7ccdc167cf09689d9305db2165545ecae1144ba2"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/Text Lab Presets/Grain & Gate.json",
+          "h": "f1a1d3f37cca4cb19ea086056b1d5df64c76ce71d5a7c7ed3fc1033fa1229747"
         }
       ]
     },
@@ -1043,15 +1114,15 @@
       "parts": null,
       "scope": "system",
       "subfolder": "Grain&Gate/Generators | Grain&Gate/Lab Presets",
-      "version": "1.3",
-      "size": 14397,
-      "sha256": "9fca90a6b89844bd5cbeed64b0e6351a5b78dc595c0888c7716e5a4b83e85506",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/transition-lab-1.3.zip",
+      "version": "1.4",
+      "size": 14934,
+      "sha256": "c5ee2656f58f68ed3499bcbcccb4c5a8235ebbe0548958d2bf4cf2dfb7338c71",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/transition-lab-1.4.zip",
       "files": [
         {
           "p": 0,
           "f": "Grain&Gate/Generators | Grain&Gate/Lab Presets/Transition Lab | G&G.setting",
-          "h": "290f2cdd63f607b5b69d438782dc298ba1499bc30cdd462ab1e3292b7e99d591"
+          "h": "5f3626669356abdaf5ce4c2596f93b831eaa5f1cb115e142d871466e41d6e8f8"
         }
       ]
     },
@@ -1271,10 +1342,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.1",
-      "size": 29689,
-      "sha256": "636b4a040c3bd814a4142d2c41e0388797ec34140d6afc147dbc9f44d27b012e",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/animate-pro-1.1.zip",
+      "version": "1.2",
+      "size": 81728,
+      "sha256": "88530a2926f613ce56a6942b5e7d7d1faaefdbf9c89aec899faff78fe7ec1b17",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/animate-pro-1.2.zip",
       "files": [
         {
           "p": 0,
@@ -1284,7 +1355,7 @@
         {
           "p": 1,
           "f": "GG_AnimatePro.fuse",
-          "h": "64d212d82849b6296011f7070a6b079a789dab934cb3164a796c8a66d35483e7"
+          "h": "f6986a55b4162072d8879b2b7ccdc167cf09689d9305db2165545ecae1144ba2"
         }
       ]
     },
@@ -1376,22 +1447,22 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.5",
-      "size": 323441,
-      "sha256": "20c7cc709fea24a9f2d76eb3741a552b835fb013640f4ca01b3ca5edd823db6f",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-lab-v2-1.5.zip",
+      "version": "1.6",
+      "size": 401002,
+      "sha256": "1455ce62491ea273acddb368668a3ec952ce2876ad5900deff2293ecbd5120b6",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-lab-v2-1.6.zip",
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/print-lab-v2.jpg",
       "spotlight": true,
       "files": [
         {
           "p": 0,
           "f": "Grain&Gate/Style Tools | Grain&Gate/Print Lab V2 | G&G.setting",
-          "h": "c584a4ce3d40aa689e50f1b2041f2e3323eb6fba01dc02e6daa0a9d457e481b2"
+          "h": "06edbe3471c3db33be3af5b6776daa1963b7c111e465bdbb0b1b871480b37bd2"
         },
         {
           "p": 1,
           "f": "GG_PrintLab2.fuse",
-          "h": "3ee883037c0c03c441353ca6912c9428e9d7fbb9b0d30f2e852dabadf9eff9f5"
+          "h": "ac3aab523d951aba9be2417aef442343c1727ddaec0952103ab8b64a571fab8f"
         },
         {
           "p": 0,
@@ -1459,20 +1530,20 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.3",
-      "size": 330672,
-      "sha256": "7809dcf73555d660c81a6655d198b3ce31033cc905894088383f7ccc6cac1a57",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cutout-lab-1.3.zip",
+      "version": "1.4",
+      "size": 364007,
+      "sha256": "c60447facba35e65e8b2ba7af11823855246db2a9a00868dd49b54c2a524680a",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cutout-lab-1.4.zip",
       "files": [
         {
           "p": 0,
           "f": "Grain&Gate/Style Tools | Grain&Gate/Cutout Lab | G&G.setting",
-          "h": "d0819f1d027f8cbccc1ab63d15b56bc7e5539d4a68bce38a453ea163c9cf9a84"
+          "h": "075d9bc9f0537a309f0a26b6dbef23635f763a933eb4793748da65607b77cb85"
         },
         {
           "p": 1,
           "f": "GG_PrintLab2.fuse",
-          "h": "3ee883037c0c03c441353ca6912c9428e9d7fbb9b0d30f2e852dabadf9eff9f5"
+          "h": "ac3aab523d951aba9be2417aef442343c1727ddaec0952103ab8b64a571fab8f"
         },
         {
           "p": 1,
@@ -1548,7 +1619,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-18T20:15:48.364353Z",
+  "updatedAt": "2026-10-19T15:52:29.595838Z",
   "launcher": {
     "version": "0.6.5",
     "notes": "The launcher now scans your Mac for tools and apps you already have, including ones installed by hand, and notices ones you deleted.",
