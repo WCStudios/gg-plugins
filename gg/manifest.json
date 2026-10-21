@@ -1619,14 +1619,14 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-19T21:52:07.505286Z",
+  "updatedAt": "2026-10-21T17:51:47.372320Z",
   "launcher": {
-    "version": "0.6.5",
-    "notes": "The launcher now scans your Mac for tools and apps you already have, including ones installed by hand, and notices ones you deleted.",
+    "version": "0.6.6",
+    "notes": "The launcher is now OutPost: same sign-in, same tools, new name.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.6.5/GrainAndGate-Launcher-0.6.5-arm64.dmg",
-      "size": 114054593,
-      "sha256": "ba7f7060abbf6991774fc8a4be429a3ecfed235a1912c99f2609f789c75a43ec"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.6.6/GrainAndGate-Launcher-0.6.6-arm64.dmg",
+      "size": 114075352,
+      "sha256": "5d4b32ab155b6a2fe8ac5c09deaaf3f91c5e14a22209c4b366ee51d2d3005372"
     }
   },
   "setup": [
