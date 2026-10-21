@@ -1619,14 +1619,14 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-21T17:51:47.372320Z",
+  "updatedAt": "2026-10-21T18:41:03.257507Z",
   "launcher": {
-    "version": "0.6.6",
-    "notes": "The launcher is now OutPost: same sign-in, same tools, new name.",
+    "version": "0.6.7",
+    "notes": "OutPost gets its own app icon and a refined wordmark, in the same family as EDTLB, MTNLB, OFFLD and FLCKS.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.6.6/GrainAndGate-Launcher-0.6.6-arm64.dmg",
-      "size": 114075352,
-      "sha256": "5d4b32ab155b6a2fe8ac5c09deaaf3f91c5e14a22209c4b366ee51d2d3005372"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.6.7/GrainAndGate-Launcher-0.6.7-arm64.dmg",
+      "size": 114756219,
+      "sha256": "0e0ff875bb70c741f77004cdb9104ab6383cafae98526467fa5820add9ff28fe"
     }
   },
   "setup": [
