@@ -1619,14 +1619,14 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-21T18:46:53.787001Z",
+  "updatedAt": "2026-10-23T05:21:59.030577Z",
   "launcher": {
-    "version": "0.6.8",
-    "notes": "Refined OutPost icon: more breathing room and the weight balanced to the centre.",
+    "version": "0.6.9",
+    "notes": "OutPost icon: the pole now fades to steel so the coral flag is the brightest thing in it.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.6.8/GrainAndGate-Launcher-0.6.8-arm64.dmg",
-      "size": 114766550,
-      "sha256": "88124a64a2d2c14dbe3f428829b430543ad9e81e10a63abee93907b7c6c53c45"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.6.9/GrainAndGate-Launcher-0.6.9-arm64.dmg",
+      "size": 114764255,
+      "sha256": "8787930fd504948fe6bd26f3d59406044f9c07a40100791d729c98185e5584b3"
     }
   },
   "setup": [
