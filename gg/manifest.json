@@ -44,7 +44,7 @@
     {
       "id": "3d-studio",
       "name": "3D Studio | G&G",
-      "description": "One 3D tool for photos, text and logos: Single, Grid, Clock, Carousel, Random or Sphere layouts on a Studio, Flat Lay or HDRI backdrop, extruded 3D text and logos, key, rim and HDRI lighting, soft shadows and an animated pose camera. Rendered by one GPU Fuse, so it plays at 24 fps.",
+      "description": "A 3D studio in one effect: photo cards, extruded 3D text with Text Lab letter motion, logos, planes, shapes and OBJ / FBX models (vehicles that drive, balls that roll) on a Studio, Grid Room, Arena, Woods, Flat Lay or HDRI set, with key, rim and object lights, reflections, a four-pose camera and a live viewport. Rendered by one GPU Fuse.",
       "kind": "Plugins",
       "category": "3D Tools",
       "target": null,
@@ -62,20 +62,20 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.4",
-      "size": 4415902,
-      "sha256": "b79249c8d01495e088b93848dc8f09acb12dc39e435f25674b6db8e8b419fce6",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-studio-1.4.zip",
+      "version": "1.5",
+      "size": 19894072,
+      "sha256": "c7ca34c5cd73f84eaa1c02eab9f5b53184fc5d32bfeb15c5ac38d371ea134a64",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-studio-1.5.zip",
       "files": [
         {
-          "p": 1,
-          "f": "GG_3dStudioCore.fuse",
-          "h": "3c9392291c9483b71933cf1035a41db051f8831dcf1e567be7255441923d3c99"
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/3D Studio | G&G.setting",
+          "h": null
         },
         {
           "p": 1,
-          "f": "GG_CamPoses.fuse",
-          "h": "13e667e7d133d9b00777987d3c29b2a300b24340b23dc0f90f58f10004297737"
+          "f": "GG_3dStudioCore.fuse",
+          "h": "7ee605fa558b79014aaa4c90f6a07802cfba2bc85fe7aa8ecf01691b4b21ef55"
         },
         {
           "p": 1,
@@ -83,9 +83,9 @@
           "h": "42978525e99816d271634aee75b21bdc4d5609651d0d6ea145d28932a1f29601"
         },
         {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/3D Studio | G&G.setting",
-          "h": null
+          "p": 1,
+          "f": "GG_CamPoses.fuse",
+          "h": "13e667e7d133d9b00777987d3c29b2a300b24340b23dc0f90f58f10004297737"
         },
         {
           "p": 0,
@@ -240,6 +240,271 @@
         {
           "p": 0,
           "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Soft Stretch.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_BackLights.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_BackLights.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_NeonRails.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_NeonRails.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_RingFixtures.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_RingFixtures.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_RingLenses.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_RingLenses.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignRails.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignRails.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignRailsL.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignRailsL.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignRailsR.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignRailsR.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignTowers.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignTowers.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignTowersL.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignTowersL.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignTowersR.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignTowersR.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_Stage.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_Stage.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_StageBand.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_StageBand.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_StageStrips.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_StageStrips.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerL.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerL.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerPanels.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerPanels.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerPanelsL.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerPanelsL.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerPanelsR.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerPanelsR.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerR.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerR.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TrussRing.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TrussRing.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Woods/woods_Forest.fbx",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Woods/woods_Ground.fbx",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Woods/woods_Terrain.fbx",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Woods/woods_Tree0.fbx",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Woods/woods_Tree1.fbx",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Woods/woods_Tree2.fbx",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Woods/woods_Tree3.fbx",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Woods/woods_dome_bright.exr",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Woods/woods_dome_dark.exr",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Woods/woods_instances.txt",
+          "h": "e42d0532c465c27b6f5386a5df4d5eac621a4a2a72f50713af9bd2baad39631c"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Woods/woods_scene.fbx",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Woods/woods_sky_bright.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Woods/woods_sky_dark.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Woods/woods_trees_bright.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Woods/woods_trees_dark.png",
           "h": null
         }
       ]
@@ -1619,7 +1884,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-23T21:14:19.624118Z",
+  "updatedAt": "2026-10-24T22:57:24.203202Z",
   "launcher": {
     "version": "0.6.9",
     "notes": "OutPost icon: the pole now fades to steel so the coral flag is the brightest thing in it.",
