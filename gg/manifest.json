@@ -44,7 +44,7 @@
     {
       "id": "3d-studio",
       "name": "3D Studio | G&G",
-      "description": "A 3D studio in one effect: photo cards, extruded 3D text with Text Lab letter motion, logos, planes, shapes and OBJ / FBX models (vehicles that drive, balls that roll) on a Studio, Grid Room, Arena, Woods, Flat Lay or HDRI set, with key, rim and object lights, reflections, a four-pose camera and a live viewport. Rendered by one GPU Fuse.",
+      "description": "A 3D studio in one effect: photo cards, extruded 3D text with Text Lab letter motion, logos, planes, shapes and OBJ / FBX models (vehicles that drive, balls that roll, Mixamo characters that dance), procedural clouds, a GG Models library, Scatter copies on a Studio, Grid Room, Arena, Woods, Flat Lay or HDRI set, with key, rim and object lights, reflections, a four-pose camera and a live viewport. Rendered by one GPU Fuse.",
       "kind": "Plugins",
       "category": "3D Tools",
       "target": null,
@@ -62,10 +62,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.5",
-      "size": 19894072,
-      "sha256": "c7ca34c5cd73f84eaa1c02eab9f5b53184fc5d32bfeb15c5ac38d371ea134a64",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-studio-1.5.zip",
+      "version": "1.6",
+      "size": 20216419,
+      "sha256": "2e3ad3f859eaf6deba5b84f95db26572d9fea8be8a47ad702c871f2b9a034b83",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/3d-studio-1.6.zip",
       "files": [
         {
           "p": 0,
@@ -75,7 +75,7 @@
         {
           "p": 1,
           "f": "GG_3dStudioCore.fuse",
-          "h": "7ee605fa558b79014aaa4c90f6a07802cfba2bc85fe7aa8ecf01691b4b21ef55"
+          "h": "06194c637c0f2e926a4e0a97e56dc405212c47649c6e5b25ac625fb22fed8cf8"
         },
         {
           "p": 1,
@@ -506,8 +506,99 @@
           "p": 0,
           "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Woods/woods_trees_dark.png",
           "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Ball.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Ball.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Cloud A.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Cloud A.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Cloud B.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Cloud B.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Pine Tree.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Pine Tree.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Plinth Round.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Plinth Round.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Plinth Square.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Plinth Square.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Rock A.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Rock A.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Rock B.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Rock B.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Round Tree.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Round Tree.obj",
+          "h": null
         }
-      ]
+      ],
+      "notes": "Mixamo animated characters (skinned FBX), a procedural Cloud shape, Shading modes (Soft / Flat / Translucent), Scatter copies of a model or shape (Field / Row / Ring), the GG Models library (clouds, trees, rocks, plinths, ball), a Camera tab that opens faster, Camera Moves presets, Copy Start to End, the plane Image File always shown, Drive on the floor when its target is not in the scene."
     },
     {
       "id": "background-lab",
@@ -1884,7 +1975,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-24T22:57:24.203202Z",
+  "updatedAt": "2026-10-26T17:43:51.975099Z",
   "launcher": {
     "version": "0.6.9",
     "notes": "OutPost icon: the pole now fades to steel so the coral flag is the brightest thing in it.",
