@@ -15,10 +15,10 @@
       "subfolder": null,
       "arch": "arm64",
       "bundleId": "co.wcstudios.edtlb",
-      "version": "1.0.285",
-      "size": 173402646,
-      "sha256": "818790aaf9b03e12851c00ca151d54d6273c2403ce46a92d6036b2f1ec09af17",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.285.zip",
+      "version": "1.0.286",
+      "size": 173415201,
+      "sha256": "0ede5a2404f2c6ea0185ff6a9886b2b56c5082029b1f26f6a3fd771b956e85d4",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.286.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/edtlb.png",
       "tagline": "DaVinci Resolve companion"
     },
@@ -1975,7 +1975,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-10T20:52:15.930819Z",
+  "updatedAt": "2026-11-10T21:15:31.734507Z",
   "launcher": {
     "version": "0.6.9",
     "notes": "OutPost icon: the pole now fades to steel so the coral flag is the brightest thing in it.",
