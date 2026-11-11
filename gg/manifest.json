@@ -2623,9 +2623,28 @@
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/afterlight-line.png"
+    },
+    {
+      "id": "viewport",
+      "name": "VIEWPORT",
+      "description": "",
+      "kind": "Apps",
+      "category": "Mac Apps",
+      "target": "app",
+      "parts": null,
+      "scope": null,
+      "subfolder": null,
+      "arch": "arm64",
+      "bundleId": "co.wcstudios.gg3dviewport",
+      "version": "0.9.33",
+      "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/viewport.png",
+      "tagline": "",
+      "size": 86997591,
+      "sha256": "9366e86d950c009a872279438064803aa105683641ab8a3449c2444f93a46897",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-viewport/viewport-0.9.33.zip"
     }
   ],
-  "updatedAt": "2026-11-11T01:14:32.248588Z",
+  "updatedAt": "2026-11-11T01:14:59.990818Z",
   "launcher": {
     "version": "0.7.1",
     "notes": "Plugins are now one wall of line bundles with their covers, and a bundle can install an OFX plugin, so 3D Tools ships with the Gaussian splat plugin.",
