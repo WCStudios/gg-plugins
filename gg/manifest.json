@@ -245,10 +245,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.4",
-      "size": 33939591,
-      "sha256": "b630b3b8e46a160f9337e9151d9897b86939206c86d8e7859e85496c888363da",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.4.zip",
+      "version": "1.5",
+      "size": 33940049,
+      "sha256": "58f4b6a0c880dd9e3a33229ed085c8ee45c4e4bd6f0e275231e54d5b91f9a261",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.5.zip",
       "files": [
         {
           "p": 0,
@@ -273,7 +273,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Color Tools | Grain&Gate/Grade | G&G.setting",
-          "h": "92b7629f6a8f11cad90fd8190f85701de3d043517a23bde51943aa13ab43e907"
+          "h": "fb50ea046dfe7524603d5533f594594ba7a09c0cb69654fb9c93b6d006576e7c"
         },
         {
           "p": 1,
@@ -441,13 +441,17 @@
           "h": "16e76c00348e3b984f9e60e9ee3268e410136feb60d18548d07813c65a6d69b6"
         }
       ],
-      "notes": "Demist is now an effect inside Grade (Effects, above Diffusion). Relight is no longer included.",
+      "notes": "Grade presets are safer: every save keeps five backups, a damaged presets file is never overwritten, and your own preset list comes back after each update.",
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/color-tools-line.png",
       "tools": [
         "Grade",
         "Demist"
       ],
       "history": [
+        {
+          "v": "1.5",
+          "note": "Grade presets are safer: every save keeps five backups, a damaged presets file is never overwritten, and your own preset list comes back after each update."
+        },
         {
           "v": "1.4",
           "note": "Demist is now an effect inside Grade (Effects, above Diffusion). Relight is no longer included."
@@ -2727,7 +2731,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T18:29:56.687419Z",
+  "updatedAt": "2026-11-11T20:11:08.342615Z",
   "launcher": {
     "version": "0.9.22",
     "notes": "Update rows are back to the stacked list.",
