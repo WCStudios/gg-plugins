@@ -2635,14 +2635,14 @@
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/film-burns-1.0/gg-film-burns-1.0.zip"
     }
   ],
-  "updatedAt": "2026-11-11T01:29:04.880864Z",
+  "updatedAt": "2026-11-11T01:33:27.648951Z",
   "launcher": {
-    "version": "0.7.2",
-    "notes": "Viewport now installs with 3D Tools.",
+    "version": "0.7.3",
+    "notes": "The Plugins page is redesigned: one wall of line plates with their covers, what each line installs, and its status at a glance.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.7.2/GrainAndGate-Launcher-0.7.2-arm64.dmg",
-      "size": 114767912,
-      "sha256": "35034273dffa83e49effc72cdec05842a253b8f1b858b33758ba4228c64fb377"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.7.3/GrainAndGate-Launcher-0.7.3-arm64.dmg",
+      "size": 114840760,
+      "sha256": "d824977251c51d9aeeef21cc470b7f4bc16d349ed5b1ecb0a1b256c6f380243e"
     }
   },
   "setup": [
