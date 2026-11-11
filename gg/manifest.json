@@ -245,10 +245,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.6",
-      "size": 33940173,
-      "sha256": "6d9451ed1e9da725449187e483b8895e37eb1d4d4d2af37fe76ee4771bdf1eff",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.6.zip",
+      "version": "1.7",
+      "size": 33940174,
+      "sha256": "d5a8ea8b37a9bde5186d68f95f89ed9f14f793c359efc0852243bb30804aa7bc",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.7.zip",
       "files": [
         {
           "p": 0,
@@ -273,7 +273,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Color Tools | Grain&Gate/Grade | G&G.setting",
-          "h": "ac037bdeda340d12a5b5d46c570aef9cadc91f1c88fcddf4308a45c3738c07a6"
+          "h": "553ae106914839349df0f6e6e8d42d2ba996c9f612d2f63e7414910d84d70c8c"
         },
         {
           "p": 1,
@@ -448,6 +448,10 @@
         "Demist"
       ],
       "history": [
+        {
+          "v": "1.7",
+          "note": "Grade presets load again on Resolve 21.2: pick a preset, then press Load. Saves keep five backups and your own list comes back after each update."
+        },
         {
           "v": "1.6",
           "note": "Grade presets load again on Resolve 21.2: pick a preset, then press Load. Saves keep five backups and your own list comes back after each update."
@@ -2735,7 +2739,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T21:11:32.428931Z",
+  "updatedAt": "2026-11-11T21:13:38.410920Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
