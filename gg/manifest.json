@@ -2649,14 +2649,14 @@
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/film-burns-1.0/gg-film-burns-1.0.zip"
     }
   ],
-  "updatedAt": "2026-11-11T01:28:05.797128Z",
+  "updatedAt": "2026-11-11T01:28:30.893555Z",
   "launcher": {
-    "version": "0.7.1",
-    "notes": "Plugins are now one wall of line bundles with their covers, and a bundle can install an OFX plugin, so 3D Tools ships with the Gaussian splat plugin.",
+    "version": "0.7.2",
+    "notes": "Viewport now installs with 3D Tools.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.7.1/GrainAndGate-Launcher-0.7.1-arm64.dmg",
-      "size": 114765414,
-      "sha256": "7ff4742cc7f8b38a626257c0a3e72ac0c9951b46921691c3d161cf65915611af"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.7.2/GrainAndGate-Launcher-0.7.2-arm64.dmg",
+      "size": 114767912,
+      "sha256": "35034273dffa83e49effc72cdec05842a253b8f1b858b33758ba4228c64fb377"
     }
   },
   "setup": [
