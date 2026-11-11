@@ -2754,14 +2754,14 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T04:44:40.904989Z",
+  "updatedAt": "2026-11-11T04:46:17.994977Z",
   "launcher": {
-    "version": "0.9.7",
-    "notes": "Every plugin page has a Comes with row: its tools and any library packs it brings. Small buttons are tighter, in caps.",
+    "version": "0.9.8",
+    "notes": "The account menu has the new look: switch accounts there, and open Studio tools from it.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.7/GrainAndGate-Launcher-0.9.7-arm64.dmg",
-      "size": 114861534,
-      "sha256": "bd4bb650c61218a6ae790cc0abf1b7227a1ecb564f24703a577e97c47f9a47b4"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.8/GrainAndGate-Launcher-0.9.8-arm64.dmg",
+      "size": 114861615,
+      "sha256": "14db9516e7eb442c4c06bb7bd2ce82f7d9727522cbfec22db59ca9afd57d23cb"
     }
   },
   "setup": [
