@@ -2727,14 +2727,14 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T05:10:05.424523Z",
+  "updatedAt": "2026-11-11T17:57:30.526178Z",
   "launcher": {
-    "version": "0.9.16",
-    "notes": "New in has a toggle for past updates, and Used by gets its own panel.",
+    "version": "0.9.17",
+    "notes": "Settings: a cleaner Connections page with an Add connection button. Update rows are slimmer, with versions shown as pills.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.16/GrainAndGate-Launcher-0.9.16-arm64.dmg",
-      "size": 114865861,
-      "sha256": "da1f5963879db1296be83e6d794bf80cc0610631fcffba92796c1a0b93a30d8c"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.17/GrainAndGate-Launcher-0.9.17-arm64.dmg",
+      "size": 114869916,
+      "sha256": "5276d06ce2212b75e886002c352b3d71e347b122efad1cd8bda3280b364de2c3"
     }
   },
   "setup": [
