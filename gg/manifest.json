@@ -245,10 +245,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.8",
-      "size": 33940229,
-      "sha256": "c4c2bac7686851f39b7c8689875e311b9e339a5b6c946decb105fab3f1e7ce40",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.8.zip",
+      "version": "1.9",
+      "size": 33941973,
+      "sha256": "bb25849a9f8f804fb5541b221f5da05efeca036c67ffbd48387a556e03c7dc79",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.9.zip",
       "files": [
         {
           "p": 0,
@@ -278,22 +278,22 @@
         {
           "p": 1,
           "f": "GG_Demist.fuse",
-          "h": "9e0970bb03244e0aadff7811bb2cd014d3e485be2467d656b393e7688b96f3a6"
+          "h": "d6f43ff88e35a64817920db883aaf3bb5cf208ee209f2db701e70638f9b3d3f8"
         },
         {
           "p": 1,
           "f": "GG_FilmGrain.fuse",
-          "h": "7e1ff88f742546b14d1ddfdcd736b8c47809b30fccc1c6cf2506edf00b8e41bc"
+          "h": "f6bfbe1108850f56fcbbeeef8f0a2d0a64861cd69fc13813aae4124d0ac2d21b"
         },
         {
           "p": 1,
           "f": "GG_GradeCore.fuse",
-          "h": "f4b85867a86f16fc97cf10764911a4b696e392ec02b36cf4ca6be2bad06e140a"
+          "h": "8d3ec0625d431e34d2e85c6270df03bef5eed068c7345a6a0f9a017229187351"
         },
         {
           "p": 1,
           "f": "GG_TrackerLab.fuse",
-          "h": "04c65c66e76d63ebdbac14c67564ef36333614f2b366f21a36ec65ce0607a3ce"
+          "h": "0dbb5dda1ccf688e8635d0df89f365eef8f45c4f8fb349cce07763fdfcff6809"
         },
         {
           "p": 2,
@@ -441,13 +441,17 @@
           "h": "16e76c00348e3b984f9e60e9ee3268e410136feb60d18548d07813c65a6d69b6"
         }
       ],
-      "notes": "Grade: the look dropdowns and Intensity sit in a new Look section, and the preset row has a Load button beside the list.",
+      "notes": "Stabilization works again with Grade on in Resolve 21.2. Restart Resolve after updating.",
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/color-tools-line.png",
       "tools": [
         "Grade",
         "Demist"
       ],
       "history": [
+        {
+          "v": "1.9",
+          "note": "Stabilization works again with Grade on in Resolve 21.2. Restart Resolve after updating."
+        },
         {
           "v": "1.8",
           "note": "Grade: the look dropdowns and Intensity sit in a new Look section, and the preset row has a Load button beside the list."
@@ -2743,7 +2747,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T22:19:29.492961Z",
+  "updatedAt": "2026-11-11T23:24:15.428969Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
