@@ -937,10 +937,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.0",
-      "size": 266493,
-      "sha256": "3399d850032cd0611f2a3b222923716b399229043f713ab3da757c7d5467790d",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/shift-1.0.zip",
+      "version": "1.1",
+      "size": 266529,
+      "sha256": "e883087d8cbc6beb6c27d9e1011ed924ce6f0110d2aab51b624a83779f50fb46",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/shift-1.1.zip",
       "files": [
         {
           "p": 0,
@@ -1012,7 +1012,8 @@
       "tools": [
         "Transition Lab",
         "Shift Lab"
-      ]
+      ],
+      "notes": "Transition Lab no longer goes black when the Film Burns pack is not installed. Burns still need the G&G Film Burns pack from the Library tab."
     },
     {
       "id": "sleuth",
@@ -2711,7 +2712,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T02:32:09.295762Z",
+  "updatedAt": "2026-11-11T02:41:43.759290Z",
   "launcher": {
     "version": "0.8.0",
     "notes": "A cleaner launcher: Plugins, Apps and Library each get their own page, every item has a cover, and the type is easier to read.",
