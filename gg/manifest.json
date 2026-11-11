@@ -2727,14 +2727,14 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T18:02:59.754491Z",
+  "updatedAt": "2026-11-11T18:05:28.416109Z",
   "launcher": {
-    "version": "0.9.19",
-    "notes": "Library: click a section chip to open that view.",
+    "version": "0.9.20",
+    "notes": "Home: Updates hugs its list, and On this Mac is a single slim strip.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.19/GrainAndGate-Launcher-0.9.19-arm64.dmg",
-      "size": 114870155,
-      "sha256": "1f2e35a8f3e579a601ce6221b6e712f6b0cb5f26e2863c35d3de0e987ecd3476"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.20/GrainAndGate-Launcher-0.9.20-arm64.dmg",
+      "size": 114870563,
+      "sha256": "e7f397799db3eb859beadeb6506ea4d99ef761445d87048fd3018b383a8c05e3"
     }
   },
   "setup": [
