@@ -2754,14 +2754,14 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T04:41:22.276003Z",
+  "updatedAt": "2026-11-11T04:43:47.125657Z",
   "launcher": {
-    "version": "0.9.5",
-    "notes": "Home's banner is just the release name, plugin names never run under their art, buttons use a cleaner face, and More plugins is its own panel.",
+    "version": "0.9.6",
+    "notes": "Every plugin page has a Comes with row: its tools and any library packs it brings.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.5/GrainAndGate-Launcher-0.9.5-arm64.dmg",
-      "size": 114861372,
-      "sha256": "f54152b2f72339257c78b60066a765347cae3ca01e410871f777fa128b7305cf"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.6/GrainAndGate-Launcher-0.9.6-arm64.dmg",
+      "size": 115239840,
+      "sha256": "110bbe3647e340d92e66147160aeb03651f6dba53e976a058eba92f66b56c59a"
     }
   },
   "setup": [
