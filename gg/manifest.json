@@ -445,7 +445,6 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/color-tools-line.png",
       "tools": [
         "Grade",
-        "Relight",
         "Demist"
       ],
       "history": [
@@ -2728,7 +2727,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T05:02:02.625481Z",
+  "updatedAt": "2026-11-11T05:05:31.538973Z",
   "launcher": {
     "version": "0.9.13",
     "notes": "Plugin pages: cleaner type in the About panel, and bigger all caps pills.",
