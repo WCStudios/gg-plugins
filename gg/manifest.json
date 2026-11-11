@@ -2622,7 +2622,7 @@
           "h": "3e93ecfc4102995f823efc27bcf79134daaf7085b832f6da3b98c042e85ef750"
         }
       ],
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/afterlight-line.png"
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/afterlight-cover.png"
     },
     {
       "id": "viewport",
@@ -2659,7 +2659,7 @@
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/film-burns-1.0/gg-film-burns-1.0.zip"
     }
   ],
-  "updatedAt": "2026-11-11T01:15:40.173232Z",
+  "updatedAt": "2026-11-11T01:25:43.681227Z",
   "launcher": {
     "version": "0.7.1",
     "notes": "Plugins are now one wall of line bundles with their covers, and a bundle can install an OFX plugin, so 3D Tools ships with the Gaussian splat plugin.",
