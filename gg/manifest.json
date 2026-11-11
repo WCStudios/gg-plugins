@@ -2727,14 +2727,14 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T17:57:30.526178Z",
+  "updatedAt": "2026-11-11T18:01:01.141003Z",
   "launcher": {
-    "version": "0.9.17",
-    "notes": "Settings: a cleaner Connections page with an Add connection button. Update rows are slimmer, with versions shown as pills.",
+    "version": "0.9.18",
+    "notes": "Home: tighter Updates and On this Mac panels, with the new version beside the Update button.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.17/GrainAndGate-Launcher-0.9.17-arm64.dmg",
-      "size": 114869916,
-      "sha256": "5276d06ce2212b75e886002c352b3d71e347b122efad1cd8bda3280b364de2c3"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.18/GrainAndGate-Launcher-0.9.18-arm64.dmg",
+      "size": 114870112,
+      "sha256": "0ab5a7fdff797b15ba5a8e50d201157fa57736b8fe23c9d56251b3e6e5570367"
     }
   },
   "setup": [
