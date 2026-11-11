@@ -20,7 +20,8 @@
       "sha256": "e47dc431e73465b6673252b83a01b0402fb7e7d48852f75ab9afc38988e2d485",
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.287.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/edtlb.png",
-      "tagline": "DaVinci Resolve companion"
+      "tagline": "DaVinci Resolve companion",
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/edtlb-cover.png"
     },
     {
       "id": "flcks",
@@ -39,7 +40,8 @@
       "sha256": "7f9c40d7d8d94c1de1734780ccbe19e3f5986100dfaaa4616f9508c54192b520",
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-flcks/flcks-0.9.43.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/flcks.png",
-      "tagline": "Photo workflow, camera to feed"
+      "tagline": "Photo workflow, camera to feed",
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/flcks-cover.png"
     },
     {
       "id": "gg-textures",
@@ -121,7 +123,8 @@
           "f": "_GGTex/.gg_labels.lua",
           "h": "69f55c78bd460bd8230cbdeb282f53b2469af0998510736e6d7a634bcba1d901"
         }
-      ]
+      ],
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-textures-cover.png"
     },
     {
       "id": "mtnlb",
@@ -140,7 +143,8 @@
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/mtnlb.png",
       "size": 88568394,
       "sha256": "b4ba781fc6a1309b7a67da0e578cb90b76ead90ca75538d43429581b1aa9d42f",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-mtnlb/mtnlb-0.5.29.zip"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-mtnlb/mtnlb-0.5.29.zip",
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/mtnlb-cover.png"
     },
     {
       "id": "gg-gobos",
@@ -207,7 +211,8 @@
           "f": "GG_Gobo_winz.png",
           "h": null
         }
-      ]
+      ],
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-gobos-cover.png"
     },
     {
       "id": "color-tools",
@@ -2697,10 +2702,11 @@
       "version": "1.0",
       "size": 1861807252,
       "sha256": "a2bdf0acd8a85b5745b66a3537bdb66c52717c91b85c5e2cbfbdbeb7a044622d",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/film-burns-1.0/gg-film-burns-1.0.zip"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/film-burns-1.0/gg-film-burns-1.0.zip",
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T02:05:52.975810Z",
+  "updatedAt": "2026-11-11T02:17:57.265874Z",
   "launcher": {
     "version": "0.7.5",
     "notes": "Plugin cards now list what each line installs and say what it does in one sentence. The storefront tab is parked.",
