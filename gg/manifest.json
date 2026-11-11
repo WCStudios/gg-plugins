@@ -2727,14 +2727,14 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T05:05:52.550715Z",
+  "updatedAt": "2026-11-11T05:07:45.880620Z",
   "launcher": {
-    "version": "0.9.14",
-    "notes": "Overlays and templates use the same covers as plugins, with new Gobos and Burns art.",
+    "version": "0.9.15",
+    "notes": "New in shows only the latest update.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.14/GrainAndGate-Launcher-0.9.14-arm64.dmg",
-      "size": 114861546,
-      "sha256": "bb88feba9709014fa1f40f587e720064a433fe1f1475a90fbc1299fee97039c5"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.15/GrainAndGate-Launcher-0.9.15-arm64.dmg",
+      "size": 115353944,
+      "sha256": "4af02401fc15bd840e68d8b22608f6b83b354afee5cad49b32213388c2a7510c"
     }
   },
   "setup": [
