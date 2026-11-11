@@ -2635,14 +2635,14 @@
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/film-burns-1.0/gg-film-burns-1.0.zip"
     }
   ],
-  "updatedAt": "2026-11-11T01:33:27.648951Z",
+  "updatedAt": "2026-11-11T01:59:34.750117Z",
   "launcher": {
-    "version": "0.7.3",
-    "notes": "The Plugins page is redesigned: one wall of line plates with their covers, what each line installs, and its status at a glance.",
+    "version": "0.7.4",
+    "notes": "Remove All on the Plugins page now clears every Grain & Gate plugin from the Mac, older copies included, and moves them to the Trash.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.7.3/GrainAndGate-Launcher-0.7.3-arm64.dmg",
-      "size": 114840760,
-      "sha256": "d824977251c51d9aeeef21cc470b7f4bc16d349ed5b1ecb0a1b256c6f380243e"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.7.4/GrainAndGate-Launcher-0.7.4-arm64.dmg",
+      "size": 114840524,
+      "sha256": "9247f2e57a2b3d54a192b34b31fe197dc92e32f402d6ab0f1b177852cecd0ac8"
     }
   },
   "setup": [
