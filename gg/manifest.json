@@ -471,7 +471,8 @@
           "h": "d012d0ab4afa5f46ec4d5dd6afeec8c70b13958733f55e2538b79e8dc0836850"
         }
       ],
-      "notes": "Afterlight is now its own install."
+      "notes": "Afterlight is now its own install.",
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/color-tools-line.png"
     },
     {
       "id": "utilities",
@@ -749,7 +750,8 @@
           "f": "GG_UtilityCore.fuse",
           "h": "72109fee80740fd80d4b6fce5512de3b0de185865916b6d5f6edf72ac65c2dfe"
         }
-      ]
+      ],
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/utilities-line.png"
     },
     {
       "id": "cloak",
@@ -807,7 +809,8 @@
           "f": "GG_Cloak.fuse",
           "h": "c57a05bd42c5bb98eeda3f1894bccc7018027b27acc89e1e38582563d0f379bc"
         }
-      ]
+      ],
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/cloak-line.png"
     },
     {
       "id": "drift",
@@ -875,7 +878,8 @@
           "f": "GG_Cloak.fuse",
           "h": "c57a05bd42c5bb98eeda3f1894bccc7018027b27acc89e1e38582563d0f379bc"
         }
-      ]
+      ],
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/drift-line.png"
     },
     {
       "id": "shift",
@@ -973,7 +977,8 @@
           "f": "GG_GlitchTL.fuse",
           "h": "b5178b0e3a965cf0aadd6463cab51afd384829ca240efcf9c5d2f4ca0b9649dd"
         }
-      ]
+      ],
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/shift-line.png"
     },
     {
       "id": "sleuth",
@@ -1016,7 +1021,8 @@
           "f": "GG_TrackerLab.fuse",
           "h": "04c65c66e76d63ebdbac14c67564ef36333614f2b366f21a36ec65ce0607a3ce"
         }
-      ]
+      ],
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/sleuth-line.png"
     },
     {
       "id": "trace",
@@ -1059,7 +1065,8 @@
           "f": "GG_Trace.fuse",
           "h": "856798af34ed88283f9f0c66232ca71f6721eeaa90b954fe8e81605317d220b6"
         }
-      ]
+      ],
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/trace-line.png"
     },
     {
       "id": "rift",
@@ -1102,7 +1109,8 @@
           "f": "GG_PointCloudLab.fuse",
           "h": "f79242fc40f27b0cb7547909529e629e01ddca122078f9f9e34e1885feeb2ac8"
         }
-      ]
+      ],
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/rift-line.png"
     },
     {
       "id": "print",
@@ -1165,7 +1173,8 @@
           "f": "GG_VisionLab.fuse",
           "h": "c8a4663031aba94d87581731805e251305aa7a949abc982017b5f9c967bfca8a"
         }
-      ]
+      ],
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/print-line.png"
     },
     {
       "id": "text-tools",
@@ -1288,7 +1297,8 @@
           "f": "GG_TextEngine.fuse",
           "h": "3a839cdd844449c04b4516d72c7367339a13cd11dcbb5542ab3a7cf7525f6f8c"
         }
-      ]
+      ],
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/text-tools-line.png"
     },
     {
       "id": "3d-tools",
@@ -2532,7 +2542,8 @@
           "h": null
         }
       ],
-      "notes": "Needs launcher 0.7.1 or newer (installs the splat OFX plugin)."
+      "notes": "Needs launcher 0.7.1 or newer (installs the splat OFX plugin).",
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/3d-tools-line.png"
     },
     {
       "id": "afterlight",
@@ -2610,10 +2621,11 @@
           "f": "GG_RelightViewsPreview.fuse",
           "h": "3e93ecfc4102995f823efc27bcf79134daaf7085b832f6da3b98c042e85ef750"
         }
-      ]
+      ],
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/afterlight-line.png"
     }
   ],
-  "updatedAt": "2026-11-11T01:11:12.199964Z",
+  "updatedAt": "2026-11-11T01:13:01.794390Z",
   "launcher": {
     "version": "0.6.9",
     "notes": "OutPost icon: the pole now fades to steel so the coral flag is the brightest thing in it.",
