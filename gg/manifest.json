@@ -212,7 +212,7 @@
     {
       "id": "color-tools",
       "name": "Color Tools | G&G",
-      "description": "The color line in one install: Grade with the G&G LUT library and client presets, Relight, Day to Night and Demist.",
+      "description": "The color line in one install: Grade with the G&G LUT library and client presets, Relight and Demist.",
       "kind": "Plugins",
       "category": "Color Tools",
       "target": null,
@@ -240,16 +240,11 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.1",
-      "size": 34239654,
-      "sha256": "87084c81cbdf8109cc0a98f13139b7a80bd4128f8d783165cf1646014056acfd",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.1.zip",
+      "version": "1.2",
+      "size": 34108332,
+      "sha256": "6af33e41981a1a0010cb936e9db705ead743349c2ab78c93b5872bbf36532f54",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.2.zip",
       "files": [
-        {
-          "p": 0,
-          "f": "Grain&Gate/Color Tools | Grain&Gate/Day to Night | G&G.setting",
-          "h": "69225f98870467bb1afeb2eef233638d2140927d8bf8c92068df828766408692"
-        },
         {
           "p": 0,
           "f": "Grain&Gate/Color Tools | Grain&Gate/Demist | G&G.setting",
@@ -279,11 +274,6 @@
           "p": 0,
           "f": "Grain&Gate/Color Tools | Grain&Gate/Relight | G&G.setting",
           "h": "a10ff4acd645fe90d867c84300659b1a8f9b3b34cef6f40f2758990ef171495f"
-        },
-        {
-          "p": 1,
-          "f": "GG_DayNight.fuse",
-          "h": "60c89e3e2aac612a5abba578ca6dc61493728a5dcd964582a60a4bd5bf72655f"
         },
         {
           "p": 1,
@@ -471,7 +461,7 @@
           "h": "d012d0ab4afa5f46ec4d5dd6afeec8c70b13958733f55e2538b79e8dc0836850"
         }
       ],
-      "notes": "Afterlight is now its own install.",
+      "notes": "The old Day to Night is no longer included; Afterlight replaces it.",
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/color-tools-line.png"
     },
     {
@@ -2659,7 +2649,7 @@
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/film-burns-1.0/gg-film-burns-1.0.zip"
     }
   ],
-  "updatedAt": "2026-11-11T01:25:43.681227Z",
+  "updatedAt": "2026-11-11T01:28:05.797128Z",
   "launcher": {
     "version": "0.7.1",
     "notes": "Plugins are now one wall of line bundles with their covers, and a bundle can install an OFX plugin, so 3D Tools ships with the Gaussian splat plugin.",
