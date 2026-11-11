@@ -772,6 +772,9 @@
         "Shape Layer",
         "Draw On Layer",
         "Real Shadow"
+      ],
+      "requires": [
+        "gg-textures"
       ]
     },
     {
@@ -1013,7 +1016,10 @@
         "Transition Lab",
         "Shift Lab"
       ],
-      "notes": "Transition Lab: Burns controls hide when Burns is off, and the black frame without the Film Burns pack is fixed."
+      "notes": "Transition Lab: Burns controls hide when Burns is off, and the black frame without the Film Burns pack is fixed.",
+      "requires": [
+        "gg-film-burns"
+      ]
     },
     {
       "id": "sleuth",
@@ -2611,6 +2617,10 @@
         "3D Studio",
         "Splat Studio",
         "Viewport"
+      ],
+      "requires": [
+        "gg-gobos",
+        "gg-textures"
       ]
     },
     {
@@ -2712,7 +2722,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T02:53:46.668194Z",
+  "updatedAt": "2026-11-11T02:55:29.392643Z",
   "launcher": {
     "version": "0.8.0",
     "notes": "A cleaner launcher: Plugins, Apps and Library each get their own page, every item has a cover, and the type is easier to read.",
