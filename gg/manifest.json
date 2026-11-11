@@ -1433,10 +1433,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.0",
-      "size": 496542,
-      "sha256": "4af249c4c5f79c9aa56d70cea9128de3fee6620cdd5f3161e5715caf2b44e0fe",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/drift-1.0.zip",
+      "version": "1.1",
+      "size": 497261,
+      "sha256": "0949f7d17c529b02a4189194cb6e38b78d1ceb2ad541398a2b87bdf9fdfec608",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/drift-1.1.zip",
       "files": [
         {
           "p": 0,
@@ -1446,7 +1446,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Drift | Grain&Gate/Camera Layer | Drift.setting",
-          "h": "5d552053f4615d195366f1bb7c387385969a8f6a38db0c77eadbdbf5f37b4132"
+          "h": "7e83c322c651344354bf2ab3b4fdd17a0b24c851afa438920a1b0215f5f1b44a"
         },
         {
           "p": 0,
@@ -1894,7 +1894,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-11T00:14:06.971023Z",
+  "updatedAt": "2026-11-11T00:16:12.596092Z",
   "launcher": {
     "version": "0.6.9",
     "notes": "OutPost icon: the pole now fades to steel so the coral flag is the brightest thing in it.",
