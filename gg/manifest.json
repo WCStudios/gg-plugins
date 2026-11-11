@@ -2754,14 +2754,14 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T04:59:10.705910Z",
+  "updatedAt": "2026-11-11T05:00:52.631918Z",
   "launcher": {
-    "version": "0.9.12",
-    "notes": "Plugin pages: In this line and Comes with sit side by side, and New in gets its own panel.",
+    "version": "0.9.13",
+    "notes": "Plugin pages: cleaner type in the About panel, and bigger all caps pills.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.12/GrainAndGate-Launcher-0.9.12-arm64.dmg",
-      "size": 114861462,
-      "sha256": "ff6f050ba7c88404093b79ddad872c08307fe9a271b4a138a3fb2c4d0f00565a"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.13/GrainAndGate-Launcher-0.9.13-arm64.dmg",
+      "size": 114861512,
+      "sha256": "d3f7ad088979e090268675000b0af11ec0e4121dc528969a664d165da27f9c9e"
     }
   },
   "setup": [
