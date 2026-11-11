@@ -1293,7 +1293,7 @@
     {
       "id": "3d-tools",
       "name": "3D Tools | G&G",
-      "description": "3D Studio and Splat Studio as an effect and a generator, with the sets, HDRIs, card meshes and models, the camera pose and splat engines, and the Gaussian splat plugin. Needs launcher 0.7.1 or newer. Install the G&G Gobo Library with it.",
+      "description": "3D Studio and Splat Studio as an effect and a generator, with the sets, HDRIs, card meshes and models, the camera pose and splat engines, the Gaussian splat plugin and the Viewport app. Needs launcher 0.7.2 or newer. Install the G&G Gobo Library with it.",
       "kind": "Plugins",
       "category": "3D Tools",
       "target": null,
@@ -1317,14 +1317,19 @@
           "path": "OFX",
           "target": "ofx",
           "scope": "system"
+        },
+        {
+          "path": "App",
+          "target": "app",
+          "scope": "system"
         }
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.0",
-      "size": 104785528,
-      "sha256": "dfdd55262ce80b92deb6c5879c898954e35d47bf00c5f259d5596bb2a702fc0b",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/3d-tools-1.0/3d-tools-1.0.zip",
+      "version": "1.1",
+      "size": 191783227,
+      "sha256": "a1fa7dd5759f0fbc271e63639ff028ba4a721223c2cc1623113a48b82480d8da",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/3d-tools-1.1/3d-tools-1.1.zip",
       "files": [
         {
           "p": 0,
@@ -2532,7 +2537,7 @@
           "h": null
         }
       ],
-      "notes": "Needs launcher 0.7.1 or newer (installs the splat OFX plugin).",
+      "notes": "Viewport now installs with 3D Tools (into Applications). Needs launcher 0.7.2 or newer.",
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/3d-tools-line.png"
     },
     {
@@ -2615,25 +2620,6 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/afterlight-cover.png"
     },
     {
-      "id": "viewport",
-      "name": "Viewport",
-      "description": "A live 3D view of your 3D Studio scene beside Resolve: pose the camera, set pose keys and curves, crop splats. Needs 3D Tools, and Apple's command line tools for its engine (python3).",
-      "kind": "Apps",
-      "category": "Mac Apps",
-      "target": "app",
-      "parts": null,
-      "scope": null,
-      "subfolder": null,
-      "arch": "arm64",
-      "bundleId": "co.wcstudios.gg3dviewport",
-      "version": "0.9.33",
-      "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/viewport.png",
-      "tagline": "Live 3D viewport for 3D Studio",
-      "size": 86997591,
-      "sha256": "9366e86d950c009a872279438064803aa105683641ab8a3449c2444f93a46897",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-viewport/viewport-0.9.33.zip"
-    },
-    {
       "id": "gg-film-burns",
       "name": "G&G Film Burns",
       "description": "The film burn plates Transition Lab's Burns section plays: Flash, Fuse and Prism sets. Install alongside Shift.",
@@ -2649,7 +2635,7 @@
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/film-burns-1.0/gg-film-burns-1.0.zip"
     }
   ],
-  "updatedAt": "2026-11-11T01:28:30.893555Z",
+  "updatedAt": "2026-11-11T01:29:04.880864Z",
   "launcher": {
     "version": "0.7.2",
     "notes": "Viewport now installs with 3D Tools.",
