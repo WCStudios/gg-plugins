@@ -2706,14 +2706,14 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T02:17:57.265874Z",
+  "updatedAt": "2026-11-11T02:18:48.691912Z",
   "launcher": {
-    "version": "0.7.5",
-    "notes": "Plugin cards now list what each line installs and say what it does in one sentence. The storefront tab is parked.",
+    "version": "0.8.0",
+    "notes": "A cleaner launcher: Plugins, Apps and Library each get their own page, every item has a cover, and the type is easier to read.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.7.5/GrainAndGate-Launcher-0.7.5-arm64.dmg",
-      "size": 114840448,
-      "sha256": "475ab8c4e6c124ca1a7bb86c8dd074694958be4715f40a2de1c08bbb917b3046"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.8.0/GrainAndGate-Launcher-0.8.0-arm64.dmg",
+      "size": 114675021,
+      "sha256": "b63b0d67cd484009d7dd333661c9c0e09f4909d411c49f0e8c786dd8ddc6961b"
     }
   },
   "setup": [
