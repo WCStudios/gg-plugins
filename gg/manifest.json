@@ -2754,14 +2754,14 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T04:31:55.889159Z",
+  "updatedAt": "2026-11-11T04:36:18.872188Z",
   "launcher": {
-    "version": "0.9.1",
-    "notes": "Home is back, Updates and Studio match the new look, pages resize with the window, and each plugin page keeps What's New and the Update button in the same place.\\nNew look: a side panel, one Library for everything you own (plugins, software, looks, overlays), and a full page for each plugin.",
+    "version": "0.9.2",
+    "notes": "Settings is rebuilt as a two-column window in the new look.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.1/GrainAndGate-Launcher-0.9.1-arm64.dmg",
-      "size": 114859511,
-      "sha256": "de499b0ded7465c4df675b8b6af7061ed79cb11615b8a43b385185fd4efd8412"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.2/GrainAndGate-Launcher-0.9.2-arm64.dmg",
+      "size": 114862847,
+      "sha256": "ad624ceb1da567ebbf163acc129e95bee5a3c0ff3e3bef4ddb31773152d61ceb"
     }
   },
   "setup": [
