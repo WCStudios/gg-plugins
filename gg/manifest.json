@@ -245,10 +245,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.7",
-      "size": 33940174,
-      "sha256": "d5a8ea8b37a9bde5186d68f95f89ed9f14f793c359efc0852243bb30804aa7bc",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.7.zip",
+      "version": "1.8",
+      "size": 33940229,
+      "sha256": "c4c2bac7686851f39b7c8689875e311b9e339a5b6c946decb105fab3f1e7ce40",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.8.zip",
       "files": [
         {
           "p": 0,
@@ -273,7 +273,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Color Tools | Grain&Gate/Grade | G&G.setting",
-          "h": "553ae106914839349df0f6e6e8d42d2ba996c9f612d2f63e7414910d84d70c8c"
+          "h": "8f4c2ef28874583c2c10a6f5f7f5bd30d2e62c73d6e9fa187a86732ff3ba04a8"
         },
         {
           "p": 1,
@@ -441,13 +441,17 @@
           "h": "16e76c00348e3b984f9e60e9ee3268e410136feb60d18548d07813c65a6d69b6"
         }
       ],
-      "notes": "Grade presets load again on Resolve 21.2: pick a preset, then press Load. Saves keep five backups and your own list comes back after each update.",
+      "notes": "Grade: the look dropdowns and Intensity sit in a new Look section, and the preset row has a Load button beside the list.",
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/color-tools-line.png",
       "tools": [
         "Grade",
         "Demist"
       ],
       "history": [
+        {
+          "v": "1.8",
+          "note": "Grade: the look dropdowns and Intensity sit in a new Look section, and the preset row has a Load button beside the list."
+        },
         {
           "v": "1.7",
           "note": "Grade presets load again on Resolve 21.2: pick a preset, then press Load. Saves keep five backups and your own list comes back after each update."
@@ -2739,7 +2743,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T21:13:38.410920Z",
+  "updatedAt": "2026-11-11T22:19:29.492961Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
