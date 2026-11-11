@@ -2722,14 +2722,14 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T02:56:18.946261Z",
+  "updatedAt": "2026-11-11T04:23:44.725120Z",
   "launcher": {
-    "version": "0.8.1",
-    "notes": "Plugins now bring their library packs with them: Shift installs Film Burns, Utilities installs Textures, 3D Tools installs Gobos and Textures.",
+    "version": "0.9.0",
+    "notes": "New look: a side panel, one Library for everything you own (plugins, software, looks, overlays), and a full page for each plugin.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.8.1/GrainAndGate-Launcher-0.8.1-arm64.dmg",
-      "size": 115220789,
-      "sha256": "928eebbd6984b045c02562cc44c8dcb6639bf19b291a7fafdc9165c2eea60ae4"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.0/GrainAndGate-Launcher-0.9.0-arm64.dmg",
+      "size": 114862930,
+      "sha256": "eecb66c927762e7cc3b19ccccf43697b0f1ace7ce4a86c803456a3a1f9bae49c"
     }
   },
   "setup": [
