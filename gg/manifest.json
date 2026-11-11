@@ -2727,14 +2727,14 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T05:07:45.880620Z",
+  "updatedAt": "2026-11-11T05:10:05.424523Z",
   "launcher": {
-    "version": "0.9.15",
-    "notes": "New in shows only the latest update.",
+    "version": "0.9.16",
+    "notes": "New in has a toggle for past updates, and Used by gets its own panel.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.15/GrainAndGate-Launcher-0.9.15-arm64.dmg",
-      "size": 115353944,
-      "sha256": "4af02401fc15bd840e68d8b22608f6b83b354afee5cad49b32213388c2a7510c"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.16/GrainAndGate-Launcher-0.9.16-arm64.dmg",
+      "size": 114865861,
+      "sha256": "da1f5963879db1296be83e6d794bf80cc0610631fcffba92796c1a0b93a30d8c"
     }
   },
   "setup": [
