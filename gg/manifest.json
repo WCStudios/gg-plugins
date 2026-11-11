@@ -212,7 +212,7 @@
     {
       "id": "color-tools",
       "name": "Color Tools | G&G",
-      "description": "The whole color line in one install: Grade with the G&G LUT library and client presets, Afterlight, Relight, Day to Night and Demist.",
+      "description": "The color line in one install: Grade with the G&G LUT library and client presets, Relight, Day to Night and Demist.",
       "kind": "Plugins",
       "category": "Color Tools",
       "target": null,
@@ -240,16 +240,11 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.0",
-      "size": 34549027,
-      "sha256": "566c7c5a2fb8f733646fd8d457c3aca560193b6ee1271612ecfd60ab75b248f2",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.0.zip",
+      "version": "1.1",
+      "size": 34239654,
+      "sha256": "87084c81cbdf8109cc0a98f13139b7a80bd4128f8d783165cf1646014056acfd",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.1.zip",
       "files": [
-        {
-          "p": 0,
-          "f": "Grain&Gate/Color Tools | Grain&Gate/Afterlight | G&G.setting",
-          "h": "db18cfe6ac9129c3949c1ecac713ced300dde25da41e13198652c167079fa645"
-        },
         {
           "p": 0,
           "f": "Grain&Gate/Color Tools | Grain&Gate/Day to Night | G&G.setting",
@@ -284,46 +279,6 @@
           "p": 0,
           "f": "Grain&Gate/Color Tools | Grain&Gate/Relight | G&G.setting",
           "h": "a10ff4acd645fe90d867c84300659b1a8f9b3b34cef6f40f2758990ef171495f"
-        },
-        {
-          "p": 1,
-          "f": "GG_AfterlightEnvironment.fuse",
-          "h": "6a864c3fa6b22d2d7148b14ee48cbf25eda41a8fe6a266ded7a96407d09c12f9"
-        },
-        {
-          "p": 1,
-          "f": "GG_AfterlightEnvironmentSky.fuse",
-          "h": "a9b0e36a73f45b7a6b7117b08e1d0ef39f736ed958daad5eaab6dae3311740dd"
-        },
-        {
-          "p": 1,
-          "f": "GG_AfterlightMotion.fuse",
-          "h": "a173ce5b74a5f072d202bbe6bcc318a2c373f7910705956c8888a91a0d9e2c4c"
-        },
-        {
-          "p": 1,
-          "f": "GG_AfterlightSceneFlare.fuse",
-          "h": "8c41d6bd42372e09504526b3f4ecc17e8ffdb250d33a7262c8cc0e4c3dbefb2b"
-        },
-        {
-          "p": 1,
-          "f": "GG_AfterlightSceneMotion.fuse",
-          "h": "7c0a8e49cf6cda3e240cc1e6e1511a387811319da5a0dc6d30c991c8ae8435ed"
-        },
-        {
-          "p": 1,
-          "f": "GG_AfterlightSceneView.fuse",
-          "h": "45037007cdd26e7cffaa857c6d3abcc37c898a1170bb32b3c7734ec93d1e4d6b"
-        },
-        {
-          "p": 1,
-          "f": "GG_AfterlightSkyView.fuse",
-          "h": "bcab10aacc5198b53c0d9a0343a76c77c5c434d6622d81458945169db9c81920"
-        },
-        {
-          "p": 1,
-          "f": "GG_AfterlightViewOutput.fuse",
-          "h": "8ab7bdfbce4b2004500101249ef5e9243711a3de994ec6f889ca76240ffa850f"
         },
         {
           "p": 1,
@@ -515,7 +470,8 @@
           "f": "MCP/GG_GradeOut.dctl",
           "h": "d012d0ab4afa5f46ec4d5dd6afeec8c70b13958733f55e2538b79e8dc0836850"
         }
-      ]
+      ],
+      "notes": "Afterlight is now its own install."
     },
     {
       "id": "utilities",
@@ -2577,9 +2533,87 @@
         }
       ],
       "notes": "Needs launcher 0.7.1 or newer (installs the splat OFX plugin)."
+    },
+    {
+      "id": "afterlight",
+      "name": "Afterlight | G&G",
+      "description": "Relight a shot after the fact: day to night, sky and environment, scene flares and motion, with live views of each pass.",
+      "kind": "Plugins",
+      "category": "Afterlight",
+      "target": null,
+      "parts": [
+        {
+          "path": "Templates",
+          "target": "edit-effect",
+          "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        }
+      ],
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 323846,
+      "sha256": "8c16cd854f2e09c58a759b3aed547c0c9dfbc5319207d826ad9024a083e794da",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/afterlight-1.0.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/Afterlight | G&G.setting",
+          "h": "db18cfe6ac9129c3949c1ecac713ced300dde25da41e13198652c167079fa645"
+        },
+        {
+          "p": 1,
+          "f": "GG_AfterlightEnvironment.fuse",
+          "h": "6a864c3fa6b22d2d7148b14ee48cbf25eda41a8fe6a266ded7a96407d09c12f9"
+        },
+        {
+          "p": 1,
+          "f": "GG_AfterlightEnvironmentSky.fuse",
+          "h": "a9b0e36a73f45b7a6b7117b08e1d0ef39f736ed958daad5eaab6dae3311740dd"
+        },
+        {
+          "p": 1,
+          "f": "GG_AfterlightMotion.fuse",
+          "h": "a173ce5b74a5f072d202bbe6bcc318a2c373f7910705956c8888a91a0d9e2c4c"
+        },
+        {
+          "p": 1,
+          "f": "GG_AfterlightSceneFlare.fuse",
+          "h": "8c41d6bd42372e09504526b3f4ecc17e8ffdb250d33a7262c8cc0e4c3dbefb2b"
+        },
+        {
+          "p": 1,
+          "f": "GG_AfterlightSceneMotion.fuse",
+          "h": "7c0a8e49cf6cda3e240cc1e6e1511a387811319da5a0dc6d30c991c8ae8435ed"
+        },
+        {
+          "p": 1,
+          "f": "GG_AfterlightSceneView.fuse",
+          "h": "45037007cdd26e7cffaa857c6d3abcc37c898a1170bb32b3c7734ec93d1e4d6b"
+        },
+        {
+          "p": 1,
+          "f": "GG_AfterlightSkyView.fuse",
+          "h": "bcab10aacc5198b53c0d9a0343a76c77c5c434d6622d81458945169db9c81920"
+        },
+        {
+          "p": 1,
+          "f": "GG_AfterlightViewOutput.fuse",
+          "h": "8ab7bdfbce4b2004500101249ef5e9243711a3de994ec6f889ca76240ffa850f"
+        },
+        {
+          "p": 1,
+          "f": "GG_RelightViewsPreview.fuse",
+          "h": "3e93ecfc4102995f823efc27bcf79134daaf7085b832f6da3b98c042e85ef750"
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-11-11T01:10:41.230562Z",
+  "updatedAt": "2026-11-11T01:11:12.199964Z",
   "launcher": {
     "version": "0.6.9",
     "notes": "OutPost icon: the pole now fades to steel so the coral flag is the brightest thing in it.",
