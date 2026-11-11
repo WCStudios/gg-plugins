@@ -2642,9 +2642,24 @@
       "size": 86997591,
       "sha256": "9366e86d950c009a872279438064803aa105683641ab8a3449c2444f93a46897",
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-viewport/viewport-0.9.33.zip"
+    },
+    {
+      "id": "gg-film-burns",
+      "name": "G&G Film Burns",
+      "description": "The film burn plates Transition Lab's Burns section plays: Flash, Fuse and Prism sets. Install alongside Shift.",
+      "kind": "Presets",
+      "category": "Shift",
+      "target": "gg-asset",
+      "parts": null,
+      "scope": "user",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 1861807252,
+      "sha256": "a2bdf0acd8a85b5745b66a3537bdb66c52717c91b85c5e2cbfbdbeb7a044622d",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/film-burns-1.0/gg-film-burns-1.0.zip"
     }
   ],
-  "updatedAt": "2026-11-11T01:14:59.990818Z",
+  "updatedAt": "2026-11-11T01:15:40.173232Z",
   "launcher": {
     "version": "0.7.1",
     "notes": "Plugins are now one wall of line bundles with their covers, and a bundle can install an OFX plugin, so 3D Tools ships with the Gaussian splat plugin.",
