@@ -2754,14 +2754,14 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T04:57:39.248375Z",
+  "updatedAt": "2026-11-11T04:59:10.705910Z",
   "launcher": {
-    "version": "0.9.11",
-    "notes": "New art for Shift, Burns, Textures and Gobos, pulled from the real frames.",
+    "version": "0.9.12",
+    "notes": "Plugin pages: In this line and Comes with sit side by side, and New in gets its own panel.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.11/GrainAndGate-Launcher-0.9.11-arm64.dmg",
-      "size": 114861371,
-      "sha256": "7de960615ac7c3a9df3b994006f3bafedfce764c661831bcfa828d6897854039"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.12/GrainAndGate-Launcher-0.9.12-arm64.dmg",
+      "size": 114861462,
+      "sha256": "ff6f050ba7c88404093b79ddad872c08307fe9a271b4a138a3fb2c4d0f00565a"
     }
   },
   "setup": [
