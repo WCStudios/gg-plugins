@@ -212,7 +212,7 @@
     {
       "id": "color-tools",
       "name": "Color Tools | G&G",
-      "description": "The color line in one install: Grade with the G&G LUT library and client presets, Relight and Demist.",
+      "description": "Color grading on the G&G LUT library, with relighting and mist removal.",
       "kind": "Plugins",
       "category": "Color Tools",
       "target": null,
@@ -462,12 +462,17 @@
         }
       ],
       "notes": "The old Day to Night is no longer included; Afterlight replaces it.",
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/color-tools-line.png"
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/color-tools-line.png",
+      "tools": [
+        "Grade",
+        "Relight",
+        "Demist"
+      ]
     },
     {
       "id": "utilities",
       "name": "Utilities | G&G",
-      "description": "Every utility in one install: Animate Pro, Masks, Mask Layer, Cutout Mask, Power Window, Frame Lab, Logo Lab, Glow Lab, Texture Pro, ClipMaker, Background Lab, Shape Layer, Draw On Layer and Real Shadow with its plates.",
+      "description": "The everyday tools: masks, glows, logos, frames, shapes and shadows.",
       "kind": "Plugins",
       "category": "Utilities",
       "target": null,
@@ -741,12 +746,28 @@
           "h": "72109fee80740fd80d4b6fce5512de3b0de185865916b6d5f6edf72ac65c2dfe"
         }
       ],
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/utilities-line.png"
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/utilities-line.png",
+      "tools": [
+        "Animate Pro",
+        "Masks",
+        "Mask Layer",
+        "Cutout Mask",
+        "Power Window",
+        "Frame Lab",
+        "Logo Lab",
+        "Glow Lab",
+        "Texture Pro",
+        "ClipMaker",
+        "Background Lab",
+        "Shape Layer",
+        "Draw On Layer",
+        "Real Shadow"
+      ]
     },
     {
       "id": "cloak",
       "name": "Cloak | G&G",
-      "description": "The one finishing layer, as an effect and as an overlay layer: looks, glow, halation, grain, pixel lines, signal looks, film frame and camera shake, all on the GPU.",
+      "description": "One finishing layer for film, lens, light and signal looks.",
       "kind": "Plugins",
       "category": "Cloak",
       "target": null,
@@ -800,12 +821,16 @@
           "h": "c57a05bd42c5bb98eeda3f1894bccc7018027b27acc89e1e38582563d0f379bc"
         }
       ],
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/cloak-line.png"
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/cloak-line.png",
+      "tools": [
+        "Overlay",
+        "Overlay Layer"
+      ]
     },
     {
       "id": "drift",
       "name": "Drift | G&G",
-      "description": "Camera Layer, Zoom Layer and Movement Layer: camera moves over the tracks below, with Cloak's pixel lines, glow, grain and shake built in.",
+      "description": "Camera moves, zooms and drift over the tracks below.",
       "kind": "Plugins",
       "category": "Drift",
       "target": null,
@@ -869,12 +894,17 @@
           "h": "c57a05bd42c5bb98eeda3f1894bccc7018027b27acc89e1e38582563d0f379bc"
         }
       ],
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/drift-line.png"
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/drift-line.png",
+      "tools": [
+        "Camera Layer",
+        "Zoom Layer",
+        "Movement Layer"
+      ]
     },
     {
       "id": "shift",
       "name": "Shift | G&G",
-      "description": "Transition Lab plus the Shift Lab transition and its presets: slides, burns, print, tech, punch, whip and focus transitions.",
+      "description": "Slides, burns, print, tech, punch, whip and focus transitions.",
       "kind": "Plugins",
       "category": "Shift",
       "target": null,
@@ -968,12 +998,16 @@
           "h": "b5178b0e3a965cf0aadd6463cab51afd384829ca240efcf9c5d2f4ca0b9649dd"
         }
       ],
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/shift-line.png"
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/shift-line.png",
+      "tools": [
+        "Transition Lab",
+        "Shift Lab"
+      ]
     },
     {
       "id": "sleuth",
       "name": "Sleuth | G&G",
-      "description": "Tracker Lab: point, planar and camera tracking with pins, screen replacement and follow.",
+      "description": "Point, planar and camera tracking with pins and screen replacement.",
       "kind": "Plugins",
       "category": "Sleuth",
       "target": null,
@@ -1012,12 +1046,15 @@
           "h": "04c65c66e76d63ebdbac14c67564ef36333614f2b366f21a36ec65ce0607a3ce"
         }
       ],
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/sleuth-line.png"
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/sleuth-line.png",
+      "tools": [
+        "Tracker Lab"
+      ]
     },
     {
       "id": "trace",
       "name": "Trace | G&G",
-      "description": "Turns a screenshot or web page into clean animated pieces: whole shapes, type and backdrops.",
+      "description": "Turns a screenshot or logo into clean animated layers.",
       "kind": "Plugins",
       "category": "Trace",
       "target": null,
@@ -1056,12 +1093,15 @@
           "h": "856798af34ed88283f9f0c66232ca71f6721eeaa90b954fe8e81605317d220b6"
         }
       ],
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/trace-line.png"
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/trace-line.png",
+      "tools": [
+        "Trace"
+      ]
     },
     {
       "id": "rift",
       "name": "Rift | G&G",
-      "description": "Point Cloud: depth-driven point cloud looks from any clip.",
+      "description": "Depth-driven point clouds from any clip.",
       "kind": "Plugins",
       "category": "Rift",
       "target": null,
@@ -1100,12 +1140,15 @@
           "h": "f79242fc40f27b0cb7547909529e629e01ddca122078f9f9e34e1885feeb2ac8"
         }
       ],
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/rift-line.png"
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/rift-line.png",
+      "tools": [
+        "Point Cloud"
+      ]
     },
     {
       "id": "print",
       "name": "Print | G&G",
-      "description": "Print Lab V2 and Cutout Lab: CMYK separation, halftones, printer wear, paper, torn cutouts and stamp looks.",
+      "description": "CMYK separation, halftones, printer wear, paper and torn cutouts.",
       "kind": "Plugins",
       "category": "Print",
       "target": null,
@@ -1164,12 +1207,16 @@
           "h": "c8a4663031aba94d87581731805e251305aa7a949abc982017b5f9c967bfca8a"
         }
       ],
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/print-line.png"
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/print-line.png",
+      "tools": [
+        "Print Lab V2",
+        "Cutout Lab"
+      ]
     },
     {
       "id": "text-tools",
       "name": "Text Tools | G&G",
-      "description": "Text Lab, L3rds Lab, MultiText Cipher and the List and Title engines, with the Text Lab and L3rds presets and the word-pop subtitle.",
+      "description": "Kinetic type, titles, lower thirds and subtitles on one text engine.",
       "kind": "Plugins",
       "category": "Text Tools",
       "target": null,
@@ -1288,12 +1335,22 @@
           "h": "3a839cdd844449c04b4516d72c7367339a13cd11dcbb5542ab3a7cf7525f6f8c"
         }
       ],
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/text-tools-line.png"
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/text-tools-line.png",
+      "tools": [
+        "Text Lab",
+        "L3rds Lab",
+        "MultiText",
+        "List Lab",
+        "Title Lab",
+        "Counter",
+        "Scramble",
+        "Word Pop Subtitle"
+      ]
     },
     {
       "id": "3d-tools",
       "name": "3D Tools | G&G",
-      "description": "3D Studio and Splat Studio as an effect and a generator, with the sets, HDRIs, card meshes and models, the camera pose and splat engines, the Gaussian splat plugin and the Viewport app. Needs launcher 0.7.2 or newer. Install the G&G Gobo Library with it.",
+      "description": "3D scenes, sets and cameras, Gaussian splats and a live viewport.",
       "kind": "Plugins",
       "category": "3D Tools",
       "target": null,
@@ -2538,12 +2595,17 @@
         }
       ],
       "notes": "Viewport now installs with 3D Tools (into Applications). Needs launcher 0.7.2 or newer.",
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/3d-tools-line.png"
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/3d-tools-line.png",
+      "tools": [
+        "3D Studio",
+        "Splat Studio",
+        "Viewport"
+      ]
     },
     {
       "id": "afterlight",
       "name": "Afterlight | G&G",
-      "description": "Relight a shot after the fact: day to night, sky and environment, scene flares and motion, with live views of each pass.",
+      "description": "Relight a finished shot: day to night, new skies, flares and motion.",
       "kind": "Plugins",
       "category": "Afterlight",
       "target": null,
@@ -2617,7 +2679,10 @@
           "h": "3e93ecfc4102995f823efc27bcf79134daaf7085b832f6da3b98c042e85ef750"
         }
       ],
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/afterlight-cover.png"
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/afterlight-cover.png",
+      "tools": [
+        "Afterlight"
+      ]
     },
     {
       "id": "gg-film-burns",
@@ -2635,7 +2700,7 @@
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/film-burns-1.0/gg-film-burns-1.0.zip"
     }
   ],
-  "updatedAt": "2026-11-11T01:59:34.750117Z",
+  "updatedAt": "2026-11-11T02:04:31.841004Z",
   "launcher": {
     "version": "0.7.4",
     "notes": "Remove All on the Plugins page now clears every Grain & Gate plugin from the Mac, older copies included, and moves them to the Trash.",
