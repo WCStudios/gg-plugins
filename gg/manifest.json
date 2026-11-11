@@ -2731,14 +2731,14 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T20:11:08.342615Z",
+  "updatedAt": "2026-11-11T20:12:24.322937Z",
   "launcher": {
-    "version": "0.9.22",
-    "notes": "Update rows are back to the stacked list.",
+    "version": "0.9.23",
+    "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.22/GrainAndGate-Launcher-0.9.22-arm64.dmg",
-      "size": 114869797,
-      "sha256": "1ccab4dadf3d1051187cb32de8d6afe1429ae4e0166b9c39a8525f712c649f97"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.23/GrainAndGate-Launcher-0.9.23-arm64.dmg",
+      "size": 114869789,
+      "sha256": "722f0c0c9962136cbdf0c03b45d4f092e414f743ebaeb37c6ddbd2a29cc00b46"
     }
   },
   "setup": [
