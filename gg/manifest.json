@@ -2626,8 +2626,8 @@
     },
     {
       "id": "viewport",
-      "name": "VIEWPORT",
-      "description": "",
+      "name": "Viewport",
+      "description": "A live 3D view of your 3D Studio scene beside Resolve: pose the camera, set pose keys and curves, crop splats. Needs 3D Tools, and Apple's command line tools for its engine (python3).",
       "kind": "Apps",
       "category": "Mac Apps",
       "target": "app",
@@ -2638,7 +2638,7 @@
       "bundleId": "co.wcstudios.gg3dviewport",
       "version": "0.9.33",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/viewport.png",
-      "tagline": "",
+      "tagline": "Live 3D viewport for 3D Studio",
       "size": 86997591,
       "sha256": "9366e86d950c009a872279438064803aa105683641ab8a3449c2444f93a46897",
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-viewport/viewport-0.9.33.zip"
