@@ -1973,9 +1973,1134 @@
           "h": "0b28f432b73a0f2f3be1f40f3a24702723c8615385f3d9f579127bba4c720b4d"
         }
       ]
+    },
+    {
+      "id": "color-tools",
+      "name": "Color Tools | G&G",
+      "description": "The whole color line in one install: Grade with the G&G LUT library and client presets, Afterlight, Relight, Day to Night and Demist.",
+      "kind": "Plugins",
+      "category": "Color Tools",
+      "target": null,
+      "parts": [
+        {
+          "path": "Templates",
+          "target": "edit-effect",
+          "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        },
+        {
+          "path": "Scripts",
+          "target": "script-utility",
+          "scope": "user"
+        },
+        {
+          "path": "LUT",
+          "target": "lut",
+          "scope": "system"
+        }
+      ],
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 34549027,
+      "sha256": "566c7c5a2fb8f733646fd8d457c3aca560193b6ee1271612ecfd60ab75b248f2",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.0.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/Afterlight | G&G.setting",
+          "h": "db18cfe6ac9129c3949c1ecac713ced300dde25da41e13198652c167079fa645"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/Day to Night | G&G.setting",
+          "h": "69225f98870467bb1afeb2eef233638d2140927d8bf8c92068df828766408692"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/Demist | G&G.setting",
+          "h": "f58029e2306c4dfa1574d36126cba3a6a1a5006d0a43f1e8305366374fed4ed1"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/GG_GradePro_LUTManifest.lua",
+          "h": "db71d1d8fc15bff6d73ae4e0e10f7d592358070c655871c9659599631dd4cff7"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/GG_Grade_FactoryPresets.lua",
+          "h": "d3149ece7c161b010b080c587524d85dda049d5a07de417acc7b8a9f53a6deee"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/Grade | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/Grade | G&G.setting",
+          "h": "fe17bd2219728d21393ce9eeeaa63d4ef7584a492ae759cb7bca5ac83c4e741f"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/Relight | G&G.setting",
+          "h": "a10ff4acd645fe90d867c84300659b1a8f9b3b34cef6f40f2758990ef171495f"
+        },
+        {
+          "p": 1,
+          "f": "GG_AfterlightEnvironment.fuse",
+          "h": "6a864c3fa6b22d2d7148b14ee48cbf25eda41a8fe6a266ded7a96407d09c12f9"
+        },
+        {
+          "p": 1,
+          "f": "GG_AfterlightEnvironmentSky.fuse",
+          "h": "a9b0e36a73f45b7a6b7117b08e1d0ef39f736ed958daad5eaab6dae3311740dd"
+        },
+        {
+          "p": 1,
+          "f": "GG_AfterlightMotion.fuse",
+          "h": "a173ce5b74a5f072d202bbe6bcc318a2c373f7910705956c8888a91a0d9e2c4c"
+        },
+        {
+          "p": 1,
+          "f": "GG_AfterlightSceneFlare.fuse",
+          "h": "8c41d6bd42372e09504526b3f4ecc17e8ffdb250d33a7262c8cc0e4c3dbefb2b"
+        },
+        {
+          "p": 1,
+          "f": "GG_AfterlightSceneMotion.fuse",
+          "h": "7c0a8e49cf6cda3e240cc1e6e1511a387811319da5a0dc6d30c991c8ae8435ed"
+        },
+        {
+          "p": 1,
+          "f": "GG_AfterlightSceneView.fuse",
+          "h": "45037007cdd26e7cffaa857c6d3abcc37c898a1170bb32b3c7734ec93d1e4d6b"
+        },
+        {
+          "p": 1,
+          "f": "GG_AfterlightSkyView.fuse",
+          "h": "bcab10aacc5198b53c0d9a0343a76c77c5c434d6622d81458945169db9c81920"
+        },
+        {
+          "p": 1,
+          "f": "GG_AfterlightViewOutput.fuse",
+          "h": "8ab7bdfbce4b2004500101249ef5e9243711a3de994ec6f889ca76240ffa850f"
+        },
+        {
+          "p": 1,
+          "f": "GG_DayNight.fuse",
+          "h": "60c89e3e2aac612a5abba578ca6dc61493728a5dcd964582a60a4bd5bf72655f"
+        },
+        {
+          "p": 1,
+          "f": "GG_Demist.fuse",
+          "h": "9e0970bb03244e0aadff7811bb2cd014d3e485be2467d656b393e7688b96f3a6"
+        },
+        {
+          "p": 1,
+          "f": "GG_FilmGrain.fuse",
+          "h": "7e1ff88f742546b14d1ddfdcd736b8c47809b30fccc1c6cf2506edf00b8e41bc"
+        },
+        {
+          "p": 1,
+          "f": "GG_GradeCore.fuse",
+          "h": "f4b85867a86f16fc97cf10764911a4b696e392ec02b36cf4ca6be2bad06e140a"
+        },
+        {
+          "p": 1,
+          "f": "GG_Relight.fuse",
+          "h": "de42264b4699ea860227f801eb01bea3e522c3d8f9da0cc77453e931b980b898"
+        },
+        {
+          "p": 1,
+          "f": "GG_RelightFlarePreview.fuse",
+          "h": "4632231111e69e70af4184f27057ea97eba7e2be1b243ec2267b492da2c3e998"
+        },
+        {
+          "p": 1,
+          "f": "GG_RelightPreview.fuse",
+          "h": "29c3e1219ca03682a455052a978b624208d078bcbbd805afa7dd761db0aa6ed3"
+        },
+        {
+          "p": 1,
+          "f": "GG_RelightViewCompare.fuse",
+          "h": "48da1da180838f8678ab1b0c3bbeddd3644eb0ee43ee6da25fafb6eda45e8adb"
+        },
+        {
+          "p": 1,
+          "f": "GG_RelightViewsPreview.fuse",
+          "h": "3e93ecfc4102995f823efc27bcf79134daaf7085b832f6da3b98c042e85ef750"
+        },
+        {
+          "p": 1,
+          "f": "GG_TrackerLab.fuse",
+          "h": "04c65c66e76d63ebdbac14c67564ef36333614f2b366f21a36ec65ce0607a3ce"
+        },
+        {
+          "p": 2,
+          "f": "Refresh GG LUTs.lua",
+          "h": "02d3cbfa811f77ea81b539f256ed6398ff5af38f6e6a39540563d4d4e3e68684"
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (Clog to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (Clog3 to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (Dlog to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (DlogM to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (G-Flat to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (G-LOG to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (a7iv to Fx3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/Avondale.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/Belmont.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/Bleach Fx6_65x.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/Eastman Fx6_65x.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/Eterna Fx6_65x.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/G&G - Birch.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/G&G - Haze.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/G&G - Lakeshore.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/G&G - Pine.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/Harbor_heavy.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/Montrose.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/North Park.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/Ravenswood.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/Vision Fx6_65x.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Creative Looks/VisionTeal Fx6_65x.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G LOG Conversion/Apple LOG to Rec709.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G LOG Conversion/Sony Slog3 to Rec709.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G LOG Conversion/WC_FX5_AmberDensity_SLog3_to_Rec709.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "MCP/GG_GradeFXBeta.dctl",
+          "h": "a86147cdcb6c262e45d2259837813094ec5e53ef9111eaa55c03d362469562cb"
+        },
+        {
+          "p": 3,
+          "f": "MCP/GG_GradeOut.dctl",
+          "h": "d012d0ab4afa5f46ec4d5dd6afeec8c70b13958733f55e2538b79e8dc0836850"
+        }
+      ]
+    },
+    {
+      "id": "utilities",
+      "name": "Utilities | G&G",
+      "description": "Every utility in one install: Animate Pro, Masks, Mask Layer, Cutout Mask, Power Window, Frame Lab, Logo Lab, Glow Lab, Texture Pro, ClipMaker, Background Lab, Shape Layer, Draw On Layer and Real Shadow with its plates.",
+      "kind": "Plugins",
+      "category": "Utilities",
+      "target": null,
+      "parts": [
+        {
+          "path": "Templates",
+          "target": "edit-effect",
+          "scope": "system"
+        },
+        {
+          "path": "Generators",
+          "target": "edit-generator",
+          "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        }
+      ],
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 59159336,
+      "sha256": "790e7e25cf993e2172f4051e89ff236295bf57ba980d00ffc50874c2bff51922",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/utilities-1.0.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Animate Pro | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Animate Pro | G&G.setting",
+          "h": "2bcceb66ab9c4a83390f0d410ffa6c0b90631b5cf75df182b09a495539a6173f"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/ClipMaker | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/ClipMaker | G&G.setting",
+          "h": "16931ccfce879eec1f933e23dacd8eec71fdce2f548da1a196004fc55c87864e"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Cutout Mask | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Cutout Mask | G&G.setting",
+          "h": "c8b2b70a0f8abd9d614a1479dd1a16a103efb51f73db16fe34bc28220ba4741e"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Frame Lab | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Frame Lab | G&G.setting",
+          "h": "b684c0bb01aef77c859105bbb3e463f62df5f7334840f9b8d1ee254ee400d2b7"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Glow Lab | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Glow Lab | G&G.setting",
+          "h": "8046b5b2cd23b54616f1cbc7034cb6ecfd39c7163af2c5c3b958334b57d3bdcb"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Logo Lab | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Logo Lab | G&G.setting",
+          "h": "8a0ce3fe8cbb4a576872516448844f7583982b06eb9014366e1e6ced09f420b1"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Masks | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Masks | G&G.setting",
+          "h": "ef06a42b5d50f191ce31e125608691193b388dd97979a5b059c247ea2444595e"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Power Window | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Power Window | G&G.setting",
+          "h": "210626720e8955c68aa292df803f8d41a7d1cee8921b4ec46eaec59066cfa841"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Texture Pro | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Texture Pro | G&G.setting",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Background Lab Engine (Beta) | G&G.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Background Lab Engine (Beta) | G&G.setting",
+          "h": "c6c2bbfc2eda35fd8ee28c06a265770d853b9452787587785706f84ff6160e21"
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Background Lab | G&G.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Background Lab | G&G.setting",
+          "h": "acb0114624b2a93ce7b04110b39a1f207839531fb7122b5fe5d3e37ced736de2"
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Draw On Layer | G&G.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Draw On Layer | G&G.setting",
+          "h": "a1c5bcdc3046f086285a12d2d1a01fb1fbe48ab8882acdcd867988369a6e57d8"
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Mask Layer | G&G.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Mask Layer | G&G.setting",
+          "h": "dd293a6ff01256d50d3bdc4b75a95ba56f715ac06aa9842740d4b001c37d8749"
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Real Shadow | G&G.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Real Shadow | G&G.setting",
+          "h": "e727e2abb111a51cc7654ee95cae99193bb62f05a9a884d9d4373acb153bf1cc"
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Shape Layer | G&G.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Shape Layer | G&G.setting",
+          "h": "ca7d2cb0e9caa29e8968cad1b8230f6e93be55e708373750baa5df851487ea16"
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Real Shadow Plates/GG_Shadow_Blinds_Half_Raised.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Real Shadow Plates/GG_Shadow_Blinds_Venetian.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Real Shadow Plates/GG_Shadow_Blinds_Vertical.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Real Shadow Plates/GG_Shadow_Plants_Palm.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Real Shadow Plates/GG_Shadow_Window_Plant_Blinds_Fern.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Real Shadow Plates/GG_Shadow_Window_Plant_Railing_Palm.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Real Shadow Plates/GG_Shadow_Window_Plant_Window_Palm.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Real Shadow Plates/GG_Shadow_Windows_Arch.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Real Shadow Plates/GG_Shadow_Windows_Corner_Light.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Real Shadow Plates/GG_Shadow_Windows_Four_Pane.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Real Shadow Plates/GG_Shadow_Windows_Nine_Pane.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Real Shadow Plates/GG_Shadow_Windows_Tall_Panes.png",
+          "h": null
+        },
+        {
+          "p": 2,
+          "f": "GG_AnimatePro.fuse",
+          "h": "77f751ba04d292e5d546970e40f375b2925743b67104482809884ed990d6600f"
+        },
+        {
+          "p": 2,
+          "f": "GG_BgEngine.fuse",
+          "h": "511237c7e2d0ac06d8946d0c2cad8a16b1b0071214bf5ba7664c34be7da5abd6"
+        },
+        {
+          "p": 2,
+          "f": "GG_FrameLab.fuse",
+          "h": "2fd616547366bd2804c43158874d6c36a41f13fbd9232fb0d67fbb6164d110b3"
+        },
+        {
+          "p": 2,
+          "f": "GG_MaskCore.fuse",
+          "h": "213e1bdb2c54ba9fc1d16b0c0e4ad9e903f0ead60b50a7eef5fc79c21b512a27"
+        },
+        {
+          "p": 2,
+          "f": "GG_TechMotion.fuse",
+          "h": "39f49adbe6414eb5ae8a619c2b6451cf44e1decf473348c813bf045cbb45f376"
+        },
+        {
+          "p": 2,
+          "f": "GG_TechPlate.fuse",
+          "h": "13c22063dba31d578420f96024def38f112f1fb96db0a67ef56fb4767008366a"
+        },
+        {
+          "p": 2,
+          "f": "GG_UtilityCore.fuse",
+          "h": "72109fee80740fd80d4b6fce5512de3b0de185865916b6d5f6edf72ac65c2dfe"
+        }
+      ]
+    },
+    {
+      "id": "cloak",
+      "name": "Cloak | G&G",
+      "description": "The one finishing layer, as an effect and as an overlay layer: looks, glow, halation, grain, pixel lines, signal looks, film frame and camera shake, all on the GPU.",
+      "kind": "Plugins",
+      "category": "Cloak",
+      "target": null,
+      "parts": [
+        {
+          "path": "Templates",
+          "target": "edit-effect",
+          "scope": "system"
+        },
+        {
+          "path": "Generators",
+          "target": "edit-generator",
+          "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        }
+      ],
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 142756,
+      "sha256": "81d949c8ea659da48e3311a39c3c446570c4d2c8710701c2a04542783a28002a",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cloak-1.0.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Cloak | Grain&Gate/Overlay | Cloak.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Cloak | Grain&Gate/Overlay | Cloak.setting",
+          "h": "b9267207a3d334875816d90887f0fb8fa58b981ae16e8623bd10611c80986f10"
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Cloak | Grain&Gate/Overlay Layer | Cloak.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Cloak | Grain&Gate/Overlay Layer | Cloak.setting",
+          "h": "045229cb3bb9296747655c627550b59889e70547d82907f275b5946bbe5aaa3b"
+        },
+        {
+          "p": 2,
+          "f": "GG_Cloak.fuse",
+          "h": "c57a05bd42c5bb98eeda3f1894bccc7018027b27acc89e1e38582563d0f379bc"
+        }
+      ]
+    },
+    {
+      "id": "drift",
+      "name": "Drift | G&G",
+      "description": "Camera Layer, Zoom Layer and Movement Layer: camera moves over the tracks below, with Cloak's pixel lines, glow, grain and shake built in.",
+      "kind": "Plugins",
+      "category": "Drift",
+      "target": null,
+      "parts": [
+        {
+          "path": "Generators",
+          "target": "edit-generator",
+          "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        }
+      ],
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 496542,
+      "sha256": "4af249c4c5f79c9aa56d70cea9128de3fee6620cdd5f3161e5715caf2b44e0fe",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/drift-1.0.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Drift | Grain&Gate/Camera Layer | Drift.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Drift | Grain&Gate/Camera Layer | Drift.setting",
+          "h": "5d552053f4615d195366f1bb7c387385969a8f6a38db0c77eadbdbf5f37b4132"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Drift | Grain&Gate/Movement Layer | Drift.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Drift | Grain&Gate/Movement Layer | Drift.setting",
+          "h": "dd0e10ba8a0a30eaf9b547f586f094cce33d9c35a2f670220ea4d79d02cfe70b"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Drift | Grain&Gate/Zoom Layer | Drift.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Drift | Grain&Gate/Zoom Layer | Drift.setting",
+          "h": "99299da3d2af602cd5479a548cd7189ef9b4bf05262612f41f455f95dce90ec3"
+        },
+        {
+          "p": 1,
+          "f": "GG_AnimatePro.fuse",
+          "h": "77f751ba04d292e5d546970e40f375b2925743b67104482809884ed990d6600f"
+        },
+        {
+          "p": 1,
+          "f": "GG_Cloak.fuse",
+          "h": "c57a05bd42c5bb98eeda3f1894bccc7018027b27acc89e1e38582563d0f379bc"
+        }
+      ]
+    },
+    {
+      "id": "shift",
+      "name": "Shift | G&G",
+      "description": "Transition Lab plus the Shift Lab transition and its presets: slides, burns, print, tech, punch, whip and focus transitions.",
+      "kind": "Plugins",
+      "category": "Shift",
+      "target": null,
+      "parts": [
+        {
+          "path": "Generators",
+          "target": "edit-generator",
+          "scope": "system"
+        },
+        {
+          "path": "Transitions",
+          "target": "edit-transition",
+          "scope": "user"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        }
+      ],
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 266493,
+      "sha256": "3399d850032cd0611f2a3b222923716b399229043f713ab3da757c7d5467790d",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/shift-1.0.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Shift | Grain&Gate/Transition Lab | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Shift | Grain&Gate/Transition Lab | G&G.setting",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain & Gate/Transistion Tools | Grain&Gate/Shift Lab | G&G.setting",
+          "h": "3fef1599a83fa4e6b03d4021e012b21e7e368ed857c50f5bb967335dc31df62d"
+        },
+        {
+          "p": 1,
+          "f": "Grain & Gate/Transistion Tools | Grain&Gate/Transistions | G&G Presets/Film Burn 1_G&G.setting",
+          "h": "4547f032942cf9a3ee095781f57810c214c47d6af876baa9db2a63a3278f8606"
+        },
+        {
+          "p": 1,
+          "f": "Grain & Gate/Transistion Tools | Grain&Gate/Transistions | G&G Presets/Film Burn 2_G&G.setting",
+          "h": "7f9f9fe718a4435247488d854680010c8da4add5d9118024c94638bf94006774"
+        },
+        {
+          "p": 1,
+          "f": "Grain & Gate/Transistion Tools | Grain&Gate/Transistions | G&G Presets/Film Flash_G&G.setting",
+          "h": "08a94f7d3c75ef5c13c0a083fc183b73a631c8f2e36ef5b7318fab4899c39ff0"
+        },
+        {
+          "p": 1,
+          "f": "Grain & Gate/Transistion Tools | Grain&Gate/Transistions | G&G Presets/Film Roll_G&G.setting",
+          "h": "a205d76bb259de83d0c36d79b5c8ddc9043f3e768bf09e34ba1465446776f043"
+        },
+        {
+          "p": 1,
+          "f": "Grain & Gate/Transistion Tools | Grain&Gate/Transistions | G&G Presets/Focus_G&G.setting",
+          "h": "5e01e0ec8ac271e83a0f2e2c9ce61fe02d380bfabe1738e2ca79c822c31dc58f"
+        },
+        {
+          "p": 1,
+          "f": "Grain & Gate/Transistion Tools | Grain&Gate/Transistions | G&G Presets/Print_G&G.setting",
+          "h": "64eb00ff522872eec2920f645dcefed67088dadf90f75c6e50ee3840ca8f65de"
+        },
+        {
+          "p": 1,
+          "f": "Grain & Gate/Transistion Tools | Grain&Gate/Transistions | G&G Presets/Punch_G&G.setting",
+          "h": "adeb016d3437390467208fa4238fdac912db85f996cf6310d35053fb71b9c100"
+        },
+        {
+          "p": 1,
+          "f": "Grain & Gate/Transistion Tools | Grain&Gate/Transistions | G&G Presets/Tech_G&G.setting",
+          "h": "6af969f748e87d52e09532944ae8f7a3764e6cd1d3228e5cf565f97fd4a7fc14"
+        },
+        {
+          "p": 1,
+          "f": "Grain & Gate/Transistion Tools | Grain&Gate/Transistions | G&G Presets/Whip_G&G.setting",
+          "h": "d38f029614f3ca3b0f62d68525243b3f39b43df31a7436dedae668d020fcac72"
+        },
+        {
+          "p": 2,
+          "f": "GG_GlitchTL.fuse",
+          "h": "b5178b0e3a965cf0aadd6463cab51afd384829ca240efcf9c5d2f4ca0b9649dd"
+        }
+      ]
+    },
+    {
+      "id": "sleuth",
+      "name": "Sleuth | G&G",
+      "description": "Tracker Lab: point, planar and camera tracking with pins, screen replacement and follow.",
+      "kind": "Plugins",
+      "category": "Sleuth",
+      "target": null,
+      "parts": [
+        {
+          "path": "Templates",
+          "target": "edit-effect",
+          "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        }
+      ],
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 263106,
+      "sha256": "a1463601327046205ee05862039b2e458034308c795ca73b750bd82c72bd1cba",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/sleuth-1.0.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Sleuth | Grain&Gate/Tracker Lab | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Sleuth | Grain&Gate/Tracker Lab | G&G.setting",
+          "h": "5e0e0b3b16264e202e6b2b098afe5c2da1a91b1366136a7b005db59d59f8a229"
+        },
+        {
+          "p": 1,
+          "f": "GG_TrackerLab.fuse",
+          "h": "04c65c66e76d63ebdbac14c67564ef36333614f2b366f21a36ec65ce0607a3ce"
+        }
+      ]
+    },
+    {
+      "id": "trace",
+      "name": "Trace | G&G",
+      "description": "Turns a screenshot or web page into clean animated pieces: whole shapes, type and backdrops.",
+      "kind": "Plugins",
+      "category": "Trace",
+      "target": null,
+      "parts": [
+        {
+          "path": "Templates",
+          "target": "edit-effect",
+          "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        }
+      ],
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 280813,
+      "sha256": "732698fd541b0556f18568b83c216e5ed437043b86f21cf44bc9a4838c62e0ae",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/trace-1.0.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Trace | Grain&Gate/Trace | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Trace | Grain&Gate/Trace | G&G.setting",
+          "h": "7dc38ebce9f08e18a87233920e36f082ae4d763de2b91e548aec7d10cd9952c0"
+        },
+        {
+          "p": 1,
+          "f": "GG_Trace.fuse",
+          "h": "856798af34ed88283f9f0c66232ca71f6721eeaa90b954fe8e81605317d220b6"
+        }
+      ]
+    },
+    {
+      "id": "rift",
+      "name": "Rift | G&G",
+      "description": "Point Cloud: depth-driven point cloud looks from any clip.",
+      "kind": "Plugins",
+      "category": "Rift",
+      "target": null,
+      "parts": [
+        {
+          "path": "Templates",
+          "target": "edit-effect",
+          "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        }
+      ],
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 155155,
+      "sha256": "56d84f8a4879aadaac8179173c493a28b47d8bc4b4fe592d7be465945ef5a881",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/rift-1.0.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Rift | Grain&Gate/Point Cloud | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Rift | Grain&Gate/Point Cloud | G&G.setting",
+          "h": "048a3a165942c2e646510893acfd5b8982b07bac5ca827002b6e006821c6c110"
+        },
+        {
+          "p": 1,
+          "f": "GG_PointCloudLab.fuse",
+          "h": "f79242fc40f27b0cb7547909529e629e01ddca122078f9f9e34e1885feeb2ac8"
+        }
+      ]
+    },
+    {
+      "id": "print",
+      "name": "Print | G&G",
+      "description": "Print Lab V2 and Cutout Lab: CMYK separation, halftones, printer wear, paper, torn cutouts and stamp looks.",
+      "kind": "Plugins",
+      "category": "Print",
+      "target": null,
+      "parts": [
+        {
+          "path": "Templates",
+          "target": "edit-effect",
+          "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        }
+      ],
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 428935,
+      "sha256": "24953a862c1f2136da1109dbbbdc623e8f9b6db78f7193e78e1a4ad739571943",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-1.0.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Print | Grain&Gate/Cutout Lab | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Print | Grain&Gate/Cutout Lab | G&G.setting",
+          "h": "484e2f299b6e2730c500fca2e007cbb7e8340b26bb27b1f21c0a9618b1945f6d"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Print | Grain&Gate/Print Lab V2 | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Print | Grain&Gate/Print Lab V2 | G&G.setting",
+          "h": "00e98208caebf639e07356cafa6c7e8871a0f2aca86f5623b85a9e2b17a5f61a"
+        },
+        {
+          "p": 1,
+          "f": "GG_GroundLab.fuse",
+          "h": "df849a3ce72b01630f7f9a227025acf46a45b94e3389cc87018a2efe61d411a6"
+        },
+        {
+          "p": 1,
+          "f": "GG_PrintLab2.fuse",
+          "h": "979edcd36bb6797476dec3f8e9a27d36a259e2af5062c487fdab32973be99e8e"
+        },
+        {
+          "p": 1,
+          "f": "GG_VisionLab.fuse",
+          "h": "c8a4663031aba94d87581731805e251305aa7a949abc982017b5f9c967bfca8a"
+        }
+      ]
+    },
+    {
+      "id": "text-tools",
+      "name": "Text Tools | G&G",
+      "description": "Text Lab, L3rds Lab, MultiText Cipher and the List and Title engines, with the Text Lab and L3rds presets and the word-pop subtitle.",
+      "kind": "Plugins",
+      "category": "Text Tools",
+      "target": null,
+      "parts": [
+        {
+          "path": "Titles",
+          "target": "edit-title",
+          "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        }
+      ],
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 945162,
+      "sha256": "37a24f2e8e300d4b1f6e5e12189d25775333259e2fff9f179ad4ed8805c2cddb",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-tools-1.0.zip",
+      "files": [
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/L3rds Lab | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/L3rds Lab | G&G.setting",
+          "h": "9eca845bda9e17b2cd58be94579f465b48f40d2123fdac533522aa7112c713a4"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/List Lab Engine (Beta) | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/List Lab Engine (Beta) | G&G.setting",
+          "h": "c6d94bffb9cd32f27ce0bc9b7f366bd10bc56454d1de706179e34ed0d5b3dfd1"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/MultiText | Cipher.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/MultiText | Cipher.setting",
+          "h": "5093fb9d398f25b97bd843ba24c1090cbd26137f06519dd1d5d9adad3bf577bc"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/Text Lab | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/Text Lab | G&G.setting",
+          "h": "bc5a289021152be160a2c950398b15b432cd6d1eab85f627e2d434874ff6ed00"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/Title Lab Engine (Beta) | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/Title Lab Engine (Beta) | G&G.setting",
+          "h": "60bdcd69856680224f35f410c93cf43b35fd66c59135f8aec613ae2995905c75"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/Text Lab Presets/Grain & Gate.json",
+          "h": "f1a1d3f37cca4cb19ea086056b1d5df64c76ce71d5a7c7ed3fc1033fa1229747"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Presets - L3rds Lab/Equalizer | G&G.setting",
+          "h": "f3e919d1356fa2be9027b459b0407f4a89631060e378b4b5e663fb8b8c2469a6"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Presets - L3rds Lab/Fade In | G&G.setting",
+          "h": "7b657935b4c2b57f0c8832308cb018dafe51da235add243ac6897ee6409c704e"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Presets - Text Lab/Counter | Text Lab.setting",
+          "h": "1b9eee69c26080416ad13886eb0401e90d599d3e2af47a749904e83d6144fc48"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Presets - Text Lab/Scramble | Text Lab.setting",
+          "h": "472781801c18fd8bc27795de3465221dc986d718d7b7f8c22633d27e86ebb9ae"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Subtitles - Grain&Gate/TA Word Pop Subtitle.setting",
+          "h": "1f72d5e5fecd9c159848407d9a2e0bee50c4a94bc69fb7e59058f0c60567e98a"
+        },
+        {
+          "p": 1,
+          "f": "GG_AnimatePro.fuse",
+          "h": "77f751ba04d292e5d546970e40f375b2925743b67104482809884ed990d6600f"
+        },
+        {
+          "p": 1,
+          "f": "GG_CipherCore.fuse",
+          "h": "4211b4e4798e4925be6164d34c4cc6acf39fcb790aaa629c064a2234846c5cb1"
+        },
+        {
+          "p": 1,
+          "f": "GG_TextEngine.fuse",
+          "h": "3a839cdd844449c04b4516d72c7367339a13cd11dcbb5542ab3a7cf7525f6f8c"
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-11-10T21:56:44.236658Z",
+  "updatedAt": "2026-11-11T00:11:34.938462Z",
   "launcher": {
     "version": "0.6.9",
     "notes": "OutPost icon: the pole now fades to steel so the coral flag is the brightest thing in it.",
