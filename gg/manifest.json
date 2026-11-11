@@ -2625,14 +2625,14 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/afterlight-line.png"
     }
   ],
-  "updatedAt": "2026-11-11T01:13:01.794390Z",
+  "updatedAt": "2026-11-11T01:14:32.248588Z",
   "launcher": {
-    "version": "0.6.9",
-    "notes": "OutPost icon: the pole now fades to steel so the coral flag is the brightest thing in it.",
+    "version": "0.7.1",
+    "notes": "Plugins are now one wall of line bundles with their covers, and a bundle can install an OFX plugin, so 3D Tools ships with the Gaussian splat plugin.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.6.9/GrainAndGate-Launcher-0.6.9-arm64.dmg",
-      "size": 114764255,
-      "sha256": "8787930fd504948fe6bd26f3d59406044f9c07a40100791d729c98185e5584b3"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.7.1/GrainAndGate-Launcher-0.7.1-arm64.dmg",
+      "size": 114765414,
+      "sha256": "7ff4742cc7f8b38a626257c0a3e72ac0c9951b46921691c3d161cf65915611af"
     }
   },
   "setup": [
