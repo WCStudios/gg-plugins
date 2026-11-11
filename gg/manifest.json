@@ -2754,14 +2754,14 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T04:46:17.994977Z",
+  "updatedAt": "2026-11-11T04:47:40.642440Z",
   "launcher": {
-    "version": "0.9.8",
-    "notes": "The account menu has the new look: switch accounts there, and open Studio tools from it.",
+    "version": "0.9.9",
+    "notes": "The account menu has the new look: switch accounts there, and open Studio tools from it. Navigation is set in small caps, and the Library list stays open.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.8/GrainAndGate-Launcher-0.9.8-arm64.dmg",
-      "size": 114861615,
-      "sha256": "14db9516e7eb442c4c06bb7bd2ce82f7d9727522cbfec22db59ca9afd57d23cb"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.9/GrainAndGate-Launcher-0.9.9-arm64.dmg",
+      "size": 114861646,
+      "sha256": "4cf331ae422635a8be96aabfd68bd5a8f7c54b24d8ea5d16c2810f5027fb2786"
     }
   },
   "setup": [
