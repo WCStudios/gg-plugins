@@ -2754,14 +2754,14 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-11T04:38:35.895731Z",
+  "updatedAt": "2026-11-11T04:40:14.707953Z",
   "launcher": {
-    "version": "0.9.3",
-    "notes": "Settings is rebuilt as a two-column window in the new look, and plugin pages have a cleaner install panel and a row of related items.",
+    "version": "0.9.4",
+    "notes": "Home's banner is just the release name now, plugin names never run under their art, and buttons use a cleaner face.",
     "arm64": {
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.3/GrainAndGate-Launcher-0.9.3-arm64.dmg",
-      "size": 114861549,
-      "sha256": "0575cc610947a074b983d521a12a136841cebd312e091445fffe94d48db7fbf0"
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/launcher-0.9.4/GrainAndGate-Launcher-0.9.4-arm64.dmg",
+      "size": 114861446,
+      "sha256": "869ac03f687ce4a077de05d129c9d51edf7f599cf1c98e2acd45260ac7a3f43e"
     }
   },
   "setup": [
