@@ -1247,11 +1247,26 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.0",
-      "size": 428935,
-      "sha256": "24953a862c1f2136da1109dbbbdc623e8f9b6db78f7193e78e1a4ad739571943",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-1.0.zip",
+      "version": "1.1",
+      "size": 430794,
+      "sha256": "3c2346d6e2277b5963126f65bab760fe90f6f3371cd60fae9df4ba20d143dac8",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/print-1.1.zip",
       "files": [
+        {
+          "p": 1,
+          "f": "GG_GroundLab.fuse",
+          "h": "daedc1de9a3e491b5330ffed7f2a9ff9c9fcfbc1e8c0eeaac4bfa6023eebfc38"
+        },
+        {
+          "p": 1,
+          "f": "GG_PrintLab2.fuse",
+          "h": "8d78b71360e0e9503ef659421d8ec35df6e0a7f3b8d44a65ea907f52bcc69900"
+        },
+        {
+          "p": 1,
+          "f": "GG_VisionLab.fuse",
+          "h": "6f57449b1658d0ee07ac2d612b9650420c7dcfcfc0a5e73c0ea16c9a4e83e781"
+        },
         {
           "p": 0,
           "f": "Grain&Gate/Print | Grain&Gate/Cutout Lab | G&G.png",
@@ -1271,27 +1286,19 @@
           "p": 0,
           "f": "Grain&Gate/Print | Grain&Gate/Print Lab V2 | G&G.setting",
           "h": "00e98208caebf639e07356cafa6c7e8871a0f2aca86f5623b85a9e2b17a5f61a"
-        },
-        {
-          "p": 1,
-          "f": "GG_GroundLab.fuse",
-          "h": "df849a3ce72b01630f7f9a227025acf46a45b94e3389cc87018a2efe61d411a6"
-        },
-        {
-          "p": 1,
-          "f": "GG_PrintLab2.fuse",
-          "h": "979edcd36bb6797476dec3f8e9a27d36a259e2af5062c487fdab32973be99e8e"
-        },
-        {
-          "p": 1,
-          "f": "GG_VisionLab.fuse",
-          "h": "c8a4663031aba94d87581731805e251305aa7a949abc982017b5f9c967bfca8a"
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/print-line.png",
       "tools": [
         "Print Lab V2",
         "Cutout Lab"
+      ],
+      "notes": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating.",
+      "history": [
+        {
+          "v": "1.1",
+          "note": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating."
+        }
       ]
     },
     {
@@ -2799,7 +2806,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-12T00:21:47.363346Z",
+  "updatedAt": "2026-11-12T00:22:29.745232Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
