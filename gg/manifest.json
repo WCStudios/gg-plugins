@@ -806,20 +806,15 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.0",
-      "size": 142756,
-      "sha256": "81d949c8ea659da48e3311a39c3c446570c4d2c8710701c2a04542783a28002a",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cloak-1.0.zip",
+      "version": "1.1",
+      "size": 143471,
+      "sha256": "52f7e5e015dfef83a26f3ecfefaff4d1608c821bc25f238c34958a12727b454e",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/cloak-1.1.zip",
       "files": [
         {
-          "p": 0,
-          "f": "Grain&Gate/Cloak | Grain&Gate/Overlay | Cloak.png",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Cloak | Grain&Gate/Overlay | Cloak.setting",
-          "h": "b9267207a3d334875816d90887f0fb8fa58b981ae16e8623bd10611c80986f10"
+          "p": 2,
+          "f": "GG_Cloak.fuse",
+          "h": "81e582726ec0fee24ebf2693a34b07c46e07c07eae328a2217978dc83db3d00f"
         },
         {
           "p": 1,
@@ -832,15 +827,27 @@
           "h": "045229cb3bb9296747655c627550b59889e70547d82907f275b5946bbe5aaa3b"
         },
         {
-          "p": 2,
-          "f": "GG_Cloak.fuse",
-          "h": "c57a05bd42c5bb98eeda3f1894bccc7018027b27acc89e1e38582563d0f379bc"
+          "p": 0,
+          "f": "Grain&Gate/Cloak | Grain&Gate/Overlay | Cloak.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Cloak | Grain&Gate/Overlay | Cloak.setting",
+          "h": "b9267207a3d334875816d90887f0fb8fa58b981ae16e8623bd10611c80986f10"
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/cloak-line.png",
       "tools": [
         "Overlay",
         "Overlay Layer"
+      ],
+      "notes": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating.",
+      "history": [
+        {
+          "v": "1.1",
+          "note": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating."
+        }
       ]
     },
     {
@@ -2747,7 +2754,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-12T00:13:30.753796Z",
+  "updatedAt": "2026-11-12T00:14:52.778784Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
