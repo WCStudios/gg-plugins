@@ -1068,11 +1068,16 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.0",
-      "size": 263106,
-      "sha256": "a1463601327046205ee05862039b2e458034308c795ca73b750bd82c72bd1cba",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/sleuth-1.0.zip",
+      "version": "1.1",
+      "size": 263814,
+      "sha256": "20a2b632ba4533323c94ed17e6e9d0ce91887845f3348da458035cc322b69524",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/sleuth-1.1.zip",
       "files": [
+        {
+          "p": 1,
+          "f": "GG_TrackerLab.fuse",
+          "h": "0dbb5dda1ccf688e8635d0df89f365eef8f45c4f8fb349cce07763fdfcff6809"
+        },
         {
           "p": 0,
           "f": "Grain&Gate/Sleuth | Grain&Gate/Tracker Lab | G&G.png",
@@ -1082,16 +1087,18 @@
           "p": 0,
           "f": "Grain&Gate/Sleuth | Grain&Gate/Tracker Lab | G&G.setting",
           "h": "5e0e0b3b16264e202e6b2b098afe5c2da1a91b1366136a7b005db59d59f8a229"
-        },
-        {
-          "p": 1,
-          "f": "GG_TrackerLab.fuse",
-          "h": "04c65c66e76d63ebdbac14c67564ef36333614f2b366f21a36ec65ce0607a3ce"
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/sleuth-line.png",
       "tools": [
         "Tracker Lab"
+      ],
+      "notes": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating.",
+      "history": [
+        {
+          "v": "1.1",
+          "note": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating."
+        }
       ]
     },
     {
@@ -2754,7 +2761,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-12T00:14:52.778784Z",
+  "updatedAt": "2026-11-12T00:15:26.601737Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
