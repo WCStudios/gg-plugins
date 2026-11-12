@@ -1130,10 +1130,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.1",
+      "version": "1.2",
       "size": 281532,
-      "sha256": "4c4a67e721b9ee88dc590b338e536da0b9e5aa07e1c8583be2b9b756dc147827",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/trace-1.1.zip",
+      "sha256": "7d75a47208c29da435742152f86889341ff0692d30cea5d6a0ce1907afcb31b7",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/trace-1.2.zip",
       "files": [
         {
           "p": 1,
@@ -1157,6 +1157,10 @@
       ],
       "notes": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating.",
       "history": [
+        {
+          "v": "1.2",
+          "note": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating."
+        },
         {
           "v": "1.1",
           "note": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating."
@@ -2776,7 +2780,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-12T00:18:14.324598Z",
+  "updatedAt": "2026-11-12T00:18:53.067487Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
