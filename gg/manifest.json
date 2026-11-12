@@ -508,100 +508,45 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.0",
-      "size": 59159336,
-      "sha256": "790e7e25cf993e2172f4051e89ff236295bf57ba980d00ffc50874c2bff51922",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/utilities-1.0.zip",
+      "version": "1.1",
+      "size": 59160669,
+      "sha256": "1c85cd0880d896c0aa14925d584794eac2453defdad2d97959be56a3a217f42d",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/utilities-1.1.zip",
       "files": [
         {
-          "p": 0,
-          "f": "Grain&Gate/Utilities | Grain&Gate/Animate Pro | G&G.png",
-          "h": null
+          "p": 2,
+          "f": "GG_AnimatePro.fuse",
+          "h": "77f751ba04d292e5d546970e40f375b2925743b67104482809884ed990d6600f"
         },
         {
-          "p": 0,
-          "f": "Grain&Gate/Utilities | Grain&Gate/Animate Pro | G&G.setting",
-          "h": "2bcceb66ab9c4a83390f0d410ffa6c0b90631b5cf75df182b09a495539a6173f"
+          "p": 2,
+          "f": "GG_BgEngine.fuse",
+          "h": "511237c7e2d0ac06d8946d0c2cad8a16b1b0071214bf5ba7664c34be7da5abd6"
         },
         {
-          "p": 0,
-          "f": "Grain&Gate/Utilities | Grain&Gate/ClipMaker | G&G.png",
-          "h": null
+          "p": 2,
+          "f": "GG_FrameLab.fuse",
+          "h": "2fd616547366bd2804c43158874d6c36a41f13fbd9232fb0d67fbb6164d110b3"
         },
         {
-          "p": 0,
-          "f": "Grain&Gate/Utilities | Grain&Gate/ClipMaker | G&G.setting",
-          "h": "16931ccfce879eec1f933e23dacd8eec71fdce2f548da1a196004fc55c87864e"
+          "p": 2,
+          "f": "GG_MaskCore.fuse",
+          "h": "b1bd753af642010b57ab9ddb1cab476f2f968bd4b8a83598e7a42c4db75bd8e0"
         },
         {
-          "p": 0,
-          "f": "Grain&Gate/Utilities | Grain&Gate/Cutout Mask | G&G.png",
-          "h": null
+          "p": 2,
+          "f": "GG_TechMotion.fuse",
+          "h": "39f49adbe6414eb5ae8a619c2b6451cf44e1decf473348c813bf045cbb45f376"
         },
         {
-          "p": 0,
-          "f": "Grain&Gate/Utilities | Grain&Gate/Cutout Mask | G&G.setting",
-          "h": "c8b2b70a0f8abd9d614a1479dd1a16a103efb51f73db16fe34bc28220ba4741e"
+          "p": 2,
+          "f": "GG_TechPlate.fuse",
+          "h": "13c22063dba31d578420f96024def38f112f1fb96db0a67ef56fb4767008366a"
         },
         {
-          "p": 0,
-          "f": "Grain&Gate/Utilities | Grain&Gate/Frame Lab | G&G.png",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Utilities | Grain&Gate/Frame Lab | G&G.setting",
-          "h": "b684c0bb01aef77c859105bbb3e463f62df5f7334840f9b8d1ee254ee400d2b7"
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Utilities | Grain&Gate/Glow Lab | G&G.png",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Utilities | Grain&Gate/Glow Lab | G&G.setting",
-          "h": "8046b5b2cd23b54616f1cbc7034cb6ecfd39c7163af2c5c3b958334b57d3bdcb"
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Utilities | Grain&Gate/Logo Lab | G&G.png",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Utilities | Grain&Gate/Logo Lab | G&G.setting",
-          "h": "8a0ce3fe8cbb4a576872516448844f7583982b06eb9014366e1e6ced09f420b1"
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Utilities | Grain&Gate/Masks | G&G.png",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Utilities | Grain&Gate/Masks | G&G.setting",
-          "h": "ef06a42b5d50f191ce31e125608691193b388dd97979a5b059c247ea2444595e"
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Utilities | Grain&Gate/Power Window | G&G.png",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Utilities | Grain&Gate/Power Window | G&G.setting",
-          "h": "210626720e8955c68aa292df803f8d41a7d1cee8921b4ec46eaec59066cfa841"
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Utilities | Grain&Gate/Texture Pro | G&G.png",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Utilities | Grain&Gate/Texture Pro | G&G.setting",
-          "h": null
+          "p": 2,
+          "f": "GG_UtilityCore.fuse",
+          "h": "933ccdf65d57b5737739caddf7011ea36557ed9363d41d327249794fde28160b"
         },
         {
           "p": 1,
@@ -724,39 +669,94 @@
           "h": null
         },
         {
-          "p": 2,
-          "f": "GG_AnimatePro.fuse",
-          "h": "77f751ba04d292e5d546970e40f375b2925743b67104482809884ed990d6600f"
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Animate Pro | G&G.png",
+          "h": null
         },
         {
-          "p": 2,
-          "f": "GG_BgEngine.fuse",
-          "h": "511237c7e2d0ac06d8946d0c2cad8a16b1b0071214bf5ba7664c34be7da5abd6"
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Animate Pro | G&G.setting",
+          "h": "2bcceb66ab9c4a83390f0d410ffa6c0b90631b5cf75df182b09a495539a6173f"
         },
         {
-          "p": 2,
-          "f": "GG_FrameLab.fuse",
-          "h": "2fd616547366bd2804c43158874d6c36a41f13fbd9232fb0d67fbb6164d110b3"
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/ClipMaker | G&G.png",
+          "h": null
         },
         {
-          "p": 2,
-          "f": "GG_MaskCore.fuse",
-          "h": "213e1bdb2c54ba9fc1d16b0c0e4ad9e903f0ead60b50a7eef5fc79c21b512a27"
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/ClipMaker | G&G.setting",
+          "h": "16931ccfce879eec1f933e23dacd8eec71fdce2f548da1a196004fc55c87864e"
         },
         {
-          "p": 2,
-          "f": "GG_TechMotion.fuse",
-          "h": "39f49adbe6414eb5ae8a619c2b6451cf44e1decf473348c813bf045cbb45f376"
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Cutout Mask | G&G.png",
+          "h": null
         },
         {
-          "p": 2,
-          "f": "GG_TechPlate.fuse",
-          "h": "13c22063dba31d578420f96024def38f112f1fb96db0a67ef56fb4767008366a"
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Cutout Mask | G&G.setting",
+          "h": "c8b2b70a0f8abd9d614a1479dd1a16a103efb51f73db16fe34bc28220ba4741e"
         },
         {
-          "p": 2,
-          "f": "GG_UtilityCore.fuse",
-          "h": "72109fee80740fd80d4b6fce5512de3b0de185865916b6d5f6edf72ac65c2dfe"
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Frame Lab | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Frame Lab | G&G.setting",
+          "h": "b684c0bb01aef77c859105bbb3e463f62df5f7334840f9b8d1ee254ee400d2b7"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Glow Lab | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Glow Lab | G&G.setting",
+          "h": "8046b5b2cd23b54616f1cbc7034cb6ecfd39c7163af2c5c3b958334b57d3bdcb"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Logo Lab | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Logo Lab | G&G.setting",
+          "h": "8a0ce3fe8cbb4a576872516448844f7583982b06eb9014366e1e6ced09f420b1"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Masks | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Masks | G&G.setting",
+          "h": "ef06a42b5d50f191ce31e125608691193b388dd97979a5b059c247ea2444595e"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Power Window | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Power Window | G&G.setting",
+          "h": "210626720e8955c68aa292df803f8d41a7d1cee8921b4ec46eaec59066cfa841"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Texture Pro | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Texture Pro | G&G.setting",
+          "h": null
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/utilities-line.png",
@@ -778,6 +778,13 @@
       ],
       "requires": [
         "gg-textures"
+      ],
+      "notes": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating.",
+      "history": [
+        {
+          "v": "1.1",
+          "note": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating."
+        }
       ]
     },
     {
@@ -2806,7 +2813,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-12T00:22:29.745232Z",
+  "updatedAt": "2026-11-12T00:23:14.436484Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
