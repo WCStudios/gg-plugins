@@ -1188,11 +1188,16 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.0",
-      "size": 155155,
-      "sha256": "56d84f8a4879aadaac8179173c493a28b47d8bc4b4fe592d7be465945ef5a881",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/rift-1.0.zip",
+      "version": "1.1",
+      "size": 155852,
+      "sha256": "d7340ef9fa3815996e0359eb630180f17a621e9fd69d74e2a4df4e1a2d0a2366",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/rift-1.1.zip",
       "files": [
+        {
+          "p": 1,
+          "f": "GG_PointCloudLab.fuse",
+          "h": "b675f7e9fc32e888f6cd9b61078b7f597513104b3c6b6b00df185750664f5feb"
+        },
         {
           "p": 0,
           "f": "Grain&Gate/Rift | Grain&Gate/Point Cloud | G&G.png",
@@ -1202,16 +1207,18 @@
           "p": 0,
           "f": "Grain&Gate/Rift | Grain&Gate/Point Cloud | G&G.setting",
           "h": "048a3a165942c2e646510893acfd5b8982b07bac5ca827002b6e006821c6c110"
-        },
-        {
-          "p": 1,
-          "f": "GG_PointCloudLab.fuse",
-          "h": "f79242fc40f27b0cb7547909529e629e01ddca122078f9f9e34e1885feeb2ac8"
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/rift-line.png",
       "tools": [
         "Point Cloud"
+      ],
+      "notes": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating.",
+      "history": [
+        {
+          "v": "1.1",
+          "note": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating."
+        }
       ]
     },
     {
@@ -2780,7 +2787,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-12T00:18:53.067487Z",
+  "updatedAt": "2026-11-12T00:19:30.614601Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
