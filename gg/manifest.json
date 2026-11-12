@@ -2714,65 +2714,72 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.0",
-      "size": 323846,
-      "sha256": "8c16cd854f2e09c58a759b3aed547c0c9dfbc5319207d826ad9024a083e794da",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/afterlight-1.0.zip",
+      "version": "1.1",
+      "size": 328444,
+      "sha256": "8b9bf8fa9faa80d920a4e636f22e18710def477b4670a3fe706cd94d02b00c82",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/afterlight-1.1.zip",
       "files": [
-        {
-          "p": 0,
-          "f": "Grain&Gate/Color Tools | Grain&Gate/Afterlight | G&G.setting",
-          "h": "db18cfe6ac9129c3949c1ecac713ced300dde25da41e13198652c167079fa645"
-        },
         {
           "p": 1,
           "f": "GG_AfterlightEnvironment.fuse",
-          "h": "6a864c3fa6b22d2d7148b14ee48cbf25eda41a8fe6a266ded7a96407d09c12f9"
+          "h": "fc8156f8acf07eeddbb371fecd1abc802aca1bacb1791c0eb2dc4972d6856a41"
         },
         {
           "p": 1,
           "f": "GG_AfterlightEnvironmentSky.fuse",
-          "h": "a9b0e36a73f45b7a6b7117b08e1d0ef39f736ed958daad5eaab6dae3311740dd"
+          "h": "83ea372b0780e10f4e49875df6ec0b7f425966d430a4d29cae7c09aca322f586"
         },
         {
           "p": 1,
           "f": "GG_AfterlightMotion.fuse",
-          "h": "a173ce5b74a5f072d202bbe6bcc318a2c373f7910705956c8888a91a0d9e2c4c"
+          "h": "cb773947c617fcc35f50974bb060a39b86337b7ae05de6d462211e9d4b030ed4"
         },
         {
           "p": 1,
           "f": "GG_AfterlightSceneFlare.fuse",
-          "h": "8c41d6bd42372e09504526b3f4ecc17e8ffdb250d33a7262c8cc0e4c3dbefb2b"
+          "h": "e4f5dd7367cab8eb838fc653219bb440eda27c0b3a0fd1a6b27b170057de9c90"
         },
         {
           "p": 1,
           "f": "GG_AfterlightSceneMotion.fuse",
-          "h": "7c0a8e49cf6cda3e240cc1e6e1511a387811319da5a0dc6d30c991c8ae8435ed"
+          "h": "a9b67279296e20ef8cff80e9b3d0fc86dfa79a22269b43f979a3bccfa1f7b1ae"
         },
         {
           "p": 1,
           "f": "GG_AfterlightSceneView.fuse",
-          "h": "45037007cdd26e7cffaa857c6d3abcc37c898a1170bb32b3c7734ec93d1e4d6b"
+          "h": "681cb72f4f47c1501285cca10b402bcd4910a0b64a72d8af6bade91bcbc34f03"
         },
         {
           "p": 1,
           "f": "GG_AfterlightSkyView.fuse",
-          "h": "bcab10aacc5198b53c0d9a0343a76c77c5c434d6622d81458945169db9c81920"
+          "h": "4c7a56fd232eb11c96bcae4717cf403ccae4d6fff2d849838a9ae7a974e502fd"
         },
         {
           "p": 1,
           "f": "GG_AfterlightViewOutput.fuse",
-          "h": "8ab7bdfbce4b2004500101249ef5e9243711a3de994ec6f889ca76240ffa850f"
+          "h": "04a49882987732ec45ba88499af473181a68ebd849631a1fb6dd6cce5477b71e"
         },
         {
           "p": 1,
           "f": "GG_RelightViewsPreview.fuse",
-          "h": "3e93ecfc4102995f823efc27bcf79134daaf7085b832f6da3b98c042e85ef750"
+          "h": "dec34169cff985f1fa010583f29923b3e9f8e99c5b87028b3498c043afa3a42b"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/Afterlight | G&G.setting",
+          "h": "db18cfe6ac9129c3949c1ecac713ced300dde25da41e13198652c167079fa645"
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/afterlight-cover.png",
       "tools": [
         "Afterlight"
+      ],
+      "notes": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating.",
+      "history": [
+        {
+          "v": "1.1",
+          "note": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating."
+        }
       ]
     },
     {
@@ -2792,7 +2799,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-12T00:20:14.795414Z",
+  "updatedAt": "2026-11-12T00:21:47.363346Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
