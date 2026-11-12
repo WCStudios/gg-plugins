@@ -1329,11 +1329,26 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.0",
-      "size": 945162,
-      "sha256": "37a24f2e8e300d4b1f6e5e12189d25775333259e2fff9f179ad4ed8805c2cddb",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-tools-1.0.zip",
+      "version": "1.1",
+      "size": 944785,
+      "sha256": "da0230e3b71147adcfd77beef599ba493eda93ca16740686381cb2bd51e4e2c4",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-tools-1.1.zip",
       "files": [
+        {
+          "p": 1,
+          "f": "GG_AnimatePro.fuse",
+          "h": "77f751ba04d292e5d546970e40f375b2925743b67104482809884ed990d6600f"
+        },
+        {
+          "p": 1,
+          "f": "GG_CipherCore.fuse",
+          "h": "4211b4e4798e4925be6164d34c4cc6acf39fcb790aaa629c064a2234846c5cb1"
+        },
+        {
+          "p": 1,
+          "f": "GG_TextEngine.fuse",
+          "h": "3a839cdd844449c04b4516d72c7367339a13cd11dcbb5542ab3a7cf7525f6f8c"
+        },
         {
           "p": 0,
           "f": "Grain&Gate/Text Tools | Grain&Gate/L3rds Lab | G&G.png",
@@ -1342,7 +1357,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Text Tools | Grain&Gate/L3rds Lab | G&G.setting",
-          "h": "9eca845bda9e17b2cd58be94579f465b48f40d2123fdac533522aa7112c713a4"
+          "h": "20941acdeed003a1f5dabacc28d72d06aff410b648988786564939eaa7aec0b7"
         },
         {
           "p": 0,
@@ -1362,7 +1377,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Text Tools | Grain&Gate/MultiText | Cipher.setting",
-          "h": "5093fb9d398f25b97bd843ba24c1090cbd26137f06519dd1d5d9adad3bf577bc"
+          "h": "5d5b37f522e57f077452f26eccf383cc4adaee4078c3028dc4405f5c8afb54e5"
         },
         {
           "p": 0,
@@ -1372,7 +1387,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Text Tools | Grain&Gate/Text Lab | G&G.setting",
-          "h": "bc5a289021152be160a2c950398b15b432cd6d1eab85f627e2d434874ff6ed00"
+          "h": "a7510357ef53cc66dbcbbdbaf4897aa863a9776e3ab79de9b738f759da16cbc0"
         },
         {
           "p": 0,
@@ -1401,33 +1416,18 @@
         },
         {
           "p": 0,
-          "f": "Grain&Gate/Presets - Text Lab/Counter | Text Lab.setting",
-          "h": "1b9eee69c26080416ad13886eb0401e90d599d3e2af47a749904e83d6144fc48"
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Presets - Text Lab/Scramble | Text Lab.setting",
-          "h": "472781801c18fd8bc27795de3465221dc986d718d7b7f8c22633d27e86ebb9ae"
-        },
-        {
-          "p": 0,
           "f": "Grain&Gate/Subtitles - Grain&Gate/TA Word Pop Subtitle.setting",
           "h": "1f72d5e5fecd9c159848407d9a2e0bee50c4a94bc69fb7e59058f0c60567e98a"
         },
         {
-          "p": 1,
-          "f": "GG_AnimatePro.fuse",
-          "h": "77f751ba04d292e5d546970e40f375b2925743b67104482809884ed990d6600f"
+          "p": 0,
+          "f": "Grain&Gate/Presets - Text Lab/Counter | Text Lab.setting",
+          "h": "47484936fcb1825f9367f24ecf64ed961c761b93632e604ca46f8a5a45a2ec01"
         },
         {
-          "p": 1,
-          "f": "GG_CipherCore.fuse",
-          "h": "4211b4e4798e4925be6164d34c4cc6acf39fcb790aaa629c064a2234846c5cb1"
-        },
-        {
-          "p": 1,
-          "f": "GG_TextEngine.fuse",
-          "h": "3a839cdd844449c04b4516d72c7367339a13cd11dcbb5542ab3a7cf7525f6f8c"
+          "p": 0,
+          "f": "Grain&Gate/Presets - Text Lab/Scramble | Text Lab.setting",
+          "h": "ad6c96cda0d953d5795366f8a00b40e832c8afe8467cb70d04230fd7e931d9c7"
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/text-tools-line.png",
@@ -1440,6 +1440,13 @@
         "Counter",
         "Scramble",
         "Word Pop Subtitle"
+      ],
+      "notes": "Saved presets are safer: saving can no longer overwrite a presets file it could not read, and five rolling backups are kept. Scramble has a Load button next to User Presets for Resolve 21.2. Preset lists ship clean and your own presets are untouched.",
+      "history": [
+        {
+          "v": "1.1",
+          "note": "Saved presets are safer: saving can no longer overwrite a presets file it could not read, and five rolling backups are kept. Scramble has a Load button next to User Presets for Resolve 21.2. Preset lists ship clean and your own presets are untouched."
+        }
       ]
     },
     {
@@ -2813,7 +2820,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-12T00:23:14.436484Z",
+  "updatedAt": "2026-11-12T00:33:16.318178Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
