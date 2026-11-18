@@ -245,10 +245,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.10",
-      "size": 33943607,
-      "sha256": "ee2952c9d6825e5983be6cd6a82b27f454c1ee3de1a2e6c473109808128cceca",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.10.zip",
+      "version": "1.11",
+      "size": 33939331,
+      "sha256": "f2f546aa2d1f3cab2b0efbd544a298aec890a1443d3bbe09fec9c24861277753",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.11.zip",
       "files": [
         {
           "p": 1,
@@ -433,7 +433,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Color Tools | Grain&Gate/Grade | G&G.setting",
-          "h": "8f4c2ef28874583c2c10a6f5f7f5bd30d2e62c73d6e9fa187a86732ff3ba04a8"
+          "h": "b3dc7b6f5500cd23cbb6b898d0a288cecbc6a15120a9ccdeeee48b7975370be9"
         },
         {
           "p": 2,
@@ -441,13 +441,17 @@
           "h": "02d3cbfa811f77ea81b539f256ed6398ff5af38f6e6a39540563d4d4e3e68684"
         }
       ],
-      "notes": "Carries the current Sleuth tracking engine (2.22) so Grade and Sleuth stay in step. Restart Resolve after updating.",
+      "notes": "Grade is lighter: Grain runs on Film Look Creator again (the separate grain engine is out of the chain) and the Heal page is removed. Re-apply Grade to a clip to pick it up; clips already graded keep working as they are. Restart Resolve after updating.",
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/color-tools-line.png",
       "tools": [
         "Grade",
         "Demist"
       ],
       "history": [
+        {
+          "v": "1.11",
+          "note": "Grade is lighter: Grain runs on Film Look Creator again (the separate grain engine is out of the chain) and the Heal page is removed. Re-apply Grade to a clip to pick it up; clips already graded keep working as they are. Restart Resolve after updating."
+        },
         {
           "v": "1.10",
           "note": "Carries the current Sleuth tracking engine (2.22) so Grade and Sleuth stay in step. Restart Resolve after updating."
@@ -475,10 +479,6 @@
         {
           "v": "1.4",
           "note": "Demist is now an effect inside Grade (Effects, above Diffusion). Relight is no longer included."
-        },
-        {
-          "v": "1.3",
-          "note": "Grade: the Highlights control was missing on fresh installs. Restart Resolve after updating."
         }
       ]
     },
@@ -2832,7 +2832,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-18T04:47:31.636240Z",
+  "updatedAt": "2026-11-18T22:25:02.297433Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
