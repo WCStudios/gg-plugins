@@ -245,36 +245,11 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.9",
-      "size": 33941973,
-      "sha256": "bb25849a9f8f804fb5541b221f5da05efeca036c67ffbd48387a556e03c7dc79",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.9.zip",
+      "version": "1.10",
+      "size": 33943607,
+      "sha256": "ee2952c9d6825e5983be6cd6a82b27f454c1ee3de1a2e6c473109808128cceca",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.10.zip",
       "files": [
-        {
-          "p": 0,
-          "f": "Grain&Gate/Color Tools | Grain&Gate/Demist | G&G.setting",
-          "h": "f58029e2306c4dfa1574d36126cba3a6a1a5006d0a43f1e8305366374fed4ed1"
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Color Tools | Grain&Gate/GG_GradePro_LUTManifest.lua",
-          "h": "db71d1d8fc15bff6d73ae4e0e10f7d592358070c655871c9659599631dd4cff7"
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Color Tools | Grain&Gate/GG_Grade_FactoryPresets.lua",
-          "h": "d3149ece7c161b010b080c587524d85dda049d5a07de417acc7b8a9f53a6deee"
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Color Tools | Grain&Gate/Grade | G&G.png",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Color Tools | Grain&Gate/Grade | G&G.setting",
-          "h": "8f4c2ef28874583c2c10a6f5f7f5bd30d2e62c73d6e9fa187a86732ff3ba04a8"
-        },
         {
           "p": 1,
           "f": "GG_Demist.fuse",
@@ -293,46 +268,21 @@
         {
           "p": 1,
           "f": "GG_TrackerLab.fuse",
-          "h": "0dbb5dda1ccf688e8635d0df89f365eef8f45c4f8fb349cce07763fdfcff6809"
-        },
-        {
-          "p": 2,
-          "f": "Refresh GG LUTs.lua",
-          "h": "02d3cbfa811f77ea81b539f256ed6398ff5af38f6e6a39540563d4d4e3e68684"
+          "h": "8e3241d6dd074413734f0dffb306074cbeb25a559467e6745c96d8f51bc4dec2"
         },
         {
           "p": 3,
-          "f": "G&G Camera Conversion/CM Conversion (Clog to Slog3).cube",
+          "f": "G&G LOG Conversion/Apple LOG to Rec709.cube",
           "h": null
         },
         {
           "p": 3,
-          "f": "G&G Camera Conversion/CM Conversion (Clog3 to Slog3).cube",
+          "f": "G&G LOG Conversion/Sony Slog3 to Rec709.cube",
           "h": null
         },
         {
           "p": 3,
-          "f": "G&G Camera Conversion/CM Conversion (Dlog to Slog3).cube",
-          "h": null
-        },
-        {
-          "p": 3,
-          "f": "G&G Camera Conversion/CM Conversion (DlogM to Slog3).cube",
-          "h": null
-        },
-        {
-          "p": 3,
-          "f": "G&G Camera Conversion/CM Conversion (G-Flat to Slog3).cube",
-          "h": null
-        },
-        {
-          "p": 3,
-          "f": "G&G Camera Conversion/CM Conversion (G-LOG to Slog3).cube",
-          "h": null
-        },
-        {
-          "p": 3,
-          "f": "G&G Camera Conversion/CM Conversion (a7iv to Fx3).cube",
+          "f": "G&G LOG Conversion/WC_FX5_AmberDensity_SLog3_to_Rec709.cube",
           "h": null
         },
         {
@@ -412,23 +362,13 @@
         },
         {
           "p": 3,
-          "f": "G&G LOG Conversion/Apple LOG to Rec709.cube",
-          "h": null
-        },
-        {
-          "p": 3,
-          "f": "G&G LOG Conversion/Sony Slog3 to Rec709.cube",
-          "h": null
-        },
-        {
-          "p": 3,
-          "f": "G&G LOG Conversion/WC_FX5_AmberDensity_SLog3_to_Rec709.cube",
-          "h": null
-        },
-        {
-          "p": 3,
           "f": "MCP/GG_GradeFXBeta.dctl",
           "h": "a86147cdcb6c262e45d2259837813094ec5e53ef9111eaa55c03d362469562cb"
+        },
+        {
+          "p": 3,
+          "f": "MCP/GG_GradeHL.dctl",
+          "h": "16e76c00348e3b984f9e60e9ee3268e410136feb60d18548d07813c65a6d69b6"
         },
         {
           "p": 3,
@@ -437,17 +377,81 @@
         },
         {
           "p": 3,
-          "f": "MCP/GG_GradeHL.dctl",
-          "h": "16e76c00348e3b984f9e60e9ee3268e410136feb60d18548d07813c65a6d69b6"
+          "f": "G&G Camera Conversion/CM Conversion (Clog to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (Clog3 to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (Dlog to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (DlogM to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (G-Flat to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (G-LOG to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (a7iv to Fx3).cube",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/Demist | G&G.setting",
+          "h": "f58029e2306c4dfa1574d36126cba3a6a1a5006d0a43f1e8305366374fed4ed1"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/GG_GradePro_LUTManifest.lua",
+          "h": "db71d1d8fc15bff6d73ae4e0e10f7d592358070c655871c9659599631dd4cff7"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/GG_Grade_FactoryPresets.lua",
+          "h": "d3149ece7c161b010b080c587524d85dda049d5a07de417acc7b8a9f53a6deee"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/Grade | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Color Tools | Grain&Gate/Grade | G&G.setting",
+          "h": "8f4c2ef28874583c2c10a6f5f7f5bd30d2e62c73d6e9fa187a86732ff3ba04a8"
+        },
+        {
+          "p": 2,
+          "f": "Refresh GG LUTs.lua",
+          "h": "02d3cbfa811f77ea81b539f256ed6398ff5af38f6e6a39540563d4d4e3e68684"
         }
       ],
-      "notes": "Stabilization works again with Grade on in Resolve 21.2. Restart Resolve after updating.",
+      "notes": "Carries the current Sleuth tracking engine (2.22) so Grade and Sleuth stay in step. Restart Resolve after updating.",
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/color-tools-line.png",
       "tools": [
         "Grade",
         "Demist"
       ],
       "history": [
+        {
+          "v": "1.10",
+          "note": "Carries the current Sleuth tracking engine (2.22) so Grade and Sleuth stay in step. Restart Resolve after updating."
+        },
         {
           "v": "1.9",
           "note": "Stabilization works again with Grade on in Resolve 21.2. Restart Resolve after updating."
@@ -475,10 +479,6 @@
         {
           "v": "1.3",
           "note": "Grade: the Highlights control was missing on fresh installs. Restart Resolve after updating."
-        },
-        {
-          "v": "1.2",
-          "note": "The old Day to Night is no longer included; Afterlight replaces it."
         }
       ]
     },
@@ -2828,7 +2828,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-18T04:42:59.587592Z",
+  "updatedAt": "2026-11-18T04:43:53.743886Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
