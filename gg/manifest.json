@@ -1084,15 +1084,15 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.2",
-      "size": 263814,
-      "sha256": "377a658cc51c3f83d620a7874eeee7af8b305492a986bd5703a0c8e64871270d",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/sleuth-1.2.zip",
+      "version": "1.3",
+      "size": 270153,
+      "sha256": "7720feedb05c78781e08da29f8f60381b86e14743a64fb40d56e9ab7517a23c6",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/sleuth-1.3.zip",
       "files": [
         {
           "p": 1,
           "f": "GG_TrackerLab.fuse",
-          "h": "0dbb5dda1ccf688e8635d0df89f365eef8f45c4f8fb349cce07763fdfcff6809"
+          "h": "8e3241d6dd074413734f0dffb306074cbeb25a559467e6745c96d8f51bc4dec2"
         },
         {
           "p": 0,
@@ -1102,15 +1102,19 @@
         {
           "p": 0,
           "f": "Grain&Gate/Sleuth | Grain&Gate/Tracker Lab | G&G.setting",
-          "h": "5e0e0b3b16264e202e6b2b098afe5c2da1a91b1366136a7b005db59d59f8a229"
+          "h": "5643956daa3dbd738d0040c03b801beb9703a6d139e42c805a7453523ac773ec"
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/sleuth-line.png",
       "tools": [
         "Tracker Lab"
       ],
-      "notes": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating.",
+      "notes": "Camera mode text gets every Text Lab move (Position, Fly, Zoom, Fade, Flip, Swing, Spin, Tumble) and Continuous spin, wobble, float, breathe and extrude by letter, word or line. Media and shapes get Placement in Camera mode. Media and Screen controls are grouped into Hide / Show rows. Screen hand keys, notch and screen grade (engine 2.22). Restart Resolve after updating.",
       "history": [
+        {
+          "v": "1.3",
+          "note": "Camera mode text gets every Text Lab move (Position, Fly, Zoom, Fade, Flip, Swing, Spin, Tumble) and Continuous spin, wobble, float, breathe and extrude by letter, word or line. Media and shapes get Placement in Camera mode. Media and Screen controls are grouped into Hide / Show rows. Screen hand keys, notch and screen grade (engine 2.22). Restart Resolve after updating."
+        },
         {
           "v": "1.2",
           "note": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating."
@@ -2820,7 +2824,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-16T21:18:00.625467Z",
+  "updatedAt": "2026-11-18T04:38:45.497429Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
