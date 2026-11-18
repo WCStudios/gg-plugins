@@ -1084,10 +1084,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.3",
-      "size": 270153,
-      "sha256": "7720feedb05c78781e08da29f8f60381b86e14743a64fb40d56e9ab7517a23c6",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/sleuth-1.3.zip",
+      "version": "1.4",
+      "size": 270149,
+      "sha256": "4703bfd89ecd238addb38e4d88396fd2dac3f8d1b74c3a345e535bb7d0078f48",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/sleuth-1.4.zip",
       "files": [
         {
           "p": 1,
@@ -1102,15 +1102,19 @@
         {
           "p": 0,
           "f": "Grain&Gate/Sleuth | Grain&Gate/Tracker Lab | G&G.setting",
-          "h": "5643956daa3dbd738d0040c03b801beb9703a6d139e42c805a7453523ac773ec"
+          "h": "3e1ec9b13fdd8cbd11092803af02e2158ed6280790ec1890e914aecda449d99c"
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/sleuth-line.png",
       "tools": [
         "Tracker Lab"
       ],
-      "notes": "Camera mode text gets every Text Lab move (Position, Fly, Zoom, Fade, Flip, Swing, Spin, Tumble) and Continuous spin, wobble, float, breathe and extrude by letter, word or line. Media and shapes get Placement in Camera mode. Media and Screen controls are grouped into Hide / Show rows. Screen hand keys, notch and screen grade (engine 2.22). Restart Resolve after updating.",
+      "notes": "A camera track that stops now says why under the progress bar. Also in 1.3: every Text Lab move and Continuous by letter, word or line for Camera mode text, Placement for media and shapes, Hide / Show rows in Media and Screen. Restart Resolve after updating.",
       "history": [
+        {
+          "v": "1.4",
+          "note": "A camera track that stops now says why under the progress bar. Also in 1.3: every Text Lab move and Continuous by letter, word or line for Camera mode text, Placement for media and shapes, Hide / Show rows in Media and Screen. Restart Resolve after updating."
+        },
         {
           "v": "1.3",
           "note": "Camera mode text gets every Text Lab move (Position, Fly, Zoom, Fade, Flip, Swing, Spin, Tumble) and Continuous spin, wobble, float, breathe and extrude by letter, word or line. Media and shapes get Placement in Camera mode. Media and Screen controls are grouped into Hide / Show rows. Screen hand keys, notch and screen grade (engine 2.22). Restart Resolve after updating."
@@ -2828,7 +2832,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-18T04:43:53.743886Z",
+  "updatedAt": "2026-11-18T04:47:31.636240Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
