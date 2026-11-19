@@ -1345,10 +1345,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.1",
-      "size": 944785,
-      "sha256": "da0230e3b71147adcfd77beef599ba493eda93ca16740686381cb2bd51e4e2c4",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-tools-1.1.zip",
+      "version": "1.2",
+      "size": 946032,
+      "sha256": "45a3d3616f31e53b9cc9e4d291adf54fcd3f3f13f53fe13d32d7e9cdc00371ec",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-tools-1.2.zip",
       "files": [
         {
           "p": 1,
@@ -1363,7 +1363,7 @@
         {
           "p": 1,
           "f": "GG_TextEngine.fuse",
-          "h": "3a839cdd844449c04b4516d72c7367339a13cd11dcbb5542ab3a7cf7525f6f8c"
+          "h": "82f94f772ac321328b5f3963d25d5f191309592343c69bd4380733bc0341d99c"
         },
         {
           "p": 0,
@@ -1403,7 +1403,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Text Tools | Grain&Gate/Text Lab | G&G.setting",
-          "h": "a7510357ef53cc66dbcbbdbaf4897aa863a9776e3ab79de9b738f759da16cbc0"
+          "h": "17fa8baf368748d135bf6bf7b90eb1220f75b7bbcef05f53f150e20396ee1afd"
         },
         {
           "p": 0,
@@ -1457,8 +1457,12 @@
         "Scramble",
         "Word Pop Subtitle"
       ],
-      "notes": "Saved presets are safer: saving can no longer overwrite a presets file it could not read, and five rolling backups are kept. Scramble has a Load button next to User Presets for Resolve 21.2. Preset lists ship clean and your own presets are untouched.",
+      "notes": "Text Lab Zoom: new Direction switch (Back | Front) and Zoom Around (Letter | Group | Text | Frame). Group, Text and Frame zoom the text as one piece, so it can push in with a Frame Lab card or a camera move. Existing titles look the same.",
       "history": [
+        {
+          "v": "1.2",
+          "note": "Text Lab Zoom: new Direction switch (Back | Front) and Zoom Around (Letter | Group | Text | Frame). Group, Text and Frame zoom the text as one piece, so it can push in with a Frame Lab card or a camera move. Existing titles look the same."
+        },
         {
           "v": "1.1",
           "note": "Saved presets are safer: saving can no longer overwrite a presets file it could not read, and five rolling backups are kept. Scramble has a Load button next to User Presets for Resolve 21.2. Preset lists ship clean and your own presets are untouched."
@@ -2840,7 +2844,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-19T20:25:44.728429Z",
+  "updatedAt": "2026-11-19T21:52:17.001114Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
