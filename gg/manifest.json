@@ -2755,10 +2755,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.2",
-      "size": 337613,
-      "sha256": "a59bd6488510bae8d2e0b2bea5cdef91a9001f09b703992a8cc2a2c7acca3ebb",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/afterlight-1.2.zip",
+      "version": "1.3",
+      "size": 328444,
+      "sha256": "3da67d33e414faf5d5f77652be030adb233557c99a902366b219db84a93c8433",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/afterlight-1.3.zip",
       "files": [
         {
           "p": 1,
@@ -2783,7 +2783,7 @@
         {
           "p": 1,
           "f": "GG_AfterlightSceneMotion.fuse",
-          "h": "66da0eedbd0ab032177c85ed7743234b12d017d7bcf825394aa5ca95cc78d76c"
+          "h": "a9b67279296e20ef8cff80e9b3d0fc86dfa79a22269b43f979a3bccfa1f7b1ae"
         },
         {
           "p": 1,
@@ -2808,15 +2808,19 @@
         {
           "p": 0,
           "f": "Grain&Gate/Color Tools | Grain&Gate/Afterlight | G&G.setting",
-          "h": "5b6c0b9345951892530dca0c3c558a05663b80f9d497a177ec6311262615b7d9"
+          "h": "db18cfe6ac9129c3949c1ecac713ced300dde25da41e13198652c167079fa645"
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/afterlight-cover.png",
       "tools": [
         "Afterlight"
       ],
-      "notes": "Lens flares and lights: the crosshair now stays centered on the flare or light through a track (the track is written into Position), and Resolve's own lens flare widget (the point and line) no longer shows on the viewer. Flare preset is a dropdown that applies Resolve's preset. Re-apply Afterlight to pick it up.",
+      "notes": "Reverted the 1.2 flare and relight tracking change: dragging a lens flare in the viewer could crash Resolve, and every flare control showed a lit keyframe diamond. Back to the 1.1 behaviour.",
       "history": [
+        {
+          "v": "1.3",
+          "note": "Reverted the 1.2 flare and relight tracking change: dragging a lens flare in the viewer could crash Resolve, and every flare control showed a lit keyframe diamond. Back to the 1.1 behaviour."
+        },
         {
           "v": "1.2",
           "note": "Lens flares and lights: the crosshair now stays centered on the flare or light through a track (the track is written into Position), and Resolve's own lens flare widget (the point and line) no longer shows on the viewer. Flare preset is a dropdown that applies Resolve's preset. Re-apply Afterlight to pick it up."
@@ -2844,7 +2848,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-19T21:52:17.001114Z",
+  "updatedAt": "2026-11-19T22:15:54.790124Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
