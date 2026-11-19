@@ -2747,10 +2747,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.1",
-      "size": 328444,
-      "sha256": "8b9bf8fa9faa80d920a4e636f22e18710def477b4670a3fe706cd94d02b00c82",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/afterlight-1.1.zip",
+      "version": "1.2",
+      "size": 337613,
+      "sha256": "a59bd6488510bae8d2e0b2bea5cdef91a9001f09b703992a8cc2a2c7acca3ebb",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/afterlight-1.2.zip",
       "files": [
         {
           "p": 1,
@@ -2775,7 +2775,7 @@
         {
           "p": 1,
           "f": "GG_AfterlightSceneMotion.fuse",
-          "h": "a9b67279296e20ef8cff80e9b3d0fc86dfa79a22269b43f979a3bccfa1f7b1ae"
+          "h": "66da0eedbd0ab032177c85ed7743234b12d017d7bcf825394aa5ca95cc78d76c"
         },
         {
           "p": 1,
@@ -2800,15 +2800,19 @@
         {
           "p": 0,
           "f": "Grain&Gate/Color Tools | Grain&Gate/Afterlight | G&G.setting",
-          "h": "db18cfe6ac9129c3949c1ecac713ced300dde25da41e13198652c167079fa645"
+          "h": "5b6c0b9345951892530dca0c3c558a05663b80f9d497a177ec6311262615b7d9"
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/afterlight-cover.png",
       "tools": [
         "Afterlight"
       ],
-      "notes": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating.",
+      "notes": "Lens flares and lights: the crosshair now stays centered on the flare or light through a track (the track is written into Position), and Resolve's own lens flare widget (the point and line) no longer shows on the viewer. Flare preset is a dropdown that applies Resolve's preset. Re-apply Afterlight to pick it up.",
       "history": [
+        {
+          "v": "1.2",
+          "note": "Lens flares and lights: the crosshair now stays centered on the flare or light through a track (the track is written into Position), and Resolve's own lens flare widget (the point and line) no longer shows on the viewer. Flare preset is a dropdown that applies Resolve's preset. Re-apply Afterlight to pick it up."
+        },
         {
           "v": "1.1",
           "note": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating."
@@ -2832,7 +2836,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-18T22:25:02.297433Z",
+  "updatedAt": "2026-11-19T20:18:22.040916Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
