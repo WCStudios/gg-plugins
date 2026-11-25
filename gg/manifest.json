@@ -245,10 +245,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.11",
-      "size": 33939331,
-      "sha256": "f2f546aa2d1f3cab2b0efbd544a298aec890a1443d3bbe09fec9c24861277753",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.11.zip",
+      "version": "1.12",
+      "size": 33928803,
+      "sha256": "7f37b7ad8fa895d4fa34d1c7e2784ab81b3eb8422b737489d5e5168d56eed67f",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.12.zip",
       "files": [
         {
           "p": 1,
@@ -272,17 +272,37 @@
         },
         {
           "p": 3,
-          "f": "G&G LOG Conversion/Apple LOG to Rec709.cube",
+          "f": "G&G Camera Conversion/CM Conversion (Clog to Slog3).cube",
           "h": null
         },
         {
           "p": 3,
-          "f": "G&G LOG Conversion/Sony Slog3 to Rec709.cube",
+          "f": "G&G Camera Conversion/CM Conversion (Clog3 to Slog3).cube",
           "h": null
         },
         {
           "p": 3,
-          "f": "G&G LOG Conversion/WC_FX5_AmberDensity_SLog3_to_Rec709.cube",
+          "f": "G&G Camera Conversion/CM Conversion (Dlog to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (DlogM to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (G-Flat to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (G-LOG to Slog3).cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G Camera Conversion/CM Conversion (a7iv to Fx3).cube",
           "h": null
         },
         {
@@ -362,6 +382,21 @@
         },
         {
           "p": 3,
+          "f": "G&G LOG Conversion/Apple LOG to Rec709.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G LOG Conversion/Sony Slog3 to Rec709.cube",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "G&G LOG Conversion/WC_FX5_AmberDensity_SLog3_to_Rec709.cube",
+          "h": null
+        },
+        {
+          "p": 3,
           "f": "MCP/GG_GradeFXBeta.dctl",
           "h": "a86147cdcb6c262e45d2259837813094ec5e53ef9111eaa55c03d362469562cb"
         },
@@ -376,44 +411,9 @@
           "h": "d012d0ab4afa5f46ec4d5dd6afeec8c70b13958733f55e2538b79e8dc0836850"
         },
         {
-          "p": 3,
-          "f": "G&G Camera Conversion/CM Conversion (Clog to Slog3).cube",
-          "h": null
-        },
-        {
-          "p": 3,
-          "f": "G&G Camera Conversion/CM Conversion (Clog3 to Slog3).cube",
-          "h": null
-        },
-        {
-          "p": 3,
-          "f": "G&G Camera Conversion/CM Conversion (Dlog to Slog3).cube",
-          "h": null
-        },
-        {
-          "p": 3,
-          "f": "G&G Camera Conversion/CM Conversion (DlogM to Slog3).cube",
-          "h": null
-        },
-        {
-          "p": 3,
-          "f": "G&G Camera Conversion/CM Conversion (G-Flat to Slog3).cube",
-          "h": null
-        },
-        {
-          "p": 3,
-          "f": "G&G Camera Conversion/CM Conversion (G-LOG to Slog3).cube",
-          "h": null
-        },
-        {
-          "p": 3,
-          "f": "G&G Camera Conversion/CM Conversion (a7iv to Fx3).cube",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Color Tools | Grain&Gate/Demist | G&G.setting",
-          "h": "f58029e2306c4dfa1574d36126cba3a6a1a5006d0a43f1e8305366374fed4ed1"
+          "p": 2,
+          "f": "Refresh GG LUTs.lua",
+          "h": "02d3cbfa811f77ea81b539f256ed6398ff5af38f6e6a39540563d4d4e3e68684"
         },
         {
           "p": 0,
@@ -433,21 +433,20 @@
         {
           "p": 0,
           "f": "Grain&Gate/Color Tools | Grain&Gate/Grade | G&G.setting",
-          "h": "b3dc7b6f5500cd23cbb6b898d0a288cecbc6a15120a9ccdeeee48b7975370be9"
-        },
-        {
-          "p": 2,
-          "f": "Refresh GG LUTs.lua",
-          "h": "02d3cbfa811f77ea81b539f256ed6398ff5af38f6e6a39540563d4d4e3e68684"
+          "h": "508289984c3e21defafdef1d6d04443776ede6215d5106a69abbe807546748dd"
         }
       ],
-      "notes": "Grade is lighter: Grain runs on Film Look Creator again (the separate grain engine is out of the chain) and the Heal page is removed. Re-apply Grade to a clip to pick it up; clips already graded keep working as they are. Restart Resolve after updating.",
+      "notes": "New Chroma cover in the Grade header and a new GRADE library icon. The standalone Demist effect is retired (Demist lives inside Grade).",
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/color-tools-line.png",
       "tools": [
         "Grade",
         "Demist"
       ],
       "history": [
+        {
+          "v": "1.12",
+          "note": "New Chroma cover in the Grade header and a new GRADE library icon. The standalone Demist effect is retired (Demist lives inside Grade)."
+        },
         {
           "v": "1.11",
           "note": "Grade is lighter: Grain runs on Film Look Creator again (the separate grain engine is out of the chain) and the Heal page is removed. Re-apply Grade to a clip to pick it up; clips already graded keep working as they are. Restart Resolve after updating."
@@ -475,10 +474,6 @@
         {
           "v": "1.5",
           "note": "Grade presets are safer: every save keeps five backups, a damaged presets file is never overwritten, and your own preset list comes back after each update."
-        },
-        {
-          "v": "1.4",
-          "note": "Demist is now an effect inside Grade (Effects, above Diffusion). Relight is no longer included."
         }
       ]
     },
@@ -2867,7 +2862,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-25T19:51:36.340849Z",
+  "updatedAt": "2026-11-25T19:52:54.571251Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
