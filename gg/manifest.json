@@ -1153,10 +1153,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.3",
-      "size": 282947,
-      "sha256": "49d808244a34c1853385026e48e9828fa16143be19a000c63048ff26fa394f50",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/trace-1.3.zip",
+      "version": "1.4",
+      "size": 257440,
+      "sha256": "35cf9c933182750f47596315340aed2088f72567256b417b64120f5e10700a00",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/trace-1.4.zip",
       "files": [
         {
           "p": 1,
@@ -1171,15 +1171,19 @@
         {
           "p": 0,
           "f": "Grain&Gate/Trace | Grain&Gate/Trace | G&G.setting",
-          "h": "7dc38ebce9f08e18a87233920e36f082ae4d763de2b91e548aec7d10cd9952c0"
+          "h": "a915cfbe73bc5f99051a2b5a111db85217c3309f3910f48f2ea98ab28edec280"
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/trace-line.png",
       "tools": [
         "Trace"
       ],
-      "notes": "Trace engine 1.14: soft edges, the dots of i and j and small marks stay part of their shape, and logo outlines follow each piece. Restart Resolve after updating.",
+      "notes": "New Trace cover in the inspector header and a new TRACE library icon.",
       "history": [
+        {
+          "v": "1.4",
+          "note": "New Trace cover in the inspector header and a new TRACE library icon."
+        },
         {
           "v": "1.3",
           "note": "Trace engine 1.14: soft edges, the dots of i and j and small marks stay part of their shape, and logo outlines follow each piece. Restart Resolve after updating."
@@ -2842,7 +2846,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-25T21:38:55.250798Z",
+  "updatedAt": "2026-11-25T21:40:42.038404Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
