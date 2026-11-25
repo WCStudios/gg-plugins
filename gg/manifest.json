@@ -1477,7 +1477,7 @@
     {
       "id": "3d-tools",
       "name": "3D Tools | G&G",
-      "description": "3D scenes, sets and cameras, Gaussian splats and a live viewport.",
+      "description": "3D Studio | Vertex as an effect and a generator, with the sets (including the Gaussian splat set), HDRIs, card meshes and models, the camera pose engine, the Gaussian splat plugin and the Viewport app. Needs launcher 0.7.2 or newer. Install the G&G Gobo Library with it.",
       "kind": "Plugins",
       "category": "3D Tools",
       "target": null,
@@ -1510,11 +1510,71 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.1",
-      "size": 191783227,
-      "sha256": "a1fa7dd5759f0fbc271e63639ff028ba4a721223c2cc1623113a48b82480d8da",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/3d-tools-1.1/3d-tools-1.1.zip",
+      "version": "1.2",
+      "size": 190231003,
+      "sha256": "2ea3577b3dfd137fb3011460fe55f0e04138bfb449595007c5064e379034da2d",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/3d-tools-1.2/3d-tools-1.2.zip",
       "files": [
+        {
+          "p": 2,
+          "f": "GG_3dStudioBetaCore.fuse",
+          "h": "02347e67df57c3321fa2181bea8d58390fd1d3670fbbb13ae36628b5a70505a8"
+        },
+        {
+          "p": 2,
+          "f": "GG_3dStudioCore.fuse",
+          "h": "2322a5503c63c86bb0a3a603a82bf2cbadef8f83712a811952f1885cae78dedf"
+        },
+        {
+          "p": 2,
+          "f": "GG_3dStudioEngine.fuse",
+          "h": "a8f5942cf6c108428f7b0dc8611983bcf4a9e1e84fbe07d0cf1bb93603c9d34d"
+        },
+        {
+          "p": 2,
+          "f": "GG_BetaCamPoses.fuse",
+          "h": "4c2f3ef6f1f5dcf9bce4f1645e2696f84aef5de965d1983a2c4ec5a621944e98"
+        },
+        {
+          "p": 2,
+          "f": "GG_BetaSwitch3D.fuse",
+          "h": "343638a6c1c20fe5db96d28e44618d56405435203d50730698180cd271960753"
+        },
+        {
+          "p": 2,
+          "f": "GG_CamPoses.fuse",
+          "h": "13e667e7d133d9b00777987d3c29b2a300b24340b23dc0f90f58f10004297737"
+        },
+        {
+          "p": 2,
+          "f": "GG_Switch3D.fuse",
+          "h": "42978525e99816d271634aee75b21bdc4d5609651d0d6ea145d28932a1f29601"
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/3D Studio | Vertex.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/3D Studio | Vertex.setting",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "GG_SplatLab.ofx.bundle/Contents/Info.plist",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "GG_SplatLab.ofx.bundle/Contents/MacOS/GG_SplatLab.ofx",
+          "h": null
+        },
+        {
+          "p": 3,
+          "f": "GG_SplatLab.ofx.bundle/Contents/_CodeSignature/CodeResources",
+          "h": null
+        },
         {
           "p": 0,
           "f": "Grain&Gate/3D Tools | Grain&Gate/3D Studio (Beta).png",
@@ -1527,42 +1587,477 @@
         },
         {
           "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/3D Studio | G&G.png",
+          "f": "Grain&Gate/3D Tools | Grain&Gate/3D Studio | Vertex.png",
           "h": null
         },
         {
           "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/3D Studio | G&G.setting",
+          "f": "Grain&Gate/3D Tools | Grain&Gate/3D Studio | Vertex.setting",
           "h": null
         },
         {
           "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Studio Corner.obj",
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Round Gallery.obj",
           "h": null
         },
         {
           "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Studio Cove In.obj",
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Round Solid.obj",
           "h": null
         },
         {
           "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Studio Cove Out.obj",
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Round Stretch.obj",
           "h": null
         },
         {
           "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Studio Softbox.exr",
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Sharp Gallery.obj",
           "h": null
         },
         {
           "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/Splat Studio | G&G.png",
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Sharp Solid.obj",
           "h": null
         },
         {
           "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/Splat Studio | G&G.setting",
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Sharp Stretch.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Soft Gallery.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Soft Solid.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Soft Stretch.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Round Gallery.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Round Solid.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Round Stretch.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Sharp Gallery.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Sharp Solid.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Sharp Stretch.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Soft Gallery.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Soft Solid.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Soft Stretch.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Round Gallery.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Round Solid.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Round Stretch.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Sharp Gallery.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Sharp Solid.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Sharp Stretch.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Soft Gallery.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Soft Solid.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Soft Stretch.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Ball.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Ball.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Cloud A.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Cloud A.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Cloud B.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Cloud B.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Pine Tree.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Pine Tree.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Plinth Round.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Plinth Round.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Plinth Square.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Plinth Square.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Rock A.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Rock A.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Rock B.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Rock B.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Round Tree.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Round Tree.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG TV Console.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG TV Console.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG TV Flat.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG TV Flat.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG TV Portable.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG TV Portable.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG TV Retro.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG TV Retro.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_BackLights.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_BackLights.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_NeonRails.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_NeonRails.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_RingFixtures.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_RingFixtures.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_RingLenses.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_RingLenses.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignRails.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignRails.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignRailsL.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignRailsL.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignRailsR.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignRailsR.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignTowers.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignTowers.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignTowersL.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignTowersL.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignTowersR.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignTowersR.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_Stage.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_Stage.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_StageBand.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_StageBand.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_StageStrips.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_StageStrips.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerL.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerL.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerPanels.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerPanels.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerPanelsL.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerPanelsL.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerPanelsR.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerPanelsR.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerR.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerR.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TrussRing.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TrussRing.obj",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Garage/garage_Set.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Garage/garage_Set.obj",
           "h": null
         },
         {
@@ -1628,16 +2123,6 @@
         {
           "p": 0,
           "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/HDRI/zwartkops_straight_sunset_bp.jpg",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Track/track_Set.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Track/track_Set.obj",
           "h": null
         },
         {
@@ -1942,6 +2427,16 @@
         },
         {
           "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Pickleball/pb_Net.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Pickleball/pb_Net.obj",
+          "h": null
+        },
+        {
+          "p": 0,
           "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Rink/rink_Bowl.mtl",
           "h": null
         },
@@ -2027,6 +2522,16 @@
         },
         {
           "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Rooftop/roof_Set.mtl",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Rooftop/roof_Set.obj",
+          "h": null
+        },
+        {
+          "p": 0,
           "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/TVRoom/tv_Couch.mtl",
           "h": null
         },
@@ -2087,202 +2592,12 @@
         },
         {
           "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_BackLights.mtl",
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Track/track_Set.mtl",
           "h": null
         },
         {
           "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_BackLights.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_NeonRails.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_NeonRails.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_RingFixtures.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_RingFixtures.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_RingLenses.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_RingLenses.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignRails.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignRails.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignRailsL.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignRailsL.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignRailsR.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignRailsR.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignTowers.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignTowers.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignTowersL.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignTowersL.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignTowersR.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_SignTowersR.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_Stage.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_Stage.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_StageBand.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_StageBand.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_StageStrips.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_StageStrips.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerL.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerL.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerPanels.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerPanels.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerPanelsL.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerPanelsL.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerPanelsR.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerPanelsR.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerR.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TowerR.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TrussRing.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Arena/arena_TrussRing.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Garage/garage_Set.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Garage/garage_Set.obj",
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Track/track_Set.obj",
           "h": null
         },
         {
@@ -2362,366 +2677,26 @@
         },
         {
           "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Pickleball/pb_Net.mtl",
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Studio Corner.obj",
           "h": null
         },
         {
           "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Pickleball/pb_Net.obj",
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Studio Cove In.obj",
           "h": null
         },
         {
           "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Rooftop/roof_Set.mtl",
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Studio Cove Out.obj",
           "h": null
         },
         {
           "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Sets/Rooftop/roof_Set.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Ball.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Ball.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Cloud A.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Cloud A.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Cloud B.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Cloud B.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Pine Tree.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Pine Tree.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Plinth Round.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Plinth Round.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Plinth Square.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Plinth Square.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Rock A.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Rock A.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Rock B.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Rock B.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Round Tree.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG Round Tree.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG TV Console.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG TV Console.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG TV Flat.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG TV Flat.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG TV Portable.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG TV Portable.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG TV Retro.mtl",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Models/GG TV Retro.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Round Gallery.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Round Solid.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Round Stretch.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Sharp Gallery.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Sharp Solid.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Sharp Stretch.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Soft Gallery.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Soft Solid.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 16x9 Soft Stretch.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Round Gallery.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Round Solid.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Round Stretch.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Sharp Gallery.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Sharp Solid.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Sharp Stretch.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Soft Gallery.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Soft Solid.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 1x1 Soft Stretch.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Round Gallery.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Round Solid.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Round Stretch.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Sharp Gallery.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Sharp Solid.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Sharp Stretch.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Soft Gallery.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Soft Solid.obj",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Card Meshes/GG Card 9x16 Soft Stretch.obj",
-          "h": null
-        },
-        {
-          "p": 1,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/3D Studio | G&G.png",
-          "h": null
-        },
-        {
-          "p": 1,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/3D Studio | G&G.setting",
-          "h": null
-        },
-        {
-          "p": 1,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/Splat Studio | G&G.png",
-          "h": null
-        },
-        {
-          "p": 1,
-          "f": "Grain&Gate/3D Tools | Grain&Gate/Splat Studio | G&G.setting",
-          "h": null
-        },
-        {
-          "p": 2,
-          "f": "GG_3dStudioCore.fuse",
-          "h": "2322a5503c63c86bb0a3a603a82bf2cbadef8f83712a811952f1885cae78dedf"
-        },
-        {
-          "p": 2,
-          "f": "GG_3dStudioBetaCore.fuse",
-          "h": "02347e67df57c3321fa2181bea8d58390fd1d3670fbbb13ae36628b5a70505a8"
-        },
-        {
-          "p": 2,
-          "f": "GG_3dStudioEngine.fuse",
-          "h": "a8f5942cf6c108428f7b0dc8611983bcf4a9e1e84fbe07d0cf1bb93603c9d34d"
-        },
-        {
-          "p": 2,
-          "f": "GG_BetaCamPoses.fuse",
-          "h": "4c2f3ef6f1f5dcf9bce4f1645e2696f84aef5de965d1983a2c4ec5a621944e98"
-        },
-        {
-          "p": 2,
-          "f": "GG_BetaSwitch3D.fuse",
-          "h": "343638a6c1c20fe5db96d28e44618d56405435203d50730698180cd271960753"
-        },
-        {
-          "p": 2,
-          "f": "GG_CamPoses.fuse",
-          "h": "13e667e7d133d9b00777987d3c29b2a300b24340b23dc0f90f58f10004297737"
-        },
-        {
-          "p": 2,
-          "f": "GG_SplatStudioCore.fuse",
-          "h": "1f402e3b252294aa9c501e3b6572915b3d9e354f16e073825ed3beefc021a494"
-        },
-        {
-          "p": 2,
-          "f": "GG_Switch3D.fuse",
-          "h": "42978525e99816d271634aee75b21bdc4d5609651d0d6ea145d28932a1f29601"
-        },
-        {
-          "p": 3,
-          "f": "GG_SplatLab.ofx.bundle/Contents/Info.plist",
-          "h": null
-        },
-        {
-          "p": 3,
-          "f": "GG_SplatLab.ofx.bundle/Contents/_CodeSignature/CodeResources",
-          "h": null
-        },
-        {
-          "p": 3,
-          "f": "GG_SplatLab.ofx.bundle/Contents/MacOS/GG_SplatLab.ofx",
+          "f": "Grain&Gate/3D Tools | Grain&Gate/GG Studio Softbox.exr",
           "h": null
         }
       ],
-      "notes": "Viewport now installs with 3D Tools (into Applications). Needs launcher 0.7.2 or newer.",
+      "notes": "3D Studio is now 3D Studio | Vertex, with the new Vertex cover in the inspector header and a new library icon. Splat Studio is retired: splats live inside 3D Studio as a Set (Scene > Set > Splat). The old names are removed on update.",
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/3d-tools-line.png",
       "tools": [
         "3D Studio",
@@ -2862,7 +2837,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-25T19:52:54.571251Z",
+  "updatedAt": "2026-11-25T19:54:53.532701Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
