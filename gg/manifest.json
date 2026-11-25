@@ -743,7 +743,7 @@
           "h": null
         }
       ],
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/utilities-line.png",
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/utilities-line-1125.png",
       "tools": [
         "Animate",
         "Mask",
@@ -1178,7 +1178,7 @@
           "h": "a915cfbe73bc5f99051a2b5a111db85217c3309f3910f48f2ea98ab28edec280"
         }
       ],
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/trace-line.png",
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/trace-line-1125.png",
       "tools": [
         "Trace"
       ],
@@ -1244,7 +1244,7 @@
           "h": "7ef83feaac2f35879062b8ee1171cbb0ba6f0602ef7f520b445db2beb90feca4"
         }
       ],
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/rift-line.png",
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/rift-line-1125.png",
       "tools": [
         "Point Cloud"
       ],
@@ -2854,7 +2854,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-25T21:43:01.800263Z",
+  "updatedAt": "2026-11-25T21:44:43.158850Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
