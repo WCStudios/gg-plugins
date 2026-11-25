@@ -882,10 +882,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.2",
-      "size": 497976,
-      "sha256": "9b26b0bd31361affd54f3e73658931d6f2c5a6e63e94295c41e6b9bb93dc9cfa",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/drift-1.2.zip",
+      "version": "1.3",
+      "size": 436734,
+      "sha256": "a57e5881ae9364a7c14e2ed033d2f4c91d3985c087771c6493c1e00b371fe4a6",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/drift-1.3.zip",
       "files": [
         {
           "p": 1,
@@ -905,7 +905,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Drift | Grain&Gate/Camera Layer | Drift.setting",
-          "h": "7e83c322c651344354bf2ab3b4fdd17a0b24c851afa438920a1b0215f5f1b44a"
+          "h": "a93765de98eef7246faf7039f44468aecf2174c592619e9a62483b65596175b9"
         },
         {
           "p": 0,
@@ -915,7 +915,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Drift | Grain&Gate/Movement Layer | Drift.setting",
-          "h": "dd0e10ba8a0a30eaf9b547f586f094cce33d9c35a2f670220ea4d79d02cfe70b"
+          "h": "3a633ff11fd1ed83a3867abc6631aea070466c2f3032aebbfa946f4bfc2cf7af"
         },
         {
           "p": 0,
@@ -925,7 +925,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Drift | Grain&Gate/Zoom Layer | Drift.setting",
-          "h": "99299da3d2af602cd5479a548cd7189ef9b4bf05262612f41f455f95dce90ec3"
+          "h": "a435b60b673046ca4f2f48d864d01d95b7907eb14721c785cdbfd086d51a79fe"
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/drift-line.png",
@@ -936,6 +936,10 @@
       ],
       "history": [
         {
+          "v": "1.3",
+          "note": "New Drift cover in the inspector header and new library icons (CAMERA, MOVE, ZOOM)."
+        },
+        {
           "v": "1.2",
           "note": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating."
         },
@@ -944,7 +948,7 @@
           "note": "Camera Layer: Fine Tune delays for zoom, position and the three rotations."
         }
       ],
-      "notes": "Stabilization works again with this effect on in Resolve 21.2. Restart Resolve after updating."
+      "notes": "New Drift cover in the inspector header and new library icons (CAMERA, MOVE, ZOOM)."
     },
     {
       "id": "shift",
@@ -2856,7 +2860,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-25T19:46:10.750874Z",
+  "updatedAt": "2026-11-25T19:47:10.970449Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
