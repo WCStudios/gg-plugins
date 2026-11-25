@@ -972,15 +972,25 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.3",
-      "size": 267116,
-      "sha256": "0680dfc59224d2e09b5eda37aa75cf1551575e84ffde28eb63f30790eaec3466",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/shift-1.3.zip",
+      "version": "1.4",
+      "size": 267132,
+      "sha256": "457fdcb41f5811948d874259dc98c3736c328943697be51cee20863f7697e63e",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/shift-1.4.zip",
       "files": [
         {
           "p": 2,
           "f": "GG_GlitchTL.fuse",
           "h": "b5178b0e3a965cf0aadd6463cab51afd384829ca240efcf9c5d2f4ca0b9649dd"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Shift | Grain&Gate/Transition Layer | Shift.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Shift | Grain&Gate/Transition Layer | Shift.setting",
+          "h": null
         },
         {
           "p": 1,
@@ -1031,16 +1041,6 @@
           "p": 1,
           "f": "Grain & Gate/Transistion Tools | Grain&Gate/Transistions | G&G Presets/Whip_G&G.setting",
           "h": "d38f029614f3ca3b0f62d68525243b3f39b43df31a7436dedae668d020fcac72"
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Shift | Grain&Gate/Transition Lab | G&G.png",
-          "h": null
-        },
-        {
-          "p": 0,
-          "f": "Grain&Gate/Shift | Grain&Gate/Transition Lab | G&G.setting",
-          "h": null
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/shift-line.png",
@@ -1048,11 +1048,15 @@
         "Transition Lab",
         "Shift Lab"
       ],
-      "notes": "Transition Lab: new Motion Curve dropdown at the top of the motion section (Cubic, Snap, Glide, Whip, Overshoot, Smooth, Linear, Stutter). Cubic is the default and matches before.",
+      "notes": "Transition Lab is now Transition Layer | Shift. Same tool, new name; the old one is removed on update.",
       "requires": [
         "gg-film-burns"
       ],
       "history": [
+        {
+          "v": "1.4",
+          "note": "Transition Lab is now Transition Layer | Shift. Same tool, new name; the old one is removed on update."
+        },
         {
           "v": "1.3",
           "note": "Transition Lab: new Motion Curve dropdown at the top of the motion section (Cubic, Snap, Glide, Whip, Overshoot, Smooth, Linear, Stutter). Cubic is the default and matches before."
@@ -2852,7 +2856,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-25T19:45:20.520529Z",
+  "updatedAt": "2026-11-25T19:46:10.750874Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
