@@ -1088,10 +1088,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.4",
-      "size": 270149,
-      "sha256": "4703bfd89ecd238addb38e4d88396fd2dac3f8d1b74c3a345e535bb7d0078f48",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/sleuth-1.4.zip",
+      "version": "1.5",
+      "size": 270145,
+      "sha256": "13c6aa09f2dcd9c86c94fe3986bf72d669ebdd954c1b510b48133b36e3089cad",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/sleuth-1.5.zip",
       "files": [
         {
           "p": 1,
@@ -1100,12 +1100,12 @@
         },
         {
           "p": 0,
-          "f": "Grain&Gate/Sleuth | Grain&Gate/Tracker Lab | G&G.png",
+          "f": "Grain&Gate/Sleuth | Grain&Gate/Tracker | Sleuth.png",
           "h": null
         },
         {
           "p": 0,
-          "f": "Grain&Gate/Sleuth | Grain&Gate/Tracker Lab | G&G.setting",
+          "f": "Grain&Gate/Sleuth | Grain&Gate/Tracker | Sleuth.setting",
           "h": "3e1ec9b13fdd8cbd11092803af02e2158ed6280790ec1890e914aecda449d99c"
         }
       ],
@@ -1113,8 +1113,12 @@
       "tools": [
         "Tracker Lab"
       ],
-      "notes": "A camera track that stops now says why under the progress bar. Also in 1.3: every Text Lab move and Continuous by letter, word or line for Camera mode text, Placement for media and shapes, Hide / Show rows in Media and Screen. Restart Resolve after updating.",
+      "notes": "Tracker Lab is now Tracker | Sleuth. Same tool, new name; the old one is removed on update.",
       "history": [
+        {
+          "v": "1.5",
+          "note": "Tracker Lab is now Tracker | Sleuth. Same tool, new name; the old one is removed on update."
+        },
         {
           "v": "1.4",
           "note": "A camera track that stops now says why under the progress bar. Also in 1.3: every Text Lab move and Continuous by letter, word or line for Camera mode text, Placement for media and shapes, Hide / Show rows in Media and Screen. Restart Resolve after updating."
@@ -2848,7 +2852,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-25T19:16:20.904070Z",
+  "updatedAt": "2026-11-25T19:45:20.520529Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
