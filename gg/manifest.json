@@ -437,10 +437,9 @@
         }
       ],
       "notes": "New Chroma cover in the Grade header and a new GRADE library icon. The standalone Demist effect is retired (Demist lives inside Grade).",
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/color-tools-line.png",
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/color-tools-line-1125.png",
       "tools": [
-        "Grade",
-        "Demist"
+        "Grade"
       ],
       "history": [
         {
@@ -746,20 +745,19 @@
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/utilities-line.png",
       "tools": [
-        "Animate Pro",
-        "Masks",
+        "Animate",
+        "Mask",
         "Mask Layer",
-        "Cutout Mask",
-        "Power Window",
-        "Frame Lab",
-        "Logo Lab",
-        "Glow Lab",
-        "Texture Pro",
-        "ClipMaker",
-        "Background Lab",
+        "Cutout",
+        "Frames",
+        "Logo",
+        "Glow",
+        "Texture",
+        "Clips",
+        "Background Layer",
         "Shape Layer",
         "Draw On Layer",
-        "Real Shadow"
+        "Shadow Layer"
       ],
       "requires": [
         "gg-textures"
@@ -917,7 +915,7 @@
           "h": "a435b60b673046ca4f2f48d864d01d95b7907eb14721c785cdbfd086d51a79fe"
         }
       ],
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/drift-line.png",
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/drift-line-1125.png",
       "tools": [
         "Camera Layer",
         "Zoom Layer",
@@ -1038,7 +1036,7 @@
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/shift-line.png",
       "tools": [
-        "Transition Lab",
+        "Transition Layer",
         "Shift Lab"
       ],
       "notes": "Transition Lab is now Transition Layer | Shift. Same tool, new name; the old one is removed on update.",
@@ -1108,7 +1106,7 @@
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/sleuth-line.png",
       "tools": [
-        "Tracker Lab"
+        "Tracker"
       ],
       "notes": "Tracker Lab is now Tracker | Sleuth. Same tool, new name; the old one is removed on update.",
       "history": [
@@ -2697,10 +2695,9 @@
         }
       ],
       "notes": "3D Studio is now 3D Studio | Vertex, with the new Vertex cover in the inspector header and a new library icon. Splat Studio is retired: splats live inside 3D Studio as a Set (Scene > Set > Splat). The old names are removed on update.",
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/3d-tools-line.png",
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/3d-tools-line-1125.png",
       "tools": [
         "3D Studio",
-        "Splat Studio",
         "Viewport"
       ],
       "requires": [
@@ -2708,6 +2705,10 @@
         "gg-textures"
       ],
       "history": [
+        {
+          "v": "1.2",
+          "note": "3D Studio is now 3D Studio | Vertex, with the new Vertex cover in the inspector header and a new library icon. Splat Studio is retired: splats live inside 3D Studio as a Set (Scene > Set > Splat). The old names are removed on update."
+        },
         {
           "v": "1.1",
           "note": "Viewport now installs with 3D Tools (into Applications). Needs launcher 0.7.2 or newer."
@@ -2796,7 +2797,7 @@
           "h": "4db6fe526183bae42f71cef62605ef40faf402e5c07114276539461606221422"
         }
       ],
-      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/afterlight-cover.png",
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/afterlight-line-1125.png",
       "tools": [
         "Afterlight"
       ],
@@ -2837,7 +2838,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-25T19:54:53.532701Z",
+  "updatedAt": "2026-11-25T19:56:47.437262Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
