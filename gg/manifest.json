@@ -502,10 +502,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.2",
-      "size": 59048273,
-      "sha256": "63edd16d2f255674c2776d498aacc56720ba59f905d47281d707c606a30c9522",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/utilities-1.2.zip",
+      "version": "1.3",
+      "size": 58751992,
+      "sha256": "c65fd4be465dd782304373286845d9e1a6aba273868f8083e7a70eee56aeee07",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/utilities-1.3.zip",
       "files": [
         {
           "p": 2,
@@ -550,7 +550,7 @@
         {
           "p": 1,
           "f": "Grain&Gate/Utilities | Grain&Gate/Background Layer Engine (Beta) | G&G.setting",
-          "h": "c6c2bbfc2eda35fd8ee28c06a265770d853b9452787587785706f84ff6160e21"
+          "h": "a20c5df7c2ac2419027d36f2ebe947834a50b8f4843fa8f6c78b963c5b8b6668"
         },
         {
           "p": 1,
@@ -560,7 +560,7 @@
         {
           "p": 1,
           "f": "Grain&Gate/Utilities | Grain&Gate/Background Layer | G&G.setting",
-          "h": "acb0114624b2a93ce7b04110b39a1f207839531fb7122b5fe5d3e37ced736de2"
+          "h": "e9be53fff1f999c97b40ebafcc6b489935a1461add8756f81ea5fc2fac2d36b1"
         },
         {
           "p": 1,
@@ -570,7 +570,7 @@
         {
           "p": 1,
           "f": "Grain&Gate/Utilities | Grain&Gate/Draw On Layer | G&G.setting",
-          "h": "a1c5bcdc3046f086285a12d2d1a01fb1fbe48ab8882acdcd867988369a6e57d8"
+          "h": "0da0a2aeb661a5883f872744ffaa8ed6e6a014c349ab120166277daa96a0e6ba"
         },
         {
           "p": 1,
@@ -650,7 +650,7 @@
         {
           "p": 1,
           "f": "Grain&Gate/Utilities | Grain&Gate/Shadow Layer | G&G.setting",
-          "h": "e727e2abb111a51cc7654ee95cae99193bb62f05a9a884d9d4373acb153bf1cc"
+          "h": "25506724e1913ca710a6386120a686c359c6291aa272f78a763393be57c4a8b5"
         },
         {
           "p": 1,
@@ -660,7 +660,7 @@
         {
           "p": 1,
           "f": "Grain&Gate/Utilities | Grain&Gate/Shape Layer | G&G.setting",
-          "h": "ca7d2cb0e9caa29e8968cad1b8230f6e93be55e708373750baa5df851487ea16"
+          "h": "b3b6d7c64ed58cf876c338f79d5d2b6e3dc60b9392528222f92084c15d892b7f"
         },
         {
           "p": 0,
@@ -670,7 +670,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Utilities | Grain&Gate/Animate | G&G.setting",
-          "h": "2bcceb66ab9c4a83390f0d410ffa6c0b90631b5cf75df182b09a495539a6173f"
+          "h": "71f0d371123a17f121795437e168c852bb318eba75c88a362f134080d8cce965"
         },
         {
           "p": 0,
@@ -680,7 +680,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Utilities | Grain&Gate/Clips | G&G.setting",
-          "h": "16931ccfce879eec1f933e23dacd8eec71fdce2f548da1a196004fc55c87864e"
+          "h": "2a14083ce190786e9f2423e13ecee182633475a61b2dce4440fb52497aa00805"
         },
         {
           "p": 0,
@@ -700,7 +700,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Utilities | Grain&Gate/Frames | G&G.setting",
-          "h": "b684c0bb01aef77c859105bbb3e463f62df5f7334840f9b8d1ee254ee400d2b7"
+          "h": "d6fc23827c817855fb88410106b250b9d113bee22dcc285905985cfe0a219a2c"
         },
         {
           "p": 0,
@@ -710,7 +710,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Utilities | Grain&Gate/Glow | G&G.setting",
-          "h": "8046b5b2cd23b54616f1cbc7034cb6ecfd39c7163af2c5c3b958334b57d3bdcb"
+          "h": "83a2000c99432fc9ec1069225086a8f6166a8513d15996f8697724a21a2a0b97"
         },
         {
           "p": 0,
@@ -720,7 +720,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Utilities | Grain&Gate/Logo | G&G.setting",
-          "h": "8a0ce3fe8cbb4a576872516448844f7583982b06eb9014366e1e6ced09f420b1"
+          "h": "8a04dd5a8e4a8834bcbf2b4a55b3a8286bd51b38d50991ea6e2cae304ea92315"
         },
         {
           "p": 0,
@@ -762,8 +762,12 @@
       "requires": [
         "gg-textures"
       ],
-      "notes": "New names. Generators end in Layer (Background Layer, Draw On Layer, Mask Layer, Shadow Layer, Shape Layer) and effects are one word (Animate, Clips, Cutout, Frames, Glow, Logo, Mask, Texture). Power Window is retired. The old names are removed on update.",
+      "notes": "New Utilities cover in the inspector header.",
       "history": [
+        {
+          "v": "1.3",
+          "note": "New Utilities cover in the inspector header."
+        },
         {
           "v": "1.2",
           "note": "New names. Generators end in Layer (Background Layer, Draw On Layer, Mask Layer, Shadow Layer, Shape Layer) and effects are one word (Animate, Clips, Cutout, Frames, Glow, Logo, Mask, Texture). Power Window is retired. The old names are removed on update."
@@ -2850,7 +2854,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-25T21:41:49.691411Z",
+  "updatedAt": "2026-11-25T21:43:01.800263Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
