@@ -502,10 +502,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.5",
-      "size": 59742786,
-      "sha256": "1044502776074c496eec8a35afaa6008d8e0f55d67bf655c6e696c896a352c25",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/utilities-1.5.zip",
+      "version": "1.6",
+      "size": 59744146,
+      "sha256": "56c642339367e0edca9899cab8d71911a9671c857df4de39dc0d3a6923dcae28",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/utilities-1.6.zip",
       "files": [
         {
           "p": 2,
@@ -525,7 +525,7 @@
         {
           "p": 2,
           "f": "GG_FrameLab.fuse",
-          "h": "35d9cc5335973831ec69f16ec9a59002b77bcbf5bafa58773053ab5c818e2f28"
+          "h": "7fe94be7b055a060e787880c3aa5ce164058f18157da5e601d2d3034c93dab82"
         },
         {
           "p": 2,
@@ -745,7 +745,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Utilities | Grain&Gate/Frames | G&G.setting",
-          "h": "942f0cc0a6503ee60afc3f3a73fd5c97191a3400364483a7346749f2f8565f8f"
+          "h": "4fb5d6f2950454072b919c95c8a632b1f9d415ba1736bb432b1974afe422cfff"
         },
         {
           "p": 0,
@@ -815,8 +815,12 @@
       "requires": [
         "gg-textures"
       ],
-      "notes": "Shape Layer 2.0: rebuilt on its own GPU engine. Nine shape presets as picture cards (circle to burst), box, polygon and star shapes, Solid / Gradient / Clip Below fill, Stroke, Drop Shadow, Long Shadow, Glow and Inner Shade, Animate In / Out, Morph to any shape and Move, each with its own timing, plus Motion Blur, Shake, Rough Edge, Halftone and Grain. Restart Resolve after updating.",
+      "notes": "Frames: new Split type Versions. Stack renders of one clip (ungraded, graded, finished) in a Fusion clip; Frames plays version 1, then wipes through each version to the last, with Keep Playing or Freeze Frame (holds the frame during the wipes and resumes after). Wipes Start, Start Wipes Here, Wipe Length, Hold Each, Wipe Ease; Direction, Order, Slant and Divider apply. Restart Resolve after updating.",
       "history": [
+        {
+          "v": "1.6",
+          "note": "Frames: new Split type Versions. Stack renders of one clip (ungraded, graded, finished) in a Fusion clip; Frames plays version 1, then wipes through each version to the last, with Keep Playing or Freeze Frame (holds the frame during the wipes and resumes after). Wipes Start, Start Wipes Here, Wipe Length, Hold Each, Wipe Ease; Direction, Order, Slant and Divider apply. Restart Resolve after updating."
+        },
         {
           "v": "1.5",
           "note": "Shape Layer 2.0: rebuilt on its own GPU engine. Nine shape presets as picture cards (circle to burst), box, polygon and star shapes, Solid / Gradient / Clip Below fill, Stroke, Drop Shadow, Long Shadow, Glow and Inner Shade, Animate In / Out, Morph to any shape and Move, each with its own timing, plus Motion Blur, Shake, Rough Edge, Halftone and Grain. Restart Resolve after updating."
@@ -3053,7 +3057,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/flux-line-1127.png"
     }
   ],
-  "updatedAt": "2026-11-27T21:50:07.018851Z",
+  "updatedAt": "2026-11-27T22:11:26.505740Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
