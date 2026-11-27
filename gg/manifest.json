@@ -1130,15 +1130,30 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.5",
-      "size": 270145,
-      "sha256": "13c6aa09f2dcd9c86c94fe3986bf72d669ebdd954c1b510b48133b36e3089cad",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/sleuth-1.5.zip",
+      "version": "1.6",
+      "size": 358789,
+      "sha256": "91cccc01b7b92ef21041686d41d4e246d62c292603109cae456482c3ba0a07d5",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/sleuth-1.6.zip",
       "files": [
         {
           "p": 1,
+          "f": "GG_BlobLab.fuse",
+          "h": "5d7686bfc0d205dd1ecafb37f293d37bca0de44d39f711c20ada1ca54c791253"
+        },
+        {
+          "p": 1,
           "f": "GG_TrackerLab.fuse",
-          "h": "8e3241d6dd074413734f0dffb306074cbeb25a559467e6745c96d8f51bc4dec2"
+          "h": "f8778062219928d292968b833df69effe2572c6a1747c8d7314f5288ea61bd97"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Sleuth | Grain&Gate/Blob Track | Sleuth.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Sleuth | Grain&Gate/Blob Track | Sleuth.setting",
+          "h": "e9faea00076bc9ac3ff9a745f09eee8d7a4bead149e604f715b1b4dd96624db8"
         },
         {
           "p": 0,
@@ -1148,15 +1163,19 @@
         {
           "p": 0,
           "f": "Grain&Gate/Sleuth | Grain&Gate/Tracker | Sleuth.setting",
-          "h": "3e1ec9b13fdd8cbd11092803af02e2158ed6280790ec1890e914aecda449d99c"
+          "h": "546af82b1bbedc151222cd9d870bda41297491ee4a4d1402169f9f96ff294793"
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/sleuth-line.png",
       "tools": [
         "Tracker"
       ],
-      "notes": "Tracker Lab is now Tracker | Sleuth. Same tool, new name; the old one is removed on update.",
+      "notes": "Tracker 2.34: Patch keeps the source size, follows turns and regrains, and the Patch overlay comes from the widget. New: Blob Track. Restart Resolve after updating.",
       "history": [
+        {
+          "v": "1.6",
+          "note": "Tracker 2.34: Patch keeps the source size, follows turns and regrains, and the Patch overlay comes from the widget. New: Blob Track. Restart Resolve after updating."
+        },
         {
           "v": "1.5",
           "note": "Tracker Lab is now Tracker | Sleuth. Same tool, new name; the old one is removed on update."
@@ -2901,7 +2920,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-27T21:27:51.109261Z",
+  "updatedAt": "2026-11-27T21:28:39.613674Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
