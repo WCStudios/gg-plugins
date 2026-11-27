@@ -245,10 +245,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.12",
-      "size": 33928803,
-      "sha256": "7f37b7ad8fa895d4fa34d1c7e2784ab81b3eb8422b737489d5e5168d56eed67f",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.12.zip",
+      "version": "1.13",
+      "size": 33936317,
+      "sha256": "1265854b83d1b8fb614d5c7a54ba70308c2911078ba93ad12eb77a2e26beb8b0",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/color-tools-1.13.zip",
       "files": [
         {
           "p": 1,
@@ -268,7 +268,7 @@
         {
           "p": 1,
           "f": "GG_TrackerLab.fuse",
-          "h": "8e3241d6dd074413734f0dffb306074cbeb25a559467e6745c96d8f51bc4dec2"
+          "h": "f8778062219928d292968b833df69effe2572c6a1747c8d7314f5288ea61bd97"
         },
         {
           "p": 3,
@@ -436,12 +436,16 @@
           "h": "508289984c3e21defafdef1d6d04443776ede6215d5106a69abbe807546748dd"
         }
       ],
-      "notes": "New Chroma cover in the Grade header and a new GRADE library icon. The standalone Demist effect is retired (Demist lives inside Grade).",
+      "notes": "Carries the latest Sleuth tracking engine, so updating Chroma never puts an older Sleuth engine back.",
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/color-tools-line-1125.png",
       "tools": [
         "Grade"
       ],
       "history": [
+        {
+          "v": "1.13",
+          "note": "Carries the latest Sleuth tracking engine, so updating Chroma never puts an older Sleuth engine back."
+        },
         {
           "v": "1.12",
           "note": "New Chroma cover in the Grade header and a new GRADE library icon. The standalone Demist effect is retired (Demist lives inside Grade)."
@@ -469,10 +473,6 @@
         {
           "v": "1.6",
           "note": "Grade presets load again on Resolve 21.2: pick a preset, then press Load. Saves keep five backups and your own list comes back after each update."
-        },
-        {
-          "v": "1.5",
-          "note": "Grade presets are safer: every save keeps five backups, a damaged presets file is never overwritten, and your own preset list comes back after each update."
         }
       ]
     },
@@ -2858,7 +2858,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-27T21:21:17.626049Z",
+  "updatedAt": "2026-11-27T21:22:45.845984Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
