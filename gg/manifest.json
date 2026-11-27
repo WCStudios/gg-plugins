@@ -2976,9 +2976,64 @@
       "sha256": "a2bdf0acd8a85b5745b66a3537bdb66c52717c91b85c5e2cbfbdbeb7a044622d",
       "url": "https://github.com/WCStudios/gg-plugins/releases/download/film-burns-1.0/gg-film-burns-1.0.zip",
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
+    },
+    {
+      "id": "flux",
+      "name": "Flux | G&G",
+      "description": "One shape morphing through poses with a riding camera, as a layer or on a clip.",
+      "kind": "Plugins",
+      "category": "Flux",
+      "target": null,
+      "parts": [
+        {
+          "path": "Templates",
+          "target": "edit-effect",
+          "scope": "system"
+        },
+        {
+          "path": "Generators",
+          "target": "edit-generator",
+          "scope": "system"
+        },
+        {
+          "path": "Fuses",
+          "target": "fuse",
+          "scope": "user"
+        }
+      ],
+      "scope": "system",
+      "subfolder": null,
+      "version": "1.0",
+      "size": 78984,
+      "sha256": "da7ead85ce1e02267b1e1d2819bef69e18255e283f9c6a7249436d37c1631347",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/flux-1.0.zip",
+      "files": [
+        {
+          "p": 2,
+          "f": "GG_Flux.fuse",
+          "h": "7225e83499b05b5d0256e8a2633e1e42235be22595f9b776d6efdaab83430481"
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Flux | Grain&Gate/Morph Layer | Flux.setting",
+          "h": "8b9096350ce9b5a2be3d053a6080c7dda007b14dc7679697c9004cfb8a9e2b30"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Flux | Grain&Gate/Morph | Flux.setting",
+          "h": "d19b3fdf407e3db6b8eca1e9e063f6626265f4f379bc2c73ba13b2ec93c8b230"
+        }
+      ],
+      "notes": "Morph Layer | Flux: one shape morphing through poses, as a layer and as an effect.",
+      "history": [
+        {
+          "v": "1.0",
+          "note": "Morph Layer | Flux: one shape morphing through poses, as a layer and as an effect."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-11-27T21:31:35.749239Z",
+  "updatedAt": "2026-11-27T21:33:15.745097Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
