@@ -2752,10 +2752,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.4",
-      "size": 303959,
-      "sha256": "da5f066c2b7221f56892327028978ac79c6345979452e5f47c3b8abc77885070",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/afterlight-1.4.zip",
+      "version": "1.5",
+      "size": 450280,
+      "sha256": "5f40b02ad4a81c515a0ca2984e01a114d02189891b6bffc92e1e88fb3fed2cc4",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/afterlight-1.5.zip",
       "files": [
         {
           "p": 1,
@@ -2810,15 +2810,19 @@
         {
           "p": 0,
           "f": "Grain&Gate/Color Tools | Grain&Gate/Afterlight | G&G.setting",
-          "h": "4db6fe526183bae42f71cef62605ef40faf402e5c07114276539461606221422"
+          "h": "a19b5c6761726b9844cb0cd15dfcbc5dd5ec3fde8521dea365ba8855f94d90ab"
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/afterlight-line-1125.png",
       "tools": [
         "Afterlight"
       ],
-      "notes": "Afterlight gets its own cover in the inspector header (it used to show Chroma's) and a new LIGHT library icon.",
+      "notes": "Afterlight presets as picture cards, with camera presets and the latest fixes.",
       "history": [
+        {
+          "v": "1.5",
+          "note": "Afterlight presets as picture cards, with camera presets and the latest fixes."
+        },
         {
           "v": "1.4",
           "note": "Afterlight gets its own cover in the inspector header (it used to show Chroma's) and a new LIGHT library icon."
@@ -2854,7 +2858,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-27T00:16:52.187953Z",
+  "updatedAt": "2026-11-27T21:21:17.626049Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
