@@ -996,15 +996,25 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.4",
-      "size": 267132,
-      "sha256": "457fdcb41f5811948d874259dc98c3736c328943697be51cee20863f7697e63e",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/shift-1.4.zip",
+      "version": "1.5",
+      "size": 281598,
+      "sha256": "9180ea21a448c71e9e09217590bfa13fdb466d039f6eee243831a1582516a6a2",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/shift-1.5.zip",
       "files": [
         {
           "p": 2,
           "f": "GG_GlitchTL.fuse",
           "h": "b5178b0e3a965cf0aadd6463cab51afd384829ca240efcf9c5d2f4ca0b9649dd"
+        },
+        {
+          "p": 2,
+          "f": "GG_ShiftCam.fuse",
+          "h": "1c83b67a3f768b901191f6a527a7228ac7f8efc25a55db5a2a46469020631d90"
+        },
+        {
+          "p": 2,
+          "f": "GG_ShiftFX.fuse",
+          "h": "0e2f3aae9fcf85a921ca554ecca15b8dea1cd89578b09b20461d5f12ea623f1d"
         },
         {
           "p": 0,
@@ -1072,11 +1082,15 @@
         "Transition Layer",
         "Shift Lab"
       ],
-      "notes": "Transition Lab is now Transition Layer | Shift. Same tool, new name; the old one is removed on update.",
+      "notes": "Transition Layer runs on the new Shift camera engine. Restart Resolve after updating.",
       "requires": [
         "gg-film-burns"
       ],
       "history": [
+        {
+          "v": "1.5",
+          "note": "Transition Layer runs on the new Shift camera engine. Restart Resolve after updating."
+        },
         {
           "v": "1.4",
           "note": "Transition Lab is now Transition Layer | Shift. Same tool, new name; the old one is removed on update."
@@ -2887,7 +2901,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-27T21:24:15.975594Z",
+  "updatedAt": "2026-11-27T21:27:51.109261Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
