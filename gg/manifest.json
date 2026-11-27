@@ -800,9 +800,12 @@
         "Texture",
         "Clips",
         "Background Layer",
+        "Background Layer Engine",
         "Shape Layer",
         "Draw On Layer",
-        "Shadow Layer"
+        "Shadow Layer",
+        "Element Layer",
+        "Elements"
       ],
       "requires": [
         "gg-textures"
@@ -997,7 +1000,9 @@
       "tools": [
         "Camera Layer",
         "Zoom Layer",
-        "Movement Layer"
+        "Movement Layer",
+        "Drift Layer",
+        "Camera Path"
       ],
       "history": [
         {
@@ -1217,7 +1222,8 @@
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/sleuth-line.png",
       "tools": [
-        "Tracker"
+        "Tracker",
+        "Blob Track"
       ],
       "notes": "Tracker 2.34: Patch keeps the source size, follows turns and regrains, and the Patch overlay comes from the widget. New: Blob Track. Restart Resolve after updating.",
       "history": [
@@ -3030,10 +3036,15 @@
           "v": "1.0",
           "note": "Morph Layer | Flux: one shape morphing through poses, as a layer and as an effect."
         }
-      ]
+      ],
+      "tools": [
+        "Morph Layer",
+        "Morph"
+      ],
+      "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/flux-line-1127.png"
     }
   ],
-  "updatedAt": "2026-11-27T21:33:15.745097Z",
+  "updatedAt": "2026-11-27T21:35:57.756163Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
