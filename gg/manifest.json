@@ -502,10 +502,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.4",
-      "size": 59471991,
-      "sha256": "9e62209c06a44f1bba49fa145912f141afc28afedd7e86e75145b7c64970dda5",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/utilities-1.4.zip",
+      "version": "1.5",
+      "size": 59742786,
+      "sha256": "1044502776074c496eec8a35afaa6008d8e0f55d67bf655c6e696c896a352c25",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/utilities-1.5.zip",
       "files": [
         {
           "p": 2,
@@ -695,7 +695,7 @@
         {
           "p": 1,
           "f": "Grain&Gate/Utilities | Grain&Gate/Shape Layer | G&G.setting",
-          "h": "b3b6d7c64ed58cf876c338f79d5d2b6e3dc60b9392528222f92084c15d892b7f"
+          "h": "64581aff9b9bea0f8de1483900ff17b0a22a18b3cd3dd54a564cfd8922ce4a62"
         },
         {
           "p": 0,
@@ -786,6 +786,11 @@
           "p": 0,
           "f": "Grain&Gate/Utilities | Grain&Gate/Texture | G&G.setting",
           "h": null
+        },
+        {
+          "p": 2,
+          "f": "GG_ShapeCore.fuse",
+          "h": "22c8f632c3740c8aa18d3d87e473a90d5d56f4c8dc2eb68f6d6ae6ab06714191"
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/utilities-line-1125.png",
@@ -810,8 +815,12 @@
       "requires": [
         "gg-textures"
       ],
-      "notes": "Animate with Start, Mid and End presets on picture cards, Frames 1.14, and Background Layer Engine 1.16 with baked Tech elements and new Cutting Mat looks. New: Element Layer and Elements. Restart Resolve after updating.",
+      "notes": "Shape Layer 2.0: rebuilt on its own GPU engine. Nine shape presets as picture cards (circle to burst), box, polygon and star shapes, Solid / Gradient / Clip Below fill, Stroke, Drop Shadow, Long Shadow, Glow and Inner Shade, Animate In / Out, Morph to any shape and Move, each with its own timing, plus Motion Blur, Shake, Rough Edge, Halftone and Grain. Restart Resolve after updating.",
       "history": [
+        {
+          "v": "1.5",
+          "note": "Shape Layer 2.0: rebuilt on its own GPU engine. Nine shape presets as picture cards (circle to burst), box, polygon and star shapes, Solid / Gradient / Clip Below fill, Stroke, Drop Shadow, Long Shadow, Glow and Inner Shade, Animate In / Out, Morph to any shape and Move, each with its own timing, plus Motion Blur, Shake, Rough Edge, Halftone and Grain. Restart Resolve after updating."
+        },
         {
           "v": "1.4",
           "note": "Animate with Start, Mid and End presets on picture cards, Frames 1.14, and Background Layer Engine 1.16 with baked Tech elements and new Cutting Mat looks. New: Element Layer and Elements. Restart Resolve after updating."
@@ -3044,7 +3053,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/flux-line-1127.png"
     }
   ],
-  "updatedAt": "2026-11-27T21:35:57.756163Z",
+  "updatedAt": "2026-11-27T21:50:07.018851Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
