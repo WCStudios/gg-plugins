@@ -502,15 +502,20 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.3",
-      "size": 58751992,
-      "sha256": "c65fd4be465dd782304373286845d9e1a6aba273868f8083e7a70eee56aeee07",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/utilities-1.3.zip",
+      "version": "1.4",
+      "size": 59471991,
+      "sha256": "9e62209c06a44f1bba49fa145912f141afc28afedd7e86e75145b7c64970dda5",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/utilities-1.4.zip",
       "files": [
         {
           "p": 2,
           "f": "GG_AnimatePro.fuse",
           "h": "77f751ba04d292e5d546970e40f375b2925743b67104482809884ed990d6600f"
+        },
+        {
+          "p": 2,
+          "f": "GG_AnimatePro2.fuse",
+          "h": "cef15ced7a2ec601398b0fd3115e2e8d82f4527e6e873f76fde76558cd60d556"
         },
         {
           "p": 2,
@@ -520,12 +525,32 @@
         {
           "p": 2,
           "f": "GG_FrameLab.fuse",
-          "h": "2fd616547366bd2804c43158874d6c36a41f13fbd9232fb0d67fbb6164d110b3"
+          "h": "35d9cc5335973831ec69f16ec9a59002b77bcbf5bafa58773053ab5c818e2f28"
+        },
+        {
+          "p": 2,
+          "f": "GG_GxPlate.fuse",
+          "h": "57783135a0b313f194b71e58cbc33c41ea7f1d101ad24eff09ee0b06324ce6e4"
+        },
+        {
+          "p": 2,
+          "f": "GG_Marks.fuse",
+          "h": "4e1bdaacd6fc85dd372e572f2b2156df0e12d7486ff1dab0388c23ecac2e55f5"
         },
         {
           "p": 2,
           "f": "GG_MaskCore.fuse",
           "h": "b1bd753af642010b57ab9ddb1cab476f2f968bd4b8a83598e7a42c4db75bd8e0"
+        },
+        {
+          "p": 2,
+          "f": "GG_MatPlate.fuse",
+          "h": "60fd9fcae6c90b8b26934792d1467db0631a0ea690178c38b04e1c3cb6b4c560"
+        },
+        {
+          "p": 2,
+          "f": "GG_MinPlate.fuse",
+          "h": "e5cfd1adc8ee14d5d602a0693d8644233452be4822352a672cbffce918afca50"
         },
         {
           "p": 2,
@@ -550,7 +575,7 @@
         {
           "p": 1,
           "f": "Grain&Gate/Utilities | Grain&Gate/Background Layer Engine (Beta) | G&G.setting",
-          "h": "a20c5df7c2ac2419027d36f2ebe947834a50b8f4843fa8f6c78b963c5b8b6668"
+          "h": "2b50fd2fcfa427246ee36dfd44367b7225aa798e7c68779e1539f19453272708"
         },
         {
           "p": 1,
@@ -571,6 +596,16 @@
           "p": 1,
           "f": "Grain&Gate/Utilities | Grain&Gate/Draw On Layer | G&G.setting",
           "h": "0da0a2aeb661a5883f872744ffaa8ed6e6a014c349ab120166277daa96a0e6ba"
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Element Layer | G&G.png",
+          "h": null
+        },
+        {
+          "p": 1,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Element Layer | G&G.setting",
+          "h": "71d6e52e61dd1e410be6b8b5dd56ebe2d410f40b6b8af7ba587f781c5a43459e"
         },
         {
           "p": 1,
@@ -670,7 +705,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Utilities | Grain&Gate/Animate | G&G.setting",
-          "h": "71f0d371123a17f121795437e168c852bb318eba75c88a362f134080d8cce965"
+          "h": "1e7e9b5c1be06abedd530bb4eaa43ddafab1592855e7189d68d13dbd16da201e"
         },
         {
           "p": 0,
@@ -694,13 +729,23 @@
         },
         {
           "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Elements | G&G.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Utilities | Grain&Gate/Elements | G&G.setting",
+          "h": "eede4ea767e86782da65c641ef2c10f053f4b4039e6970ceb68ee926ff05e174"
+        },
+        {
+          "p": 0,
           "f": "Grain&Gate/Utilities | Grain&Gate/Frames | G&G.png",
           "h": null
         },
         {
           "p": 0,
           "f": "Grain&Gate/Utilities | Grain&Gate/Frames | G&G.setting",
-          "h": "d6fc23827c817855fb88410106b250b9d113bee22dcc285905985cfe0a219a2c"
+          "h": "942f0cc0a6503ee60afc3f3a73fd5c97191a3400364483a7346749f2f8565f8f"
         },
         {
           "p": 0,
@@ -762,8 +807,12 @@
       "requires": [
         "gg-textures"
       ],
-      "notes": "New Utilities cover in the inspector header.",
+      "notes": "Animate with Start, Mid and End presets on picture cards, Frames 1.14, and Background Layer Engine 1.16 with baked Tech elements and new Cutting Mat looks. New: Element Layer and Elements. Restart Resolve after updating.",
       "history": [
+        {
+          "v": "1.4",
+          "note": "Animate with Start, Mid and End presets on picture cards, Frames 1.14, and Background Layer Engine 1.16 with baked Tech elements and new Cutting Mat looks. New: Element Layer and Elements. Restart Resolve after updating."
+        },
         {
           "v": "1.3",
           "note": "New Utilities cover in the inspector header."
@@ -2929,7 +2978,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-27T21:30:09.153540Z",
+  "updatedAt": "2026-11-27T21:31:35.749239Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
