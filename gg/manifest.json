@@ -873,10 +873,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.3",
-      "size": 436734,
-      "sha256": "a57e5881ae9364a7c14e2ed033d2f4c91d3985c087771c6493c1e00b371fe4a6",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/drift-1.3.zip",
+      "version": "1.4",
+      "size": 1028238,
+      "sha256": "cebdf06a83644ad9d06386a4922dc50c637ffd5387376f55b2784d942c83b189",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/drift-1.4.zip",
       "files": [
         {
           "p": 1,
@@ -889,6 +889,11 @@
           "h": "81e582726ec0fee24ebf2693a34b07c46e07c07eae328a2217978dc83db3d00f"
         },
         {
+          "p": 1,
+          "f": "GG_Drift.fuse",
+          "h": "831a1d0166628008ec6676d6611fee23c517421597c95642072fcf0a315f6e7f"
+        },
+        {
           "p": 0,
           "f": "Grain&Gate/Drift | Grain&Gate/Camera Layer | Drift.png",
           "h": null
@@ -896,7 +901,27 @@
         {
           "p": 0,
           "f": "Grain&Gate/Drift | Grain&Gate/Camera Layer | Drift.setting",
-          "h": "a93765de98eef7246faf7039f44468aecf2174c592619e9a62483b65596175b9"
+          "h": "0f754b3727295495f52daa9b85294608b60dfd52cd9a4e6ddbed8f2d410390c2"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Drift | Grain&Gate/Camera Path | Drift.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Drift | Grain&Gate/Camera Path | Drift.setting",
+          "h": "298351220b6a23f992d85050962ef577e55ce18efb51280a8ca4a0142daa5e8b"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Drift | Grain&Gate/Drift Layer | Drift.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Drift | Grain&Gate/Drift Layer | Drift.setting",
+          "h": "392be119e85c95f7b7af9ca455d03b3956cf8db4264f63b843a2024e36f6a31b"
         },
         {
           "p": 0,
@@ -927,6 +952,10 @@
       ],
       "history": [
         {
+          "v": "1.4",
+          "note": "New: Drift Layer and Camera Path. Camera Layer pan and tilt presets retuned. Restart Resolve after updating."
+        },
+        {
           "v": "1.3",
           "note": "New Drift cover in the inspector header and new library icons (CAMERA, MOVE, ZOOM)."
         },
@@ -939,7 +968,7 @@
           "note": "Camera Layer: Fine Tune delays for zoom, position and the three rotations."
         }
       ],
-      "notes": "New Drift cover in the inspector header and new library icons (CAMERA, MOVE, ZOOM)."
+      "notes": "New: Drift Layer and Camera Path. Camera Layer pan and tilt presets retuned. Restart Resolve after updating."
     },
     {
       "id": "shift",
@@ -2858,7 +2887,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-27T21:22:45.845984Z",
+  "updatedAt": "2026-11-27T21:24:15.975594Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
