@@ -1219,15 +1219,20 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.4",
-      "size": 257440,
-      "sha256": "35cf9c933182750f47596315340aed2088f72567256b417b64120f5e10700a00",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/trace-1.4.zip",
+      "version": "1.5",
+      "size": 763881,
+      "sha256": "cb03d747dcf639737d81d579782e0a68eb65f3f3ebfce7cee907d5a44a78c1f4",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/trace-1.5.zip",
       "files": [
         {
           "p": 1,
           "f": "GG_Trace.fuse",
           "h": "2350b4b564a21d325c1f077b42c6de7bee126f2d4ae34f453c80065ac7971473"
+        },
+        {
+          "p": 1,
+          "f": "GG_Trace3D.fuse",
+          "h": "ed8397881c331593834d058ceddd192acdf1484ca5d161518eb6f1652008f04e"
         },
         {
           "p": 0,
@@ -1237,15 +1242,19 @@
         {
           "p": 0,
           "f": "Grain&Gate/Trace | Grain&Gate/Trace | G&G.setting",
-          "h": "a915cfbe73bc5f99051a2b5a111db85217c3309f3910f48f2ea98ab28edec280"
+          "h": "571ec9e93e5f626976c825da54d0877f492cd93aff2427532f43a1e1387ec7ca"
         }
       ],
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/trace-line-1125.png",
       "tools": [
         "Trace"
       ],
-      "notes": "New Trace cover in the inspector header and a new TRACE library icon.",
+      "notes": "Trace 2.03: 2D and 3D in one effect with Style, Camera, Motion and Effects tabs, Image Plane, Section boxes and one Animate control. Restart Resolve after updating.",
       "history": [
+        {
+          "v": "1.5",
+          "note": "Trace 2.03: 2D and 3D in one effect with Style, Camera, Motion and Effects tabs, Image Plane, Section boxes and one Animate control. Restart Resolve after updating."
+        },
         {
           "v": "1.4",
           "note": "New Trace cover in the inspector header and a new TRACE library icon."
@@ -2920,7 +2929,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/gg-film-burns-cover.png"
     }
   ],
-  "updatedAt": "2026-11-27T21:28:39.613674Z",
+  "updatedAt": "2026-11-27T21:30:09.153540Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
