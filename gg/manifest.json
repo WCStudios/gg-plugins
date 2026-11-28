@@ -1632,6 +1632,7 @@
         "Lists",
         "Titles",
         "Subtitle",
+        "Hooks",
         "Counter",
         "Scramble",
         "Word Pop Subtitle"
@@ -3102,7 +3103,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/flux-line-1127.png"
     }
   ],
-  "updatedAt": "2026-11-28T03:44:29.679899Z",
+  "updatedAt": "2026-11-28T03:46:11.051274Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
