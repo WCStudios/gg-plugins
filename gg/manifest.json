@@ -1503,10 +1503,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.7",
-      "size": 1128985,
-      "sha256": "366e2c879048f5580c07352bd033993d3f7a9d57e0990edd11cae0556400f33e",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-tools-1.7.zip",
+      "version": "1.8",
+      "size": 1129068,
+      "sha256": "b982bc4af7c16bde1bbc22ae3dd179f4fcbda1e5f94056dcb9f655d31efe0537",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-tools-1.8.zip",
       "files": [
         {
           "p": 1,
@@ -1551,7 +1551,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Subtitles - Grain&Gate/Subtitle | Cipher.setting",
-          "h": "9cdb48e02c6e24998d734b6aa5fe3b3aaa966ad0c5af9ee723db638cdae7f73d"
+          "h": "6fe6911b5a1c5b9693ee25d4b87a3d1c3a38a2f2bf01c3dbbbd8f2f6948b1139"
         },
         {
           "p": 0,
@@ -1626,8 +1626,12 @@
         "Scramble",
         "Word Pop Subtitle"
       ],
-      "notes": "Subtitle | Cipher 1.03: new defaults, Anim Length 12 and Animation Speed 8. Includes the 1.02 caption presets on the Motion page.",
+      "notes": "Subtitle | Cipher 1.03: new defaults (Anim Length 12, Animation Speed 8), Highlight preset color delay 5, and Word Sync and Caption Box get the big switch like the other sub-toggles. Includes the 1.02 caption presets on the Motion page.",
       "history": [
+        {
+          "v": "1.8",
+          "note": "Subtitle | Cipher 1.03: new defaults (Anim Length 12, Animation Speed 8), Highlight preset color delay 5, and Word Sync and Caption Box get the big switch like the other sub-toggles. Includes the 1.02 caption presets on the Motion page."
+        },
         {
           "v": "1.7",
           "note": "Subtitle | Cipher 1.03: new defaults, Anim Length 12 and Animation Speed 8. Includes the 1.02 caption presets on the Motion page."
@@ -3088,7 +3092,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/flux-line-1127.png"
     }
   ],
-  "updatedAt": "2026-11-28T02:03:57.371257Z",
+  "updatedAt": "2026-11-28T02:06:44.719459Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
