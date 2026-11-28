@@ -1503,10 +1503,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.8",
-      "size": 1129068,
-      "sha256": "b982bc4af7c16bde1bbc22ae3dd179f4fcbda1e5f94056dcb9f655d31efe0537",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-tools-1.8.zip",
+      "version": "1.9",
+      "size": 1754525,
+      "sha256": "e2c0ad04b5e37ecb996688f30db193bc2047407bea09c3e07d10efef8f8235f1",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-tools-1.9.zip",
       "files": [
         {
           "p": 1,
@@ -1516,7 +1516,7 @@
         {
           "p": 1,
           "f": "GG_CipherCore.fuse",
-          "h": "4211b4e4798e4925be6164d34c4cc6acf39fcb790aaa629c064a2234846c5cb1"
+          "h": "31767a203ab94e9613cc3d5949da620a92c31359d56962738bbee2e496f06b97"
         },
         {
           "p": 1,
@@ -1551,12 +1551,22 @@
         {
           "p": 0,
           "f": "Grain&Gate/Subtitles - Grain&Gate/Subtitle | Cipher.setting",
-          "h": "6fe6911b5a1c5b9693ee25d4b87a3d1c3a38a2f2bf01c3dbbbd8f2f6948b1139"
+          "h": "5cb60328e8d18b873150d366e0d6c81a6e3b6af7268bb13a57cf8346a2dda8f7"
         },
         {
           "p": 0,
           "f": "Grain&Gate/Subtitles - Grain&Gate/TA Word Pop Subtitle.setting",
           "h": "1f72d5e5fecd9c159848407d9a2e0bee50c4a94bc69fb7e59058f0c60567e98a"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/Hooks | Cipher.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Text Tools | Grain&Gate/Hooks | Cipher.setting",
+          "h": "ae32475d272448d1ada95b8face1a28e3bf9efaece7221398534edb5cca2b1a5"
         },
         {
           "p": 0,
@@ -1626,8 +1636,12 @@
         "Scramble",
         "Word Pop Subtitle"
       ],
-      "notes": "Subtitle | Cipher 1.03: new defaults (Anim Length 12, Animation Speed 8), Highlight preset color delay 5, and Word Sync and Caption Box get the big switch like the other sub-toggles. Includes the 1.02 caption presets on the Motion page.",
+      "notes": "New: Hooks | Cipher, 14 creative hook layouts (stacked multi-font type) as picture cards on one MultiText layer, with Tidy Up to restack, align and centre the block after you type your own words. Subtitle | Cipher 1.04: caption emphasis looks in the Text page Presets (Emphasis Yellow, Emphasis Cyan, Serif Accent, Emphasis Stack). GG_CipherCore v7 reports each line baseline so Tidy Up keeps words on one row aligned (restart Resolve after updating).",
       "history": [
+        {
+          "v": "1.9",
+          "note": "New: Hooks | Cipher, 14 creative hook layouts (stacked multi-font type) as picture cards on one MultiText layer, with Tidy Up to restack, align and centre the block after you type your own words. Subtitle | Cipher 1.04: caption emphasis looks in the Text page Presets (Emphasis Yellow, Emphasis Cyan, Serif Accent, Emphasis Stack). GG_CipherCore v7 reports each line baseline so Tidy Up keeps words on one row aligned (restart Resolve after updating)."
+        },
         {
           "v": "1.8",
           "note": "Subtitle | Cipher 1.03: new defaults (Anim Length 12, Animation Speed 8), Highlight preset color delay 5, and Word Sync and Caption Box get the big switch like the other sub-toggles. Includes the 1.02 caption presets on the Motion page."
@@ -1655,10 +1669,6 @@
         {
           "v": "1.2",
           "note": "Text Lab Zoom: new Direction switch (Back | Front) and Zoom Around (Letter | Group | Text | Frame). Group, Text and Frame zoom the text as one piece, so it can push in with a Frame Lab card or a camera move. Existing titles look the same."
-        },
-        {
-          "v": "1.1",
-          "note": "Saved presets are safer: saving can no longer overwrite a presets file it could not read, and five rolling backups are kept. Scramble has a Load button next to User Presets for Resolve 21.2. Preset lists ship clean and your own presets are untouched."
         }
       ]
     },
@@ -3092,7 +3102,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/flux-line-1127.png"
     }
   ],
-  "updatedAt": "2026-11-28T02:06:44.719459Z",
+  "updatedAt": "2026-11-28T03:44:29.679899Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
