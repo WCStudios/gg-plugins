@@ -1503,10 +1503,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.4",
-      "size": 1127991,
-      "sha256": "62b5b5695121c9c97079e1a0b22a780829b6410b8a89a6b35cc0884534e1e17b",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-tools-1.4.zip",
+      "version": "1.5",
+      "size": 1128016,
+      "sha256": "da8e3308ee939ef1c6e7be5442a2afe737ee8b55bc7fb70ed09dc26bcba33bd7",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-tools-1.5.zip",
       "files": [
         {
           "p": 1,
@@ -1551,7 +1551,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Subtitles - Grain&Gate/Subtitle | Cipher.setting",
-          "h": "6dad89cbb18ea19f86524c3356577e6658e88b9647c5e094ff2aeb0e5159852d"
+          "h": "410a63121071ff554432dbef183e39b6c49e64b87ca3b4b89377d0d783a84ad3"
         },
         {
           "p": 0,
@@ -1626,8 +1626,12 @@
         "Scramble",
         "Word Pop Subtitle"
       ],
-      "notes": "New: Subtitle | Cipher. Put it on a subtitle track and every caption gets the Text | Cipher look and motion: same Text, Style and Motion tabs, a Caption Box, Line Length wrapping and Word Sync so words land one by one across each caption.",
+      "notes": "Subtitle | Cipher 1.01: the Text box is full size like Text | Cipher and you can type in it when the title sits on a video track. New drops now come in with Fade and Rise motion and Word Sync on.",
       "history": [
+        {
+          "v": "1.5",
+          "note": "Subtitle | Cipher 1.01: the Text box is full size like Text | Cipher and you can type in it when the title sits on a video track. New drops now come in with Fade and Rise motion and Word Sync on."
+        },
         {
           "v": "1.4",
           "note": "New: Subtitle | Cipher. Put it on a subtitle track and every caption gets the Text | Cipher look and motion: same Text, Style and Motion tabs, a Caption Box, Line Length wrapping and Word Sync so words land one by one across each caption."
@@ -3076,7 +3080,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/flux-line-1127.png"
     }
   ],
-  "updatedAt": "2026-11-28T01:27:20.273854Z",
+  "updatedAt": "2026-11-28T01:32:20.185832Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
