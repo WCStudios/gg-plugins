@@ -502,10 +502,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.6",
-      "size": 59744146,
-      "sha256": "56c642339367e0edca9899cab8d71911a9671c857df4de39dc0d3a6923dcae28",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/utilities-1.6.zip",
+      "version": "1.7",
+      "size": 59742664,
+      "sha256": "1c498c39421b689b53fe200c1d742d10ed2b56e2cfc1a99aeff9ad3c0de14fd5",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/utilities-1.7.zip",
       "files": [
         {
           "p": 2,
@@ -560,7 +560,7 @@
         {
           "p": 2,
           "f": "GG_TechPlate.fuse",
-          "h": "13c22063dba31d578420f96024def38f112f1fb96db0a67ef56fb4767008366a"
+          "h": "f21fce0dd06eccf36a6d89cd03358391002783c544b0448a8243f67d88332dd4"
         },
         {
           "p": 2,
@@ -575,7 +575,7 @@
         {
           "p": 1,
           "f": "Grain&Gate/Utilities | Grain&Gate/Background Layer Engine (Beta) | G&G.setting",
-          "h": "2b50fd2fcfa427246ee36dfd44367b7225aa798e7c68779e1539f19453272708"
+          "h": "eb77e2feb4e66b68e4b526b0e500f42bfcd3fa90d3c983e42d1c9e8d452f2b17"
         },
         {
           "p": 1,
@@ -815,8 +815,12 @@
       "requires": [
         "gg-textures"
       ],
-      "notes": "Frames: new Split type Versions. Stack renders of one clip (ungraded, graded, finished) in a Fusion clip; Frames plays version 1, then wipes through each version to the last, with Keep Playing or Freeze Frame (holds the frame during the wipes and resumes after). Wipes Start, Start Wipes Here, Wipe Length, Hold Each, Wipe Ease; Direction, Order, Slant and Divider apply. Restart Resolve after updating.",
+      "notes": "Background Layer Engine 1.17: the Tech pieces and Tech look controls now live on the Tech engine itself instead of copies on the hub, which removes about 185 expressions from every frame. Same controls, same looks. Restart Resolve after updating.",
       "history": [
+        {
+          "v": "1.7",
+          "note": "Background Layer Engine 1.17: the Tech pieces and Tech look controls now live on the Tech engine itself instead of copies on the hub, which removes about 185 expressions from every frame. Same controls, same looks. Restart Resolve after updating."
+        },
         {
           "v": "1.6",
           "note": "Frames: new Split type Versions. Stack renders of one clip (ungraded, graded, finished) in a Fusion clip; Frames plays version 1, then wipes through each version to the last, with Keep Playing or Freeze Frame (holds the frame during the wipes and resumes after). Wipes Start, Start Wipes Here, Wipe Length, Hold Each, Wipe Ease; Direction, Order, Slant and Divider apply. Restart Resolve after updating."
@@ -3057,7 +3061,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/flux-line-1127.png"
     }
   ],
-  "updatedAt": "2026-11-27T22:11:26.505740Z",
+  "updatedAt": "2026-11-28T00:34:39.547207Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
