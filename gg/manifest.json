@@ -1503,10 +1503,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.3",
-      "size": 945794,
-      "sha256": "1109dc5f2aa48160cf494e35e6bc32e8fff5e11d7b62772f18af674fafabb3bd",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-tools-1.3.zip",
+      "version": "1.4",
+      "size": 1127991,
+      "sha256": "62b5b5695121c9c97079e1a0b22a780829b6410b8a89a6b35cc0884534e1e17b",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-tools-1.4.zip",
       "files": [
         {
           "p": 1,
@@ -1542,6 +1542,16 @@
           "p": 0,
           "f": "Grain&Gate/Presets - Text Lab/Scramble | Text Lab.setting",
           "h": "f2a19c3fd7cbaf95b0edda7fee26e17957293e6c37b9a0b1bc3b13a3d0ab26a6"
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Subtitles - Grain&Gate/Subtitle | Cipher.png",
+          "h": null
+        },
+        {
+          "p": 0,
+          "f": "Grain&Gate/Subtitles - Grain&Gate/Subtitle | Cipher.setting",
+          "h": "6dad89cbb18ea19f86524c3356577e6658e88b9647c5e094ff2aeb0e5159852d"
         },
         {
           "p": 0,
@@ -1615,8 +1625,12 @@
         "Scramble",
         "Word Pop Subtitle"
       ],
-      "notes": "New Cipher names: Text | Cipher (was Text Lab), L3rds | Cipher (was L3rds Lab), Lists | Cipher (was List Lab Engine (Beta)) and Titles | Cipher (was Title Lab Engine (Beta)); MultiText | Cipher is unchanged. Saved presets keep working. The old names are removed on update.",
+      "notes": "New: Subtitle | Cipher. Put it on a subtitle track and every caption gets the Text | Cipher look and motion: same Text, Style and Motion tabs, a Caption Box, Line Length wrapping and Word Sync so words land one by one across each caption.",
       "history": [
+        {
+          "v": "1.4",
+          "note": "New: Subtitle | Cipher. Put it on a subtitle track and every caption gets the Text | Cipher look and motion: same Text, Style and Motion tabs, a Caption Box, Line Length wrapping and Word Sync so words land one by one across each caption."
+        },
         {
           "v": "1.3",
           "note": "New Cipher names: Text | Cipher (was Text Lab), L3rds | Cipher (was L3rds Lab), Lists | Cipher (was List Lab Engine (Beta)) and Titles | Cipher (was Title Lab Engine (Beta)); MultiText | Cipher is unchanged. Saved presets keep working. The old names are removed on update."
@@ -3061,7 +3075,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/flux-line-1127.png"
     }
   ],
-  "updatedAt": "2026-11-28T00:34:39.547207Z",
+  "updatedAt": "2026-11-28T01:25:38.454060Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
