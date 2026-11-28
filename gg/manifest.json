@@ -1503,10 +1503,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.10",
-      "size": 1783725,
-      "sha256": "1c98747095e07890598fd47d117b8d23fb38d03b4d16b93a0f74bd60fb417df7",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-tools-1.10.zip",
+      "version": "1.11",
+      "size": 1788385,
+      "sha256": "3d04af0d083219646e9f0b716b16adfca908748fd9f8bdd9d2601e382a577be5",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-tools-1.11.zip",
       "files": [
         {
           "p": 1,
@@ -1516,7 +1516,7 @@
         {
           "p": 1,
           "f": "GG_CipherCore.fuse",
-          "h": "8f3f0a3ae40b18e7c263be38f6b9674579ac3981d021796f79f487410f26a738"
+          "h": "53a0ba16b06af5871a6ed0b1e364bf73f3d53970b07a26aea43e2c18eacf024b"
         },
         {
           "p": 1,
@@ -1551,7 +1551,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Subtitles - Grain&Gate/Subtitle | Cipher.setting",
-          "h": "59fa2e870a9d9737b061b97d10e227233bc558c24566e1a3e21a49c7ea0c7239"
+          "h": "666a2b0f11e5c155a47dbffdd4d948e134e6216d6fd8bc0a6293c9236aae3a1c"
         },
         {
           "p": 0,
@@ -1566,7 +1566,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Text Tools | Grain&Gate/Hooks | Cipher.setting",
-          "h": "52bfecac3b43dde5cd69c2098a045ac11da5edb0e8f399ad9e63deb74d46261c"
+          "h": "05fc6e4baf4c7b368c22de916d0057e8622e98aecc9b4043db3e488b0a94ee33"
         },
         {
           "p": 0,
@@ -1596,7 +1596,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Text Tools | Grain&Gate/MultiText | Cipher.setting",
-          "h": "96408a92c024d764f5bb7a3648e66676c96d79ac747a86e5d65a4cefb9b3e2b8"
+          "h": "e9250aff305a030765dde5676879ab9f5cf78b2d7ff72dd11f3fba8f7474d28c"
         },
         {
           "p": 0,
@@ -1637,8 +1637,12 @@
         "Scramble",
         "Word Pop Subtitle"
       ],
-      "notes": "Text | Cipher is back to its full version: Gradient, Color Flicker, Sheen, Flip Wave, Echo Wall rows and Fill Wipe return (the 1.3 rename shipped an older engine), plus new Build Centered: animate by word and the line re-centres as each word lands, with a Build Centered motion preset. MultiText | Cipher and Hooks | Cipher get Tight Stack, Lock Up, Match Heights, Pin Left / Center / Right, Tuck In, a 9-point anchor grid with Margin, Platform Safe (TikTok, Reels, Shorts), and a new Design section: Remix, Split Smart, Size Ladder and Brand Kits. Hooks start smaller and without blur. Restart Resolve after updating.",
+      "notes": "Subtitle | Cipher gets a new Caption Style dropdown: 30 one-pick styles that set the look and the animation together (Hormozi Pop, Beast Slam, Karaoke, Highlighter, Neon Glow, Cinematic, Typewriter, Bubble Bounce and more), 12 hook-style caption looks with mixed fonts and sizes per line, and 25 more caption looks including caption boxes (Black, White, Yellow, Pill, Glass), Green and Red Pop, Kicker, Podcast, Serif, Handwritten, Neon and Hollow. MultiText | Cipher and Hooks | Cipher: masks now work per text line instead of masking every line, and the Distribute and Design sections are reorganised into tidy sub-sections. Restart Resolve after updating.",
       "history": [
+        {
+          "v": "1.11",
+          "note": "Subtitle | Cipher gets a new Caption Style dropdown: 30 one-pick styles that set the look and the animation together (Hormozi Pop, Beast Slam, Karaoke, Highlighter, Neon Glow, Cinematic, Typewriter, Bubble Bounce and more), 12 hook-style caption looks with mixed fonts and sizes per line, and 25 more caption looks including caption boxes (Black, White, Yellow, Pill, Glass), Green and Red Pop, Kicker, Podcast, Serif, Handwritten, Neon and Hollow. MultiText | Cipher and Hooks | Cipher: masks now work per text line instead of masking every line, and the Distribute and Design sections are reorganised into tidy sub-sections. Restart Resolve after updating."
+        },
         {
           "v": "1.10",
           "note": "Text | Cipher is back to its full version: Gradient, Color Flicker, Sheen, Flip Wave, Echo Wall rows and Fill Wipe return (the 1.3 rename shipped an older engine), plus new Build Centered: animate by word and the line re-centres as each word lands, with a Build Centered motion preset. MultiText | Cipher and Hooks | Cipher get Tight Stack, Lock Up, Match Heights, Pin Left / Center / Right, Tuck In, a 9-point anchor grid with Margin, Platform Safe (TikTok, Reels, Shorts), and a new Design section: Remix, Split Smart, Size Ladder and Brand Kits. Hooks start smaller and without blur. Restart Resolve after updating."
@@ -1666,10 +1670,6 @@
         {
           "v": "1.4",
           "note": "New: Subtitle | Cipher. Put it on a subtitle track and every caption gets the Text | Cipher look and motion: same Text, Style and Motion tabs, a Caption Box, Line Length wrapping and Word Sync so words land one by one across each caption."
-        },
-        {
-          "v": "1.3",
-          "note": "New Cipher names: Text | Cipher (was Text Lab), L3rds | Cipher (was L3rds Lab), Lists | Cipher (was List Lab Engine (Beta)) and Titles | Cipher (was Title Lab Engine (Beta)); MultiText | Cipher is unchanged. Saved presets keep working. The old names are removed on update."
         }
       ]
     },
@@ -3103,7 +3103,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/flux-line-1127.png"
     }
   ],
-  "updatedAt": "2026-11-28T06:18:49.797841Z",
+  "updatedAt": "2026-11-28T06:22:58.252399Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
