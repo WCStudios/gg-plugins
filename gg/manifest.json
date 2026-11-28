@@ -1503,10 +1503,10 @@
       ],
       "scope": "system",
       "subfolder": null,
-      "version": "1.9",
-      "size": 1754525,
-      "sha256": "e2c0ad04b5e37ecb996688f30db193bc2047407bea09c3e07d10efef8f8235f1",
-      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-tools-1.9.zip",
+      "version": "1.10",
+      "size": 1783725,
+      "sha256": "1c98747095e07890598fd47d117b8d23fb38d03b4d16b93a0f74bd60fb417df7",
+      "url": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/text-tools-1.10.zip",
       "files": [
         {
           "p": 1,
@@ -1516,12 +1516,12 @@
         {
           "p": 1,
           "f": "GG_CipherCore.fuse",
-          "h": "31767a203ab94e9613cc3d5949da620a92c31359d56962738bbee2e496f06b97"
+          "h": "8f3f0a3ae40b18e7c263be38f6b9674579ac3981d021796f79f487410f26a738"
         },
         {
           "p": 1,
           "f": "GG_TextEngine.fuse",
-          "h": "82f94f772ac321328b5f3963d25d5f191309592343c69bd4380733bc0341d99c"
+          "h": "49fcd1023f5cd1cd473cb528e8628ca333b984102a5ef84cd227e22449f7c3fe"
         },
         {
           "p": 0,
@@ -1551,7 +1551,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Subtitles - Grain&Gate/Subtitle | Cipher.setting",
-          "h": "5cb60328e8d18b873150d366e0d6c81a6e3b6af7268bb13a57cf8346a2dda8f7"
+          "h": "59fa2e870a9d9737b061b97d10e227233bc558c24566e1a3e21a49c7ea0c7239"
         },
         {
           "p": 0,
@@ -1566,7 +1566,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Text Tools | Grain&Gate/Hooks | Cipher.setting",
-          "h": "ae32475d272448d1ada95b8face1a28e3bf9efaece7221398534edb5cca2b1a5"
+          "h": "52bfecac3b43dde5cd69c2098a045ac11da5edb0e8f399ad9e63deb74d46261c"
         },
         {
           "p": 0,
@@ -1596,7 +1596,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Text Tools | Grain&Gate/MultiText | Cipher.setting",
-          "h": "49343e6c9c16bbac1d33cedc710058a83f89d9384174b10740812538bc80a1f7"
+          "h": "96408a92c024d764f5bb7a3648e66676c96d79ac747a86e5d65a4cefb9b3e2b8"
         },
         {
           "p": 0,
@@ -1611,7 +1611,7 @@
         {
           "p": 0,
           "f": "Grain&Gate/Text Tools | Grain&Gate/Text | Cipher.setting",
-          "h": "a7fcaf4cd492603408e57d9995b1370cf44a5f89cf4bb58bedc64a90969b246d"
+          "h": "c6a31a85ea00a891ab21efd820dbb22c938cd589e146630cfc0628c74e15b9bd"
         },
         {
           "p": 0,
@@ -1637,8 +1637,12 @@
         "Scramble",
         "Word Pop Subtitle"
       ],
-      "notes": "New: Hooks | Cipher, 14 creative hook layouts (stacked multi-font type) as picture cards on one MultiText layer, with Tidy Up to restack, align and centre the block after you type your own words. Subtitle | Cipher 1.04: caption emphasis looks in the Text page Presets (Emphasis Yellow, Emphasis Cyan, Serif Accent, Emphasis Stack). GG_CipherCore v7 reports each line baseline so Tidy Up keeps words on one row aligned (restart Resolve after updating).",
+      "notes": "Text | Cipher is back to its full version: Gradient, Color Flicker, Sheen, Flip Wave, Echo Wall rows and Fill Wipe return (the 1.3 rename shipped an older engine), plus new Build Centered: animate by word and the line re-centres as each word lands, with a Build Centered motion preset. MultiText | Cipher and Hooks | Cipher get Tight Stack, Lock Up, Match Heights, Pin Left / Center / Right, Tuck In, a 9-point anchor grid with Margin, Platform Safe (TikTok, Reels, Shorts), and a new Design section: Remix, Split Smart, Size Ladder and Brand Kits. Hooks start smaller and without blur. Restart Resolve after updating.",
       "history": [
+        {
+          "v": "1.10",
+          "note": "Text | Cipher is back to its full version: Gradient, Color Flicker, Sheen, Flip Wave, Echo Wall rows and Fill Wipe return (the 1.3 rename shipped an older engine), plus new Build Centered: animate by word and the line re-centres as each word lands, with a Build Centered motion preset. MultiText | Cipher and Hooks | Cipher get Tight Stack, Lock Up, Match Heights, Pin Left / Center / Right, Tuck In, a 9-point anchor grid with Margin, Platform Safe (TikTok, Reels, Shorts), and a new Design section: Remix, Split Smart, Size Ladder and Brand Kits. Hooks start smaller and without blur. Restart Resolve after updating."
+        },
         {
           "v": "1.9",
           "note": "New: Hooks | Cipher, 14 creative hook layouts (stacked multi-font type) as picture cards on one MultiText layer, with Tidy Up to restack, align and centre the block after you type your own words. Subtitle | Cipher 1.04: caption emphasis looks in the Text page Presets (Emphasis Yellow, Emphasis Cyan, Serif Accent, Emphasis Stack). GG_CipherCore v7 reports each line baseline so Tidy Up keeps words on one row aligned (restart Resolve after updating)."
@@ -1666,10 +1670,6 @@
         {
           "v": "1.3",
           "note": "New Cipher names: Text | Cipher (was Text Lab), L3rds | Cipher (was L3rds Lab), Lists | Cipher (was List Lab Engine (Beta)) and Titles | Cipher (was Title Lab Engine (Beta)); MultiText | Cipher is unchanged. Saved presets keep working. The old names are removed on update."
-        },
-        {
-          "v": "1.2",
-          "note": "Text Lab Zoom: new Direction switch (Back | Front) and Zoom Around (Letter | Group | Text | Frame). Group, Text and Frame zoom the text as one piece, so it can push in with a Frame Lab card or a camera move. Existing titles look the same."
         }
       ]
     },
@@ -3103,7 +3103,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/flux-line-1127.png"
     }
   ],
-  "updatedAt": "2026-11-28T03:46:11.051274Z",
+  "updatedAt": "2026-11-28T04:22:50.828095Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
