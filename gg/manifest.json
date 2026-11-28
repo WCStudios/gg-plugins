@@ -1621,6 +1621,7 @@
         "MultiText",
         "Lists",
         "Titles",
+        "Subtitle",
         "Counter",
         "Scramble",
         "Word Pop Subtitle"
@@ -3075,7 +3076,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/flux-line-1127.png"
     }
   ],
-  "updatedAt": "2026-11-28T01:25:38.454060Z",
+  "updatedAt": "2026-11-28T01:27:20.273854Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
