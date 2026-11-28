@@ -15,10 +15,10 @@
       "subfolder": null,
       "arch": "arm64",
       "bundleId": "co.wcstudios.edtlb",
-      "version": "1.0.320",
-      "size": 174860864,
-      "sha256": "ba6fbedd84cc1528f306cba21a8a2f769da6a49078bc2c182903e756de4457a1",
-      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.320.zip",
+      "version": "1.0.321",
+      "size": 174867350,
+      "sha256": "60d8d0ef3b8591977752c1c9eaa307cba43efa5677e54b49fe17fc77be11ef61",
+      "url": "https://github.com/WCStudios/gg-plugins/releases/download/app-edtlb/edtlb-1.0.321.zip",
       "icon": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/icons/edtlb.png",
       "tagline": "DaVinci Resolve companion",
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/edtlb-cover.png"
@@ -3103,7 +3103,7 @@
       "cover": "https://raw.githubusercontent.com/WCStudios/gg-plugins/main/gg/covers/flux-line-1127.png"
     }
   ],
-  "updatedAt": "2026-11-28T06:29:37.308366Z",
+  "updatedAt": "2026-11-28T06:46:31.608285Z",
   "launcher": {
     "version": "0.9.23",
     "notes": "Your own Grade and Text Lab preset lists are put back after every plugin update.",
